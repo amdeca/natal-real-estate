@@ -1,0 +1,2305 @@
+re_type,adv_bed,adv_bath,adv_park,pool,balcony,leisure,secondfloor,adv_size,district,adv_sale
+house,3.0,5.0,2.0,True,False,True,True,300.0,Capim Macio,510000
+house,2.0,1.0,1.0,False,False,True,False,77.0,Planalto,150000
+house,4.0,5.0,4.0,False,True,True,True,240.0,Capim Macio,550000
+house,3.0,3.0,2.0,False,True,True,True,149.0,Ponta Negra,360000
+house,4.0,6.0,2.0,True,True,True,False,210.0,Pitimbu,700000
+house,4.0,6.0,4.0,True,True,True,False,360.0,Ponta Negra,1350000
+house,3.0,2.0,1.0,False,False,False,False,85.0,Cidade Alta,185000
+house,3.0,5.0,4.0,True,True,True,False,234.0,Pitimbu,650000
+house,3.0,3.0,2.0,False,False,True,False,140.0,Pitimbu,255000
+house,4.0,5.0,4.0,True,True,True,False,426.0,Ponta Negra,1500000
+house,2.0,1.0,1.0,False,False,False,False,88.0,Pajucara,48000
+house,4.0,3.0,5.0,True,True,True,False,250.0,Pitimbu,370000
+house,4.0,3.0,2.0,False,True,False,False,195.0,Potengi,150000
+house,4.0,4.0,3.0,False,False,True,False,298.0,Lagoa Nova,450000
+house,3.0,4.0,3.0,False,False,False,False,299.0,Pitimbu,325000
+house,4.0,3.0,1.0,False,False,False,False,356.0,Nova Descoberta,600000
+house,3.0,3.0,2.0,False,True,True,False,258.0,Barro Vermelho,450000
+house,5.0,6.0,4.0,True,True,True,False,210.0,Ponta Negra,850000
+house,3.0,2.0,1.0,False,False,False,False,232.0,Petropolis,900000
+house,3.0,2.0,1.0,True,False,True,False,250.0,Pajucara,130000
+house,4.0,3.0,3.0,True,True,True,False,250.0,Ponta Negra,450000
+house,2.0,2.0,2.0,False,False,False,False,66.0,Pajucara,100000
+house,3.0,3.0,2.0,True,False,True,False,145.0,Neopolis,500000
+house,2.0,1.0,2.0,False,False,False,False,200.0,Potengi,100000
+house,5.0,6.0,2.0,False,True,False,False,455.0,Ponta Negra,1290000
+house,2.0,2.0,2.0,False,False,True,False,76.0,Planalto,150000
+house,3.0,3.0,2.0,False,True,True,False,280.0,Ponta Negra,580000
+house,3.0,3.0,5.0,False,False,True,False,300.0,Barro Vermelho,650000
+house,4.0,3.0,4.0,False,False,False,False,381.0,Pitimbu,600000
+house,3.0,1.0,2.0,False,False,True,False,90.0,Redinha,110000
+house,3.0,3.0,8.0,False,False,True,False,200.0,Capim Macio,450000
+house,2.0,2.0,3.0,False,False,True,False,113.0,Lagoa Nova,265000
+house,3.0,1.0,2.0,True,False,True,False,300.0,Capim Macio,520000
+house,4.0,4.0,4.0,False,True,True,False,150.0,Ponta Negra,244000
+house,3.0,1.0,2.0,False,False,True,False,163.0,Alecrim,240000
+house,8.0,3.0,3.0,False,False,True,False,280.0,Alecrim,190000
+house,3.0,2.0,3.0,True,False,True,False,196.0,Lagoa Nova,310000
+house,3.0,4.0,8.0,False,True,True,False,200.0,Capim Macio,450000
+house,4.0,3.0,3.0,False,False,True,False,358.0,Capim Macio,440000
+house,3.0,2.0,3.0,False,True,False,False,200.0,Ponta Negra,380000
+house,4.0,8.0,5.0,True,True,True,False,539.0,Candelaria,900000
+house,2.0,2.0,1.0,False,False,False,False,60.0,Planalto,153000
+house,3.0,1.0,4.0,True,False,True,False,800.0,Ponta Negra,600000
+house,4.0,4.0,2.0,False,True,True,False,200.0,Lagoa Seca,450000
+house,6.0,7.0,8.0,True,True,True,False,372.0,Candelaria,650000
+house,2.0,2.0,2.0,False,True,True,False,76.0,Planalto,150000
+house,3.0,3.0,3.0,False,True,True,False,152.0,Capim Macio,480000
+house,3.0,2.0,1.0,False,False,True,False,110.0,Potengi,240000
+house,3.0,4.0,8.0,False,False,True,False,200.0,Capim Macio,449000
+house,5.0,3.0,4.0,False,False,True,False,204.0,Candelaria,320000
+house,3.0,1.0,1.0,False,False,True,False,110.0,Petropolis,250000
+house,3.0,2.0,1.0,False,False,False,False,210.0,Neopolis,330000
+house,3.0,2.0,2.0,False,False,False,False,155.0,Lagoa Nova,370000
+house,4.0,5.0,8.0,True,False,True,False,245.0,Ponta Negra,650000
+house,4.0,4.0,10.0,False,False,True,False,406.0,Lagoa Nova,1000000
+house,4.0,4.0,5.0,False,True,True,False,300.0,Tirol,700000
+house,3.0,3.0,4.0,False,False,True,False,250.0,Capim Macio,398000
+house,3.0,3.0,3.0,False,False,False,False,203.0,Lagoa Seca,300000
+house,4.0,3.0,4.0,True,False,True,False,300.0,Capim Macio,800000
+house,5.0,5.0,4.0,True,True,True,False,700.0,Redinha,560000
+house,4.0,4.0,4.0,False,True,True,False,180.0,Neopolis,320000
+house,3.0,2.0,3.0,False,True,True,False,268.0,Nova Descoberta,300000
+house,3.0,4.0,10.0,True,True,True,False,460.0,Lagoa Nova,2000000
+house,3.0,5.0,4.0,False,True,True,False,300.0,Candelaria,500000
+house,2.0,2.0,2.0,False,False,True,False,100.0,Candelaria,257000
+house,3.0,1.0,2.0,False,False,False,False,358.0,Nova Descoberta,550000
+house,3.0,6.0,6.0,True,True,True,False,582.0,Capim Macio,849000
+house,3.0,2.0,1.0,False,False,False,False,99.0,Lagoa Nova,250000
+house,4.0,3.0,3.0,False,True,True,False,200.0,Ponta Negra,350000
+house,4.0,6.0,6.0,True,True,True,False,500.0,Candelaria,999000
+house,4.0,3.0,3.0,False,True,True,False,180.0,Ponta Negra,385000
+house,4.0,4.0,4.0,False,True,True,False,280.0,Neopolis,280000
+house,3.0,2.0,3.0,True,False,True,False,120.0,Pajucara,200000
+house,2.0,2.0,6.0,False,False,True,False,160.0,Pitimbu,340000
+house,3.0,4.0,3.0,False,False,False,False,150.0,Ponta Negra,350000
+house,5.0,3.0,2.0,False,True,True,False,328.0,Tirol,450000
+house,3.0,2.0,2.0,False,False,True,False,177.0,Potengi,269000
+house,3.0,2.0,2.0,False,False,False,False,115.0,Tirol,350000
+house,6.0,7.0,16.0,True,True,True,False,660.0,Ponta Negra,1990000
+house,4.0,3.0,2.0,False,True,True,False,358.0,Capim Macio,439000
+house,4.0,3.0,3.0,True,False,True,False,180.0,Pitimbu,250000
+house,3.0,3.0,3.0,False,False,False,False,200.0,Ponta Negra,400000
+house,3.0,2.0,4.0,False,False,True,False,182.0,Ponta Negra,530000
+house,4.0,4.0,2.0,True,False,True,False,246.0,Capim Macio,530000
+house,3.0,3.0,5.0,True,False,True,False,1010.0,Ponta Negra,3900000
+house,4.0,2.0,1.0,False,True,True,False,170.0,Lagoa Nova,400000
+house,2.0,3.0,2.0,False,False,False,False,68.0,Pajucara,160000
+house,3.0,3.0,2.0,False,True,True,False,78.0,Candelaria,320000
+house,4.0,3.0,2.0,False,False,False,False,260.0,de Nazare,420000
+house,5.0,3.0,13.0,False,True,True,False,412.0,Candelaria,1400000
+house,4.0,3.0,4.0,False,False,True,False,280.0,Barro Vermelho,380000
+house,6.0,6.0,6.0,False,False,False,False,260.0,Ponta Negra,280000
+house,5.0,5.0,10.0,True,True,True,False,900.0,Capim Macio,1500000
+house,4.0,3.0,3.0,False,False,True,False,280.0,Neopolis,390000
+house,5.0,4.0,4.0,True,True,True,False,266.0,Capim Macio,530000
+house,3.0,1.0,1.0,False,False,False,False,140.0,Tirol,359900
+house,3.0,2.0,1.0,False,False,False,False,200.0,Cidade Alta,380000
+house,3.0,3.0,2.0,False,True,False,False,420.0,Capim Macio,520000
+house,4.0,5.0,4.0,False,False,True,False,450.0,Candelaria,650000
+house,4.0,5.0,4.0,True,False,True,False,209.0,Capim Macio,550000
+house,4.0,3.0,4.0,False,False,False,False,291.0,Ponta Negra,669000
+house,5.0,6.0,4.0,True,False,True,False,600.0,Capim Macio,900000
+house,3.0,4.0,2.0,True,False,True,False,500.0,Tirol,1100000
+house,4.0,4.0,2.0,False,False,True,False,240.0,Capim Macio,380000
+house,3.0,5.0,7.0,True,False,True,False,390.0,Candelaria,1000000
+house,5.0,6.0,10.0,False,False,False,False,750.0,Candelaria,1250000
+house,3.0,4.0,5.0,True,False,True,False,300.0,Ponta Negra,580000
+house,4.0,6.0,2.0,True,True,True,False,397.0,Ponta Negra,1200000
+house,5.0,5.0,3.0,False,True,True,False,220.0,Capim Macio,510000
+house,4.0,3.0,5.0,False,False,True,False,260.0,Pitimbu,270000
+house,6.0,4.0,2.0,False,False,True,False,200.0,Lagoa Nova,500000
+house,2.0,2.0,4.0,False,False,True,False,150.0,Planalto,150000
+house,4.0,3.0,2.0,False,True,True,False,148.0,Lagoa Nova,340000
+house,3.0,4.0,2.0,True,False,True,False,200.0,Ponta Negra,390000
+house,4.0,3.0,6.0,False,False,True,False,250.0,Lagoa Nova,450000
+house,3.0,2.0,2.0,False,False,True,False,130.0,Cidade da Esperanca,140000
+house,4.0,4.0,3.0,False,True,True,False,200.0,Pitimbu,282000
+house,5.0,5.0,4.0,False,False,False,False,400.0,Capim Macio,750000
+house,3.0,5.0,4.0,False,False,True,False,300.0,Lagoa Nova,360000
+house,3.0,2.0,4.0,False,False,True,False,120.0,Ponta Negra,300000
+house,3.0,3.0,1.0,False,False,False,False,131.0,Candelaria,349000
+house,4.0,2.0,4.0,False,True,True,False,900.0,Redinha,270000
+house,3.0,3.0,6.0,False,False,False,False,300.0,Lagoa Nova,650000
+house,3.0,3.0,1.0,True,False,True,False,180.0,Ponta Negra,490000
+house,4.0,5.0,4.0,True,True,True,False,600.0,Ponta Negra,1500000
+house,3.0,4.0,3.0,False,False,False,False,150.0,San Vale,430000
+house,8.0,6.0,10.0,False,True,True,False,400.0,Lagoa Nova,2000000
+house,6.0,7.0,6.0,False,False,False,False,490.0,Potengi,600000
+house,4.0,2.0,4.0,False,False,True,False,182.0,Ponta Negra,530000
+house,5.0,3.0,3.0,False,False,True,False,250.0,Ponta Negra,300000
+house,3.0,3.0,1.0,False,False,True,False,121.0,Lagoa Nova,260000
+house,8.0,10.0,3.0,True,True,True,False,704.0,Ponta Negra,845000
+house,3.0,3.0,2.0,False,False,True,False,240.0,Candelaria,310000
+house,2.0,1.0,1.0,False,False,False,False,60.0,Ponta Negra,50000
+house,2.0,2.0,2.0,False,False,False,False,90.0,Planalto,135000
+house,4.0,5.0,1.0,True,True,True,False,330.0,Capim Macio,650000
+house,4.0,2.0,1.0,False,False,True,False,120.0,Candelaria,199999
+house,3.0,5.0,3.0,True,True,True,False,322.0,Ponta Negra,740000
+house,5.0,4.0,8.0,True,True,True,False,500.0,Candelaria,1100000
+house,3.0,2.0,5.0,True,False,True,False,126.0,Lagoa Nova,360000
+house,4.0,4.0,6.0,True,True,True,False,500.0,Candelaria,1100000
+house,4.0,3.0,1.0,False,False,True,False,270.0,Petropolis,430000
+house,3.0,3.0,2.0,False,False,False,False,300.0,Petropolis,320000
+house,4.0,3.0,2.0,True,True,True,False,320.0,Candelaria,550000
+house,4.0,5.0,4.0,True,True,True,False,376.0,Ponta Negra,1500000
+house,3.0,5.0,2.0,False,True,True,False,220.0,Ponta Negra,525000
+house,3.0,3.0,4.0,False,False,True,False,500.0,Ponta Negra,550000
+house,4.0,6.0,6.0,False,False,True,False,400.0,Lagoa Nova,735000
+house,4.0,3.0,4.0,False,False,True,False,223.0,Pitimbu,305000
+house,5.0,4.0,2.0,True,False,True,False,275.0,Capim Macio,600000
+house,3.0,3.0,2.0,False,False,True,False,170.0,Pitimbu,310000
+house,3.0,4.0,2.0,False,False,True,False,249.0,Pitimbu,329900
+house,5.0,5.0,3.0,False,False,True,False,240.0,Cidade Alta,280000
+house,4.0,4.0,2.0,False,True,True,False,518.0,Ponta Negra,350000
+house,2.0,2.0,3.0,False,False,True,False,100.0,Ponta Negra,390000
+house,4.0,4.0,4.0,False,False,True,False,200.0,Lagoa Nova,350000
+house,3.0,4.0,4.0,False,False,False,False,180.0,Lagoa Nova,370000
+house,4.0,4.0,2.0,True,False,True,False,200.0,Ponta Negra,365000
+house,3.0,1.0,1.0,False,False,False,False,109.0,Pajucara,200000
+house,4.0,4.0,4.0,False,False,False,False,300.0,Lagoa Nova,670000
+house,4.0,6.0,5.0,False,False,False,False,369.0,Lagoa Nova,570000
+house,3.0,3.0,5.0,False,False,True,False,150.0,Ponta Negra,320000
+house,3.0,3.0,1.0,False,False,True,False,171.0,Neopolis,210000
+house,2.0,2.0,1.0,True,False,True,False,64.0,Planalto,165000
+house,2.0,1.0,1.0,False,False,True,False,120.0,Nossa Senhora da Apresentacao,95000
+house,3.0,1.0,2.0,False,False,True,False,120.0,Pitimbu,259900
+house,3.0,2.0,1.0,False,False,True,False,283.0,Nossa Senhora da Apresentacao,90000
+house,3.0,3.0,2.0,True,False,False,False,200.0,Barro Vermelho,450000
+house,3.0,3.0,3.0,True,False,True,False,200.0,Ponta Negra,575000
+house,3.0,2.0,1.0,True,False,True,False,102.0,Planalto,220000
+house,2.0,2.0,1.0,True,False,True,False,62.0,Igapo,122000
+house,3.0,1.0,1.0,False,False,False,False,150.0,Cidade Alta,200000
+house,6.0,6.0,6.0,False,False,True,False,500.0,Lagoa Nova,950000
+house,2.0,2.0,2.0,False,False,True,False,72.0,Cidade Jardim,110000
+house,4.0,3.0,1.0,False,False,False,False,100.0,Ponta Negra,750000
+house,4.0,2.0,2.0,False,True,True,False,188.0,Lagoa Nova,470000
+house,4.0,6.0,4.0,False,False,False,False,316.0,Candelaria,650000
+house,4.0,4.0,4.0,False,False,True,False,350.0,Nova Descoberta,600000
+house,5.0,5.0,20.0,False,False,True,False,350.0,Pajucara,300000
+house,5.0,4.0,1.0,False,False,False,False,200.0,Cidade Alta,480000
+house,4.0,4.0,3.0,False,False,True,False,180.0,Candelaria,300000
+house,3.0,2.0,2.0,False,False,True,False,200.0,Alecrim,350000
+house,6.0,8.0,3.0,False,False,True,False,300.0,Neopolis,480000
+house,4.0,5.0,4.0,False,True,True,False,268.0,Ponta Negra,650000
+house,4.0,3.0,2.0,False,True,True,False,250.0,Capim Macio,550000
+house,5.0,5.0,6.0,True,True,True,False,500.0,Candelaria,1100000
+house,2.0,2.0,1.0,True,False,True,False,61.0,Planalto,169900
+house,7.0,4.0,2.0,False,False,False,False,350.0,Candelaria,500000
+house,4.0,5.0,4.0,True,False,True,False,262.0,Ponta Negra,680000
+house,2.0,3.0,7.0,False,True,True,False,164.0,Ponta Negra,290000
+house,5.0,4.0,4.0,False,False,True,False,169.0,Lagoa Nova,420000
+house,4.0,3.0,3.0,False,False,True,False,280.0,Alecrim,450000
+house,4.0,5.0,4.0,False,True,False,False,263.0,Capim Macio,590000
+house,3.0,5.0,2.0,False,False,False,False,230.0,Lagoa Nova,380000
+house,3.0,2.0,1.0,False,False,True,False,170.0,Capim Macio,294000
+house,4.0,4.0,3.0,False,False,True,False,240.0,Lagoa Nova,380000
+house,4.0,3.0,2.0,False,False,False,False,280.0,Lagoa Seca,250000
+house,7.0,2.0,5.0,False,False,True,False,250.0,Redinha,135000
+house,3.0,3.0,2.0,False,False,True,False,100.0,Cidade Alta,160000
+house,5.0,6.0,1.0,True,False,True,False,500.0,Ponta Negra,5200000
+house,4.0,5.0,6.0,False,False,True,False,308.0,Lagoa Nova,580000
+house,3.0,3.0,4.0,False,False,False,False,200.0,Candelaria,244000
+house,4.0,5.0,5.0,False,False,False,False,300.0,Lagoa Nova,700000
+house,4.0,1.0,2.0,False,False,True,False,190.0,Candelaria,300000
+house,2.0,2.0,3.0,False,False,False,False,120.0,Pitimbu,180000
+house,1.0,1.0,1.0,False,False,False,False,40.0,Ponta Negra,350000
+house,3.0,2.0,2.0,True,False,True,False,180.0,Neopolis,330000
+house,3.0,3.0,2.0,True,False,True,False,360.0,Candelaria,400000
+house,3.0,1.0,1.0,False,False,False,False,100.0,Cidade Alta,150000
+house,4.0,2.0,2.0,False,True,True,False,210.0,Capim Macio,420000
+house,3.0,2.0,1.0,False,False,True,False,250.0,Lagoa Nova,400000
+house,3.0,5.0,4.0,True,False,True,False,274.0,Capim Macio,450000
+house,3.0,5.0,4.0,True,True,True,False,320.0,Ponta Negra,1800000
+house,3.0,2.0,5.0,False,False,True,False,470.0,Lagoa Nova,360000
+house,3.0,6.0,5.0,False,True,True,False,270.0,Neopolis,500000
+house,3.0,4.0,4.0,True,True,True,False,219.0,Capim Macio,600000
+house,3.0,4.0,4.0,False,False,False,False,227.0,Lagoa Nova,500000
+house,3.0,4.0,2.0,False,False,True,False,162.0,Barro Vermelho,400000
+house,3.0,1.0,1.0,False,False,False,False,240.0,Candelaria,270000
+house,4.0,4.0,4.0,False,False,False,False,300.0,Lagoa Nova,650000
+house,5.0,4.0,5.0,True,False,True,False,265.0,Lagoa Nova,450000
+house,4.0,6.0,6.0,True,False,True,False,235.0,Lagoa Nova,530000
+house,3.0,3.0,4.0,True,False,True,False,230.0,San Vale,550000
+house,5.0,6.0,10.0,False,False,False,False,275.0,Lagoa Nova,1050000
+house,4.0,4.0,3.0,False,True,True,False,180.0,Candelaria,300000
+house,3.0,3.0,2.0,False,False,True,False,160.0,Alecrim,500000
+house,3.0,4.0,4.0,True,True,True,False,255.0,Ponta Negra,490000
+house,3.0,1.0,4.0,False,False,True,False,100.0,Candelaria,220000
+house,4.0,5.0,4.0,False,True,True,False,263.0,Capim Macio,590000
+house,3.0,5.0,3.0,False,True,True,False,257.0,Capim Macio,599000
+house,4.0,3.0,1.0,False,False,False,False,275.0,Petropolis,600000
+house,5.0,6.0,1.0,False,False,False,False,321.0,Neopolis,500000
+house,4.0,5.0,3.0,False,False,True,False,237.0,Capim Macio,590000
+house,2.0,2.0,1.0,False,False,False,False,58.0,PARNAMIRIM,99980
+house,3.0,2.0,2.0,False,True,True,False,150.0,Cidade Alta,320000
+house,4.0,5.0,3.0,True,False,True,False,442.0,Ponta Negra,1700000
+house,4.0,4.0,4.0,False,False,True,False,430.0,Pitimbu,400000
+house,4.0,6.0,2.0,True,True,True,False,370.0,Candelaria,1150000
+house,3.0,2.0,2.0,False,False,False,False,160.0,de Nazare,370000
+house,3.0,3.0,1.0,False,False,False,False,180.0,Tirol,343000
+house,3.0,4.0,2.0,True,False,True,False,200.0,Ponta Negra,390000
+house,4.0,4.0,4.0,False,False,True,False,287.0,Lagoa Nova,450000
+house,4.0,2.0,6.0,False,False,True,False,238.0,Ponta Negra,350000
+house,3.0,2.0,3.0,False,False,True,False,168.0,Nossa Senhora da Apresentacao,220000
+house,4.0,5.0,4.0,True,False,True,False,300.0,Capim Macio,615000
+house,3.0,1.0,3.0,True,False,True,False,170.0,Nova Descoberta,450000
+house,3.0,3.0,6.0,False,False,True,False,180.0,Ponta Negra,425000
+house,2.0,1.0,2.0,False,True,False,False,116.0,sept Rosado,200000
+house,3.0,4.0,4.0,False,False,False,False,300.0,Lagoa Nova,420000
+house,3.0,4.0,8.0,True,True,True,False,160.0,Redinha,290000
+house,1.0,1.0,4.0,False,False,False,False,60.0,Ponta Negra,280000
+house,2.0,1.0,1.0,False,False,True,False,75.0,Planalto,100000
+house,3.0,3.0,2.0,True,False,True,False,450.0,Capim Macio,680000
+house,4.0,4.0,2.0,False,False,True,False,210.0,Ponta Negra,540000
+house,3.0,3.0,2.0,True,False,True,False,205.0,Candelaria,450000
+house,3.0,3.0,2.0,False,False,False,False,900.0,Lagoa Nova,2000000
+house,3.0,3.0,4.0,False,False,True,False,150.0,Lagoa Nova,450000
+house,3.0,3.0,3.0,False,False,False,False,250.0,Neopolis,280000
+house,3.0,4.0,3.0,False,False,False,False,258.0,Pitimbu,350000
+house,5.0,1.0,4.0,False,True,False,False,600.0,Redinha,500000
+house,3.0,2.0,4.0,False,False,False,False,200.0,Candelaria,210000
+house,3.0,2.0,2.0,False,False,False,False,120.0,Neopolis,280000
+house,4.0,5.0,6.0,True,False,True,False,261.0,Nova Descoberta,550000
+house,3.0,5.0,4.0,True,False,False,False,300.0,Ponta Negra,750000
+house,5.0,5.0,4.0,False,False,False,False,390.0,Lagoa Nova,600000
+house,3.0,2.0,3.0,False,False,False,False,150.0,Pitimbu,180000
+house,3.0,4.0,2.0,False,True,True,False,315.0,Pitimbu,450000
+house,4.0,3.0,2.0,False,False,True,False,240.0,Lagoa Nova,430000
+house,3.0,3.0,3.0,False,False,False,False,410.0,Lagoa Nova,450000
+house,5.0,1.0,2.0,True,False,True,False,520.0,Barro Vermelho,850000
+house,4.0,4.0,3.0,False,False,True,False,195.0,Pitimbu,350000
+house,3.0,3.0,4.0,False,True,False,False,173.0,Ponta Negra,300000
+house,4.0,5.0,4.0,False,False,True,False,300.0,Ponta Negra,400000
+house,3.0,2.0,2.0,False,False,True,False,107.0,Lagoa Nova,300000
+house,4.0,3.0,3.0,True,False,True,False,400.0,Ponta Negra,750000
+house,3.0,4.0,2.0,True,False,True,False,230.0,Capim Macio,550000
+house,3.0,3.0,2.0,False,False,True,False,185.0,Neopolis,339000
+house,3.0,3.0,4.0,False,False,True,False,268.0,Capim Macio,700000
+house,3.0,4.0,2.0,True,True,True,False,234.0,Pitimbu,600000
+house,3.0,2.0,2.0,False,False,False,False,175.0,Capim Macio,295000
+house,5.0,4.0,2.0,False,True,True,False,260.0,Candelaria,340000
+house,4.0,5.0,3.0,False,False,False,False,194.0,Capim Macio,498000
+house,3.0,2.0,2.0,False,True,False,False,200.0,Lagoa Nova,280000
+house,3.0,4.0,4.0,True,True,True,False,200.0,Pitimbu,330000
+house,3.0,1.0,3.0,True,True,True,False,44067.0,Ponta Negra,1200000
+house,4.0,5.0,3.0,False,True,True,False,450.0,Ponta Negra,499900
+house,3.0,3.0,3.0,True,False,True,False,230.0,Pitimbu,300000
+house,5.0,6.0,12.0,False,True,True,False,250.0,Redinha,320000
+house,4.0,3.0,2.0,False,False,True,False,200.0,de Nazare,330000
+house,4.0,5.0,3.0,True,False,False,False,200.0,Lagoa Nova,480000
+house,4.0,4.0,4.0,True,False,True,False,300.0,PARNAMIRIM,590000
+house,3.0,5.0,4.0,True,False,True,False,186.0,Capim Macio,599900
+house,3.0,4.0,3.0,False,False,False,False,250.0,Neopolis,350000
+house,3.0,3.0,1.0,False,False,True,False,108.0,Petropolis,400000
+house,3.0,3.0,1.0,False,False,False,False,135.0,Barro Vermelho,380000
+house,4.0,3.0,2.0,False,False,False,False,160.0,Lagoa Nova,345000
+house,3.0,2.0,2.0,True,True,True,False,200.0,Capim Macio,440000
+house,3.0,1.0,1.0,True,False,True,False,214.0,Neopolis,410000
+house,3.0,1.0,1.0,False,False,True,False,180.0,Planalto,150000
+house,3.0,1.0,1.0,False,False,False,False,230.0,Neopolis,250000
+house,3.0,1.0,1.0,False,False,True,False,117.0,Lagoa Nova,280000
+house,3.0,3.0,5.0,True,False,True,False,220.0,Capim Macio,480000
+house,3.0,3.0,3.0,False,False,True,False,200.0,Neopolis,280000
+house,3.0,4.0,2.0,False,True,True,False,210.0,Potengi,350000
+house,3.0,3.0,2.0,False,False,False,False,268.0,Capim Macio,549000
+house,3.0,1.0,3.0,False,False,True,False,150.0,sept Rosado,290000
+house,3.0,2.0,1.0,False,False,False,False,285.0,Lagoa Nova,350000
+house,3.0,4.0,5.0,True,True,True,False,223.0,Capim Macio,570000
+house,2.0,2.0,2.0,False,False,True,False,68.0,Planalto,115000
+house,3.0,3.0,1.0,False,False,True,False,217.0,Pitimbu,250000
+house,3.0,2.0,2.0,False,False,False,False,120.0,Ponta Negra,380000
+house,3.0,2.0,1.0,False,False,True,False,240.0,Candelaria,630000
+house,4.0,3.0,3.0,True,True,True,False,350.0,Ponta Negra,800000
+house,5.0,4.0,4.0,True,False,True,False,250.0,Lagoa Nova,349000
+house,5.0,6.0,4.0,False,False,False,False,420.0,Pitimbu,980000
+house,6.0,1.0,4.0,False,False,False,False,540.0,Capim Macio,1290000
+house,3.0,2.0,1.0,False,False,False,False,105.0,Capim Macio,260000
+house,4.0,2.0,3.0,True,True,True,False,290.0,Neopolis,500000
+house,4.0,6.0,4.0,True,False,True,False,300.0,Candelaria,550000
+house,3.0,1.0,2.0,False,False,True,False,240.0,Neopolis,290000
+house,5.0,4.0,11.0,True,True,True,False,600.0,Ponta Negra,885000
+house,3.0,3.0,2.0,False,True,True,False,160.0,Lagoa Seca,700000
+house,3.0,1.0,3.0,False,False,True,False,200.0,Lagoa Nova,420000
+house,3.0,1.0,4.0,False,False,False,False,240.0,Ponta Negra,500000
+house,3.0,1.0,2.0,False,False,True,False,150.0,Capim Macio,329000
+house,5.0,5.0,8.0,True,True,True,False,280.0,Capim Macio,645000
+house,6.0,6.0,4.0,False,True,True,False,325.0,Ponta Negra,550000
+house,4.0,4.0,3.0,False,False,False,False,250.0,Capim Macio,350000
+house,4.0,3.0,4.0,True,False,True,False,450.0,Capim Macio,500000
+house,3.0,2.0,3.0,False,True,True,False,171.0,Ponta Negra,430000
+house,3.0,1.0,2.0,False,False,False,False,240.0,Candelaria,350000
+house,3.0,1.0,3.0,False,False,True,False,220.0,Lagoa Nova,380000
+house,3.0,4.0,3.0,False,False,False,False,390.0,Lagoa Nova,450000
+house,5.0,4.0,2.0,False,False,False,False,37087.0,Lagoa Nova,420000
+house,3.0,2.0,1.0,False,False,False,False,75.0,Potengi,150000
+house,3.0,3.0,2.0,False,False,True,False,153.0,Lagoa Nova,265000
+house,4.0,3.0,4.0,False,False,True,False,300.0,Lagoa Nova,290000
+house,2.0,2.0,2.0,False,False,False,False,75.0,Planalto,150000
+house,3.0,3.0,1.0,False,False,False,False,105.0,Alecrim,350000
+house,3.0,2.0,2.0,False,True,True,False,120.0,Ponta Negra,300000
+house,6.0,6.0,2.0,True,False,True,False,460.0,Capim Macio,850000
+house,3.0,3.0,4.0,False,False,True,False,222.0,Candelaria,409000
+house,3.0,3.0,1.0,False,False,True,False,195.0,Alecrim,400000
+house,2.0,1.0,4.0,False,False,True,False,85.0,Planalto,175000
+house,3.0,4.0,4.0,False,False,False,False,170.0,Barro Vermelho,370000
+house,2.0,2.0,3.0,False,False,True,False,200.0,Planalto,170000
+house,4.0,3.0,3.0,False,False,True,False,230.0,Candelaria,350000
+house,3.0,3.0,4.0,False,False,True,False,130.0,Ponta Negra,1300000
+house,3.0,6.0,6.0,False,False,True,False,406.0,Lagoa Nova,950000
+house,3.0,3.0,3.0,False,False,True,False,177.0,Lagoa Nova,350000
+house,3.0,1.0,2.0,True,False,True,False,219.0,Neopolis,350000
+house,3.0,4.0,2.0,False,False,False,False,187.0,Tirol,272000
+house,3.0,1.0,1.0,False,False,True,False,70.0,Ponta Negra,289000
+house,3.0,2.0,2.0,False,False,True,False,144.0,Ponta Negra,349000
+house,4.0,5.0,4.0,True,True,True,False,450.0,Lagoa Nova,800000
+house,3.0,4.0,2.0,False,False,False,False,200.0,Neopolis,500000
+house,3.0,1.0,1.0,False,False,True,False,169.0,Cidade Alta,170000
+house,3.0,4.0,4.0,False,False,True,False,240.0,Capim Macio,495000
+house,3.0,1.0,1.0,False,False,True,False,85.0,Planalto,170000
+house,4.0,4.0,4.0,False,False,True,False,300.0,de Nazare,350000
+house,3.0,3.0,2.0,False,False,True,False,178.0,Candelaria,750000
+house,3.0,2.0,1.0,False,False,True,False,109.0,Ponta Negra,280000
+house,3.0,6.0,4.0,True,True,True,False,357.0,Capim Macio,440000
+house,3.0,1.0,2.0,False,False,True,False,185.0,Lagoa Nova,400000
+house,6.0,5.0,3.0,False,True,False,False,300.0,de Nazare,450000
+house,3.0,1.0,1.0,False,True,False,False,119.0,Alecrim,230000
+house,3.0,3.0,2.0,False,False,True,False,220.0,Candelaria,280000
+house,3.0,1.0,2.0,False,False,False,False,85.0,Capim Macio,250000
+house,3.0,1.0,3.0,False,False,True,False,130.0,Candelaria,300000
+house,3.0,3.0,2.0,False,False,False,False,180.0,Ponta Negra,595000
+house,3.0,1.0,1.0,False,False,True,False,100.0,Alecrim,220000
+house,2.0,2.0,4.0,False,False,False,False,70.0,Pitimbu,55000
+house,3.0,2.0,2.0,False,False,True,False,140.0,Candelaria,280000
+house,2.0,2.0,1.0,True,False,True,False,68.0,Planalto,169900
+house,4.0,5.0,3.0,False,True,False,False,263.0,Capim Macio,590000
+house,3.0,5.0,2.0,False,False,True,False,188.0,Candelaria,480000
+house,4.0,5.0,4.0,False,True,True,False,214.0,Capim Macio,750000
+house,3.0,3.0,2.0,False,True,True,False,160.0,Lagoa Seca,650000
+house,4.0,2.0,4.0,True,True,True,False,400.0,Ponta Negra,1600000
+house,3.0,2.0,1.0,False,True,True,False,250.0,Nossa Senhora da Apresentacao,140000
+house,3.0,3.0,2.0,False,False,True,False,180.0,Nova Descoberta,370000
+house,3.0,5.0,2.0,False,False,True,False,145.0,Capim Macio,420000
+house,4.0,1.0,4.0,False,False,False,False,128.0,Barro Vermelho,499000
+house,3.0,2.0,2.0,False,False,False,False,170.0,Planalto,150000
+house,4.0,1.0,2.0,True,False,True,False,157.0,Capim Macio,580000
+house,2.0,1.0,1.0,False,False,False,False,60.0,Ponta Negra,50000
+house,3.0,2.0,2.0,True,False,True,False,350.0,Capim Macio,800000
+house,3.0,3.0,2.0,False,False,True,False,184.0,Tirol,360000
+house,4.0,5.0,4.0,False,True,True,False,263.0,Capim Macio,590000
+house,3.0,4.0,1.0,False,False,False,False,144.0,Neopolis,630000
+house,3.0,4.0,2.0,False,False,True,False,280.0,Neopolis,450000
+house,4.0,5.0,4.0,True,False,True,False,200.0,Potengi,400000
+house,3.0,1.0,4.0,False,True,True,False,360.0,Ponta Negra,500000
+house,3.0,2.0,3.0,False,False,True,False,200.0,Pitimbu,280000
+house,3.0,4.0,6.0,True,False,True,False,563.0,Candelaria,849000
+house,3.0,3.0,6.0,True,False,True,False,160.0,Capim Macio,390000
+house,3.0,4.0,3.0,False,False,True,False,137.0,Neopolis,450000
+house,15.0,15.0,4.0,False,False,False,False,600.0,Ponta Negra,750000
+house,3.0,5.0,2.0,False,True,True,False,220.0,Ponta Negra,525000
+house,3.0,2.0,3.0,False,False,False,False,336.0,Nossa Senhora da Apresentacao,250000
+house,3.0,3.0,2.0,False,False,False,False,190.0,de Nazare,375000
+house,3.0,1.0,4.0,True,False,True,False,380.0,Lagoa Nova,800000
+house,3.0,4.0,4.0,False,True,True,False,180.0,Candelaria,500000
+house,3.0,2.0,3.0,False,False,True,False,130.0,Ponta Negra,300000
+house,3.0,1.0,1.0,False,False,False,False,231.0,Pitimbu,249000
+house,3.0,2.0,4.0,False,False,False,False,350.0,Neopolis,260000
+house,2.0,1.0,3.0,False,True,False,False,75.0,Planalto,140000
+house,4.0,3.0,3.0,True,False,True,False,450.0,Ponta Negra,1000000
+house,4.0,1.0,4.0,False,False,True,False,180.0,Ponta Negra,350000
+house,3.0,1.0,2.0,False,False,True,False,185.0,Pitimbu,240000
+house,4.0,7.0,4.0,False,False,True,False,187.0,Capim Macio,800000
+house,5.0,5.0,3.0,True,False,True,False,350.0,Capim Macio,520000
+house,4.0,1.0,8.0,False,False,True,False,340.0,Lagoa Nova,680000
+house,3.0,2.0,3.0,False,False,False,False,176.0,Lagoa Nova,550000
+house,2.0,2.0,3.0,False,False,True,False,140.0,Cidade da Esperanca,160000
+house,3.0,6.0,2.0,False,True,True,False,215.0,Petropolis,450000
+house,3.0,2.0,2.0,False,False,True,False,125.0,Lagoa Nova,600000
+house,4.0,2.0,2.0,True,False,True,False,140.0,Ponta Negra,250000
+house,3.0,4.0,3.0,False,False,True,False,190.0,Ponta Negra,470000
+house,4.0,3.0,2.0,False,False,False,False,178.0,Lagoa Nova,380000
+house,2.0,2.0,1.0,False,False,False,False,70.0,Quintas,69000
+house,12.0,5.0,2.0,False,False,False,False,400.0,Cidade Alta,280000
+house,4.0,3.0,4.0,False,False,True,False,219.0,Pitimbu,400000
+house,4.0,3.0,4.0,False,False,True,False,287.0,Ponta Negra,700000
+house,3.0,1.0,4.0,False,False,True,False,240.0,Lagoa Nova,420000
+house,2.0,3.0,1.0,False,False,False,False,256.0,Alecrim,450000
+house,3.0,5.0,3.0,True,True,True,False,193.0,Pitimbu,650000
+house,3.0,1.0,1.0,False,False,False,False,120.0,Alecrim,120000
+house,4.0,5.0,3.0,True,False,True,False,704.0,Ponta Negra,850000
+house,3.0,1.0,4.0,False,False,True,False,200.0,Pitimbu,360000
+house,3.0,1.0,1.0,True,False,True,False,258.0,Pitimbu,350000
+house,5.0,5.0,1.0,False,False,False,False,322.0,Lagoa Nova,880000
+house,5.0,1.0,2.0,True,False,True,False,400.0,Capim Macio,590000
+house,3.0,3.0,2.0,False,True,True,False,180.0,Ponta Negra,595000
+house,4.0,6.0,1.0,False,False,False,False,270.0,Neopolis,500000
+house,4.0,5.0,4.0,False,False,True,False,152.0,Ponta Negra,950000
+house,4.0,2.0,2.0,False,True,True,False,210.0,Capim Macio,420000
+house,2.0,2.0,2.0,False,False,True,False,178.0,Lagoa Nova,280000
+house,3.0,3.0,4.0,False,False,True,False,150.0,Candelaria,600000
+house,3.0,4.0,5.0,True,False,True,False,524.0,Lagoa Nova,750000
+house,3.0,1.0,2.0,False,False,True,False,193.0,Neopolis,450000
+house,3.0,2.0,2.0,False,False,True,False,140.0,Nossa Senhora da Apresentacao,140000
+house,3.0,1.0,1.0,False,False,True,False,248.0,Lagoa Nova,300000
+house,3.0,4.0,4.0,False,False,False,False,180.0,Lagoa Nova,370000
+house,3.0,2.0,3.0,True,False,True,False,102.0,Planalto,220000
+house,3.0,1.0,2.0,True,False,True,False,150.0,Candelaria,580000
+house,4.0,4.0,6.0,True,True,True,False,420.0,Lagoa Nova,750000
+house,3.0,1.0,6.0,False,False,True,False,121.0,Pitimbu,250000
+house,3.0,3.0,3.0,True,True,True,False,314.0,Neopolis,950000
+house,5.0,1.0,3.0,True,False,True,False,675.0,Candelaria,2000000
+house,2.0,2.0,2.0,False,True,True,False,65.0,Planalto,153000
+house,3.0,3.0,3.0,False,False,True,False,120.0,Neopolis,280000
+house,4.0,4.0,2.0,False,True,True,False,179.0,Capim Macio,450000
+house,3.0,4.0,4.0,False,False,False,False,373.0,Lagoa Nova,800000
+house,4.0,1.0,6.0,False,False,False,False,280.0,Ponta Negra,375000
+house,3.0,2.0,2.0,False,False,False,False,120.0,PARNAMIRIM,300000
+house,2.0,2.0,3.0,False,False,False,False,75.0,Planalto,150000
+house,3.0,1.0,4.0,False,False,True,False,130.0,Lagoa Nova,290000
+house,3.0,4.0,3.0,False,False,False,False,150.0,Ponta Negra,350000
+house,4.0,4.0,2.0,True,False,False,False,295.0,Capim Macio,550000
+house,4.0,3.0,1.0,False,True,True,False,150.0,Barro Vermelho,260000
+house,4.0,4.0,3.0,False,False,False,False,360.0,Pitimbu,315000
+house,3.0,4.0,3.0,False,False,True,False,187.0,Candelaria,500000
+house,3.0,1.0,3.0,False,False,True,False,302.0,Tirol,400000
+house,4.0,3.0,3.0,False,False,False,False,160.0,Neopolis,399000
+house,3.0,1.0,2.0,False,False,True,False,139.0,Planalto,250000
+house,4.0,4.0,2.0,False,False,True,False,180.0,Capim Macio,390000
+house,4.0,2.0,4.0,False,False,True,False,240.0,Cidade da Esperanca,370000
+house,7.0,8.0,5.0,True,False,True,False,500.0,Capim Macio,1000000
+house,3.0,1.0,6.0,False,False,True,False,375.0,Candelaria,700000
+house,3.0,1.0,7.0,False,False,True,False,184.0,San Vale,410000
+house,4.0,4.0,2.0,False,False,True,False,179.0,Capim Macio,400000
+house,3.0,1.0,4.0,True,False,True,False,280.0,Lagoa Nova,400000
+house,8.0,7.0,13.0,True,False,False,False,500.0,Capim Macio,950000
+house,3.0,1.0,3.0,False,False,True,False,220.0,Lagoa Nova,385000
+house,3.0,4.0,2.0,True,False,True,False,260.0,Capim Macio,595000
+house,3.0,1.0,5.0,False,False,True,False,230.0,Lagoa Nova,400000
+house,8.0,3.0,1.0,False,False,False,False,350.0,Candelaria,550000
+house,5.0,5.0,4.0,False,True,True,False,420.0,Pitimbu,430000
+house,4.0,1.0,4.0,True,False,True,False,222.0,Lagoa Nova,600000
+house,4.0,1.0,4.0,False,False,True,False,208.0,Capim Macio,570000
+house,3.0,3.0,2.0,False,False,False,False,200.0,Tirol,272000
+house,4.0,1.0,1.0,False,False,False,False,108.0,Barro Vermelho,200000
+house,3.0,2.0,2.0,False,False,True,False,120.0,Potengi,160000
+house,5.0,4.0,5.0,True,True,True,False,240.0,Capim Macio,500000
+house,4.0,3.0,2.0,True,False,True,False,360.0,Igapo,400000
+house,4.0,5.0,1.0,False,False,False,False,150.0,Redinha,220000
+house,2.0,2.0,2.0,False,True,True,False,77.0,Planalto,150000
+house,5.0,1.0,1.0,False,False,False,False,320.0,Alecrim,299000
+house,3.0,1.0,3.0,True,False,True,False,220.0,Pitimbu,290000
+house,4.0,6.0,4.0,True,False,True,False,320.0,Capim Macio,850000
+house,3.0,1.0,2.0,False,False,True,False,144.0,Candelaria,320000
+house,4.0,4.0,4.0,False,True,True,False,230.0,Lagoa Nova,500000
+house,4.0,1.0,5.0,False,False,True,False,231.0,Morro Branco,680000
+house,4.0,4.0,4.0,False,False,False,False,365.0,Candelaria,650000
+house,4.0,3.0,1.0,False,False,False,False,150.0,Lagoa Nova,265000
+house,3.0,1.0,1.0,False,False,True,False,110.0,Lagoa Nova,370000
+house,3.0,1.0,1.0,False,True,False,False,85.0,Planalto,70000
+house,3.0,1.0,1.0,False,True,True,False,180.0,Barro Vermelho,450000
+house,3.0,1.0,2.0,False,False,True,False,270.0,Lagoa Nova,450000
+house,9.0,6.0,1.0,False,False,False,False,250.0,Petropolis,285000
+house,3.0,3.0,1.0,False,False,True,False,217.0,Pitimbu,250000
+house,3.0,4.0,4.0,True,False,True,False,240.0,Pitimbu,370000
+house,5.0,5.0,5.0,True,True,True,False,210.0,Pitimbu,650000
+house,3.0,3.0,3.0,False,False,True,False,220.0,Pitimbu,260000
+house,3.0,1.0,3.0,True,False,True,False,180.0,Candelaria,590000
+house,2.0,2.0,1.0,True,False,True,False,61.0,Planalto,169900
+house,3.0,1.0,2.0,False,False,True,False,180.0,POTILANDIA,550000
+house,3.0,3.0,2.0,False,False,False,False,176.0,Lagoa Nova,530000
+house,4.0,5.0,7.0,False,False,True,False,330.0,Capim Macio,740000
+house,4.0,5.0,4.0,True,True,True,False,442.0,Ponta Negra,2000000
+house,6.0,6.0,8.0,False,True,True,False,574.0,Candelaria,1800000
+house,3.0,1.0,4.0,False,False,True,False,250.0,Barro Vermelho,450000
+house,3.0,1.0,1.0,False,False,True,False,229.0,Capim Macio,550000
+house,6.0,2.0,2.0,False,False,True,False,231.0,Tirol,620000
+house,4.0,1.0,4.0,True,False,True,False,269.0,Candelaria,650000
+house,4.0,1.0,5.0,True,False,True,False,360.0,Candelaria,700000
+house,4.0,1.0,5.0,False,False,True,False,548.0,Barro Vermelho,600000
+house,3.0,1.0,4.0,False,False,True,False,217.0,Lagoa Nova,700000
+house,5.0,3.0,4.0,False,False,False,False,420.0,Lagoa Nova,650000
+house,4.0,2.0,4.0,False,False,True,False,179.0,Cidade Alta,430000
+house,3.0,1.0,8.0,True,False,True,False,380.0,Candelaria,750000
+house,6.0,1.0,10.0,True,False,True,False,800.0,Cidade Jardim,1500000
+house,4.0,6.0,3.0,False,True,True,False,241.0,Capim Macio,650000
+house,3.0,1.0,2.0,False,False,False,False,190.0,Candelaria,350000
+house,4.0,5.0,2.0,True,True,True,False,400.0,Ponta Negra,1850000
+house,5.0,1.0,3.0,False,False,False,False,254.0,Capim Macio,649900
+house,4.0,2.0,3.0,False,False,False,False,293.0,Neopolis,470000
+house,4.0,1.0,3.0,False,False,True,False,350.0,Candelaria,500000
+house,4.0,5.0,4.0,True,False,True,False,410.0,Candelaria,1000000
+house,3.0,4.0,3.0,False,False,False,False,200.0,Lagoa Nova,400000
+house,6.0,3.0,3.0,False,False,True,False,119.0,Pitimbu,300000
+house,3.0,3.0,1.0,False,False,False,False,120.0,Quintas,180000
+house,5.0,5.0,4.0,False,False,False,False,460.0,Capim Macio,630000
+house,3.0,1.0,5.0,True,False,True,False,280.0,Capim Macio,530000
+house,3.0,3.0,3.0,False,True,True,False,220.0,Neopolis,350000
+house,6.0,6.0,2.0,False,False,False,False,800.0,Capim Macio,750000
+house,4.0,2.0,1.0,False,False,True,False,300.0,Barro Vermelho,350000
+house,3.0,3.0,3.0,False,False,True,False,300.0,Lagoa Nova,270000
+house,3.0,1.0,3.0,False,False,True,False,200.0,Morro Branco,400000
+house,4.0,1.0,3.0,True,False,True,False,220.0,Petropolis,480000
+house,3.0,1.0,2.0,False,False,True,False,197.0,Lagoa Nova,450000
+house,3.0,5.0,4.0,False,False,False,False,200.0,Capim Macio,580000
+house,3.0,1.0,3.0,False,False,True,False,280.0,Lagoa Nova,600000
+house,3.0,1.0,6.0,True,False,True,False,425.0,Capim Macio,900000
+house,7.0,5.0,4.0,True,False,True,False,380.0,Capim Macio,2500000
+house,4.0,5.0,4.0,True,False,False,False,400.0,Capim Macio,450000
+house,3.0,3.0,2.0,False,False,True,False,160.0,Tirol,360000
+house,3.0,2.0,2.0,False,False,True,False,100.0,Neopolis,220000
+house,2.0,2.0,2.0,False,False,False,False,100.0,Lagoa Nova,289900
+house,3.0,2.0,2.0,False,False,False,False,240.0,Ponta Negra,320000
+house,5.0,3.0,4.0,False,False,True,False,240.0,Candelaria,330000
+house,3.0,1.0,6.0,False,False,False,False,160.0,Alecrim,335000
+house,4.0,5.0,10.0,True,True,True,False,767.0,Candelaria,1250000
+house,4.0,5.0,4.0,True,False,True,False,372.0,Candelaria,1700000
+house,4.0,3.0,3.0,False,False,True,False,275.0,Candelaria,450000
+house,3.0,1.0,1.0,False,False,False,False,218.0,Tirol,330000
+house,3.0,4.0,4.0,False,False,True,False,140.0,Neopolis,380000
+house,5.0,3.0,4.0,False,False,True,False,200.0,Candelaria,330000
+house,4.0,2.0,5.0,True,False,True,False,270.0,Lagoa Nova,400000
+house,3.0,2.0,1.0,False,False,True,False,143.0,Capim Macio,420000
+house,4.0,1.0,4.0,False,False,True,False,288.0,Ponta Negra,2000000
+house,3.0,1.0,3.0,False,False,True,False,240.0,Lagoa Nova,525000
+house,3.0,1.0,3.0,False,False,True,False,312.0,Candelaria,450000
+house,4.0,3.0,4.0,True,False,True,False,320.0,Ponta Negra,650000
+house,4.0,4.0,2.0,True,False,False,False,295.0,Capim Macio,550000
+house,4.0,3.0,3.0,False,False,True,False,177.0,Ponta Negra,360000
+house,4.0,1.0,3.0,True,False,True,False,450.0,Lagoa Nova,800000
+house,3.0,4.0,3.0,False,False,False,False,160.0,Lagoa Nova,370000
+house,2.0,1.0,4.0,False,False,True,False,109.0,Neopolis,300000
+house,3.0,1.0,2.0,False,False,True,False,138.0,Igapo,380000
+house,5.0,1.0,4.0,True,False,True,False,347.0,Neopolis,500000
+house,3.0,3.0,3.0,True,True,True,False,150.0,Ponta Negra,850000
+house,3.0,1.0,2.0,True,True,True,False,180.0,Neopolis,380000
+house,3.0,1.0,2.0,False,False,True,False,140.0,Capim Macio,470000
+house,2.0,1.0,5.0,False,False,True,False,90.0,Nossa Senhora da Apresentacao,90000
+house,4.0,2.0,2.0,False,False,True,False,154.0,Ponta Negra,350000
+house,3.0,3.0,1.0,False,False,False,False,180.0,Lagoa Nova,550000
+house,4.0,5.0,2.0,True,True,True,False,240.0,Pitimbu,650000
+house,2.0,1.0,1.0,False,False,False,False,110.0,Lagoa Seca,250000
+house,3.0,1.0,3.0,True,False,True,False,210.0,Capim Macio,600000
+house,3.0,5.0,4.0,False,False,True,False,200.0,Capim Macio,700000
+house,3.0,5.0,4.0,True,False,True,False,375.0,Ponta Negra,700000
+house,3.0,1.0,4.0,False,False,True,False,160.0,Pitimbu,245000
+house,4.0,1.0,2.0,True,False,True,False,440.0,Ponta Negra,1800000
+house,4.0,2.0,3.0,False,False,False,False,276.0,Pitimbu,249000
+house,3.0,3.0,6.0,False,False,False,False,405.0,Pitimbu,350000
+house,3.0,3.0,2.0,False,True,True,False,200.0,Capim Macio,430000
+house,4.0,2.0,3.0,False,True,True,False,260.0,Lagoa Nova,595000
+house,4.0,1.0,3.0,True,False,True,False,250.0,Lagoa Nova,1000000
+house,5.0,5.0,2.0,False,False,True,False,200.0,Cidade Jardim,450000
+house,3.0,3.0,3.0,False,True,True,False,200.0,Ponta Negra,390000
+house,3.0,2.0,3.0,False,False,True,False,144.0,Candelaria,300000
+house,3.0,1.0,3.0,False,False,True,False,190.0,Lagoa Nova,350000
+house,4.0,4.0,4.0,False,False,True,False,320.0,Pitimbu,380000
+house,5.0,5.0,3.0,True,False,True,False,278.0,Candelaria,700000
+house,3.0,3.0,3.0,False,False,True,False,200.0,Ponta Negra,650000
+house,3.0,1.0,4.0,False,True,True,False,116.0,Ponta Negra,320000
+house,3.0,2.0,2.0,False,False,True,False,180.0,Candelaria,350000
+house,5.0,1.0,3.0,False,False,True,False,234.0,Pitimbu,298000
+house,3.0,2.0,2.0,False,False,True,False,155.0,Ponta Negra,380000
+house,6.0,5.0,2.0,False,False,True,False,223.0,Lagoa Nova,550000
+house,3.0,3.0,4.0,False,False,False,False,184.0,Ponta Negra,350000
+house,4.0,6.0,2.0,False,True,True,False,260.0,Capim Macio,600000
+house,3.0,2.0,3.0,False,False,True,False,121.0,Planalto,200000
+house,1.0,4.0,5.0,False,False,True,False,264.0,sept Rosado,220000
+house,4.0,2.0,1.0,False,False,True,False,325.0,Candelaria,500000
+house,3.0,3.0,2.0,False,False,True,False,253.0,Pitimbu,250000
+house,3.0,5.0,6.0,True,True,True,False,350.0,Candelaria,1499990
+house,3.0,4.0,4.0,False,False,True,False,268.0,Capim Macio,800000
+house,4.0,1.0,4.0,False,False,False,False,220.0,Lagoa Nova,450000
+house,3.0,1.0,2.0,False,False,True,False,174.0,Candelaria,295000
+house,3.0,4.0,5.0,False,True,True,False,357.0,Ponta Negra,700000
+house,5.0,2.0,3.0,False,False,True,False,300.0,Ponta Negra,780000
+house,4.0,5.0,3.0,True,False,True,False,211.0,Capim Macio,480000
+house,4.0,1.0,2.0,True,False,True,False,614.0,Candelaria,750000
+house,3.0,2.0,4.0,True,False,True,False,360.0,sept Rosado,1200000
+house,5.0,4.0,2.0,False,True,False,False,250.0,Lagoa Nova,380000
+house,5.0,3.0,1.0,False,True,True,False,300.0,Candelaria,330000
+house,9.0,10.0,10.0,False,True,True,False,409.0,Lagoa Nova,600000
+house,5.0,1.0,5.0,False,False,True,False,580.0,Capim Macio,2000000
+house,3.0,4.0,3.0,True,False,True,False,300.0,Neopolis,650000
+house,4.0,6.0,3.0,True,False,True,False,400.0,Lagoa Nova,950000
+house,3.0,3.0,1.0,False,False,False,False,130.0,Tirol,300000
+house,5.0,5.0,3.0,False,False,False,False,254.0,Capim Macio,644900
+house,3.0,4.0,2.0,False,False,True,False,150.0,Candelaria,450000
+house,4.0,2.0,6.0,False,True,True,False,384.0,Capim Macio,830000
+house,3.0,1.0,6.0,False,False,False,False,260.0,Ponta Negra,350000
+house,3.0,3.0,4.0,False,False,False,False,215.0,Morro Branco,450000
+house,3.0,1.0,1.0,False,False,True,False,240.0,Alecrim,350000
+house,4.0,5.0,7.0,False,False,True,False,385.0,Capim Macio,699000
+house,3.0,3.0,2.0,False,False,True,False,260.0,Lagoa Nova,259000
+house,3.0,1.0,4.0,False,False,True,False,201.0,Ponta Negra,480000
+house,3.0,1.0,5.0,False,False,True,False,146.0,Lagoa Nova,440000
+house,4.0,6.0,14.0,False,False,True,False,617.0,Capim Macio,2200000
+house,3.0,1.0,3.0,False,False,True,False,290.0,Candelaria,430000
+house,3.0,2.0,5.0,True,False,True,False,200.0,Ponta Negra,410000
+house,4.0,5.0,2.0,True,False,True,False,262.0,Ponta Negra,1800000
+house,3.0,3.0,3.0,True,False,True,False,160.0,Ponta Negra,350000
+house,3.0,2.0,1.0,False,True,True,False,200.0,Lagoa Nova,280000
+house,3.0,2.0,2.0,False,False,False,False,650.0,Capim Macio,360000
+house,3.0,3.0,3.0,False,False,False,False,270.0,Lagoa Nova,700000
+house,3.0,1.0,2.0,False,False,False,False,195.0,Barro Vermelho,260000
+house,3.0,1.0,3.0,True,False,True,False,290.0,Lagoa Nova,1100000
+house,4.0,3.0,4.0,False,False,False,False,321.0,Capim Macio,1300000
+house,3.0,1.0,1.0,False,False,False,False,150.0,Cidade Alta,200000
+house,3.0,5.0,4.0,True,False,True,False,300.0,Ponta Negra,750000
+house,4.0,1.0,10.0,False,False,True,False,350.0,Candelaria,2000000
+house,3.0,1.0,9.0,True,False,True,False,420.0,Lagoa Nova,800000
+house,3.0,3.0,4.0,True,True,False,False,193.0,Capim Macio,450000
+house,3.0,5.0,8.0,True,False,True,False,300.0,Capim Macio,680000
+house,5.0,6.0,4.0,True,False,True,False,100.0,Candelaria,420000
+house,2.0,1.0,1.0,False,False,True,False,120.0,sept Rosado,220000
+house,5.0,1.0,4.0,True,False,True,False,320.0,Ponta Negra,575000
+house,4.0,5.0,4.0,True,False,True,False,200.0,Potengi,400000
+house,3.0,3.0,2.0,False,False,True,False,219.0,Lagoa Nova,680000
+house,3.0,2.0,1.0,False,False,True,False,176.0,Lagoa Nova,550000
+house,3.0,3.0,3.0,False,True,True,False,209.0,Ponta Negra,550000
+house,2.0,1.0,2.0,False,False,False,False,100.0,Planalto,100000
+house,3.0,1.0,4.0,False,False,True,False,116.0,Ponta Negra,320000
+house,4.0,1.0,3.0,False,False,True,False,280.0,Pitimbu,450000
+house,4.0,3.0,1.0,False,False,False,False,301.0,Capim Macio,680000
+house,3.0,2.0,2.0,False,False,True,False,200.0,Candelaria,480000
+house,3.0,1.0,2.0,False,False,True,False,300.0,Tirol,490000
+house,3.0,2.0,2.0,False,False,False,False,173.0,Lagoa Nova,500000
+house,3.0,3.0,1.0,False,False,True,False,186.0,Potengi,210000
+house,5.0,6.0,3.0,True,False,True,False,350.0,Capim Macio,520000
+house,8.0,4.0,2.0,False,False,True,False,260.0,sept Rosado,800000
+house,8.0,10.0,6.0,True,True,True,False,870.0,Candelaria,1400000
+house,4.0,5.0,3.0,False,True,True,False,240.0,Capim Macio,495000
+house,3.0,2.0,1.0,False,False,True,False,165.0,Candelaria,350000
+house,2.0,1.0,2.0,False,False,False,False,66.0,Planalto,120000
+house,3.0,1.0,1.0,False,False,True,False,90.0,Lagoa Nova,180000
+house,3.0,3.0,10.0,True,False,True,False,490.0,Ponta Negra,1500000
+house,4.0,3.0,2.0,False,False,False,False,180.0,Tirol,600000
+house,3.0,1.0,4.0,False,False,True,False,192.0,Lagoa Nova,550000
+house,3.0,4.0,2.0,False,False,False,False,254.0,Pitimbu,320000
+house,3.0,4.0,1.0,False,False,True,False,215.0,Capim Macio,750000
+house,3.0,2.0,2.0,True,False,True,False,247.0,Capim Macio,620000
+house,5.0,3.0,2.0,False,False,True,False,158.0,Pajucara,150000
+house,4.0,3.0,2.0,False,True,False,False,250.0,Lagoa Nova,1200000
+house,3.0,2.0,2.0,False,False,False,False,170.0,Planalto,150000
+house,3.0,2.0,1.0,False,False,False,False,240.0,Lagoa Nova,280000
+house,4.0,2.0,4.0,False,False,True,False,168.0,Neopolis,290000
+house,4.0,4.0,1.0,True,True,True,False,297.0,Lagoa Nova,750000
+house,4.0,5.0,4.0,True,False,True,False,398.0,Capim Macio,950000
+house,3.0,1.0,7.0,False,False,True,False,275.0,Potengi,400000
+house,3.0,2.0,4.0,False,False,True,False,180.0,Neopolis,270000
+house,4.0,4.0,6.0,True,True,True,False,250.0,Capim Macio,529000
+house,3.0,3.0,1.0,True,True,True,False,280.0,Candelaria,598990
+house,3.0,1.0,1.0,False,False,True,False,100.0,Potengi,180000
+house,2.0,2.0,9.0,False,False,False,False,108.0,Ponta Negra,350000
+house,3.0,2.0,4.0,False,False,True,False,170.0,Capim Macio,450000
+house,3.0,2.0,1.0,False,False,False,False,200.0,Alecrim,210000
+house,4.0,4.0,2.0,True,False,True,False,209.0,Capim Macio,580000
+house,4.0,2.0,2.0,False,False,True,False,210.0,Barro Vermelho,320000
+house,4.0,5.0,3.0,False,False,False,False,548.0,Barro Vermelho,600000
+house,3.0,3.0,4.0,False,False,False,False,144.0,Cidade Verde,330000
+house,4.0,5.0,2.0,False,False,True,False,247.0,Capim Macio,650000
+house,3.0,1.0,3.0,False,False,True,False,200000.0,Nossa Senhora da Apresentacao,90000
+house,5.0,3.0,3.0,True,False,True,False,380.0,Ponta Negra,900000
+house,3.0,4.0,4.0,True,False,True,False,226.0,Lagoa Nova,800000
+house,3.0,2.0,4.0,False,False,True,False,119.0,Ponta Negra,950000
+house,3.0,3.0,10.0,False,False,False,False,200.0,POTILANDIA,650000
+house,3.0,4.0,2.0,True,False,True,False,194.0,Lagoa Nova,500000
+house,2.0,3.0,2.0,False,False,True,False,140.0,Ponta Negra,245000
+house,3.0,3.0,3.0,False,False,True,False,219.0,Lagoa Nova,450000
+house,4.0,5.0,2.0,True,False,True,False,279.0,Capim Macio,600000
+house,4.0,1.0,1.0,True,False,False,False,360.0,Candelaria,450000
+house,5.0,5.0,2.0,True,False,True,False,346.0,Candelaria,600000
+house,3.0,2.0,2.0,False,False,True,False,200.0,Lagoa Nova,370000
+house,3.0,2.0,3.0,False,False,True,False,190.0,Candelaria,410000
+house,3.0,1.0,10.0,False,False,True,False,147.0,Barro Vermelho,480000
+house,7.0,10.0,4.0,True,True,True,False,436.0,Ponta Negra,720000
+house,6.0,1.0,1.0,False,False,True,False,156.0,Lagoa Nova,275000
+house,3.0,3.0,2.0,False,True,True,False,220.0,Pitimbu,320000
+house,3.0,1.0,4.0,True,False,True,False,320.0,Candelaria,450000
+house,3.0,4.0,2.0,True,False,True,False,280.0,Lagoa Nova,800000
+house,4.0,4.0,4.0,False,False,False,False,200.0,Barro Vermelho,330000
+house,5.0,5.0,4.0,False,False,True,False,294.0,Tirol,1000000
+house,3.0,3.0,4.0,False,False,True,False,540.0,Ponta Negra,1800000
+house,3.0,2.0,3.0,False,False,True,False,170.0,Pitimbu,410000
+house,3.0,5.0,3.0,True,False,True,False,300.0,Capim Macio,750000
+house,3.0,2.0,2.0,False,False,True,False,150.0,Neopolis,190000
+house,3.0,6.0,4.0,True,False,True,False,450.0,Capim Macio,435000
+house,2.0,2.0,4.0,False,False,True,False,200.0,Redinha,430000
+house,3.0,3.0,2.0,True,False,True,False,320.0,Capim Macio,520000
+house,4.0,1.0,8.0,False,False,True,False,630.0,Capim Macio,830000
+house,3.0,2.0,3.0,False,False,True,False,168.0,Lagoa Nova,300000
+house,4.0,5.0,6.0,False,False,True,False,176.0,Pitimbu,229999
+house,4.0,5.0,8.0,False,True,True,False,230.0,Lagoa Nova,450000
+house,3.0,1.0,4.0,False,False,False,False,170.0,Nova Descoberta,450000
+house,3.0,2.0,2.0,False,False,True,False,319.0,Tirol,460000
+house,4.0,5.0,4.0,True,True,True,False,539.0,Candelaria,900000
+house,2.0,2.0,3.0,False,False,True,False,100.0,Ponta Negra,390000
+house,4.0,4.0,6.0,True,True,True,False,350.0,Capim Macio,980000
+house,8.0,5.0,13.0,True,False,False,False,950.0,Ponta Negra,1999900
+house,3.0,2.0,3.0,False,False,True,False,220.0,Ponta Negra,520000
+house,4.0,5.0,1.0,False,False,True,False,241.0,Capim Macio,495000
+house,3.0,3.0,2.0,False,False,True,False,270.0,Capim Macio,550000
+house,3.0,3.0,2.0,False,True,True,False,210.0,Pitimbu,370000
+house,3.0,2.0,2.0,False,False,True,False,120.0,Ponta Negra,500000
+house,3.0,2.0,4.0,True,False,True,False,274.0,Ponta Negra,370000
+house,4.0,3.0,3.0,False,False,True,False,208.0,Pitimbu,278900
+house,4.0,6.0,4.0,True,True,True,False,650.0,Capim Macio,885000
+house,4.0,3.0,2.0,False,False,True,False,143.0,Pitimbu,290000
+house,3.0,4.0,4.0,False,False,False,False,249.0,Capim Macio,750000
+house,4.0,4.0,1.0,False,False,True,False,189.0,Lagoa Seca,350000
+house,2.0,2.0,2.0,False,False,True,False,198.0,Candelaria,280000
+house,3.0,3.0,3.0,False,False,True,False,394.0,Neopolis,550000
+house,3.0,2.0,5.0,True,False,True,False,200.0,Redinha,400000
+house,4.0,1.0,1.0,False,False,True,False,360.0,Pitimbu,250000
+house,4.0,3.0,4.0,False,False,True,False,300.0,Tirol,750000
+house,5.0,4.0,3.0,False,False,True,False,450.0,Capim Macio,750000
+house,3.0,3.0,4.0,False,False,True,False,191.0,Lagoa Nova,390000
+house,3.0,1.0,2.0,False,False,True,False,202.0,Lagoa Nova,420000
+house,6.0,7.0,12.0,False,True,True,False,850.0,Candelaria,1600000
+house,2.0,2.0,1.0,False,False,False,False,170.0,Planalto,180000
+house,2.0,1.0,1.0,False,False,False,False,149.0,Candelaria,300000
+house,7.0,4.0,2.0,True,False,True,False,900.0,Capim Macio,800000
+house,3.0,1.0,5.0,False,False,True,False,250.0,Candelaria,530000
+house,3.0,1.0,8.0,False,False,True,False,341.0,Capim Macio,680000
+house,3.0,1.0,3.0,False,True,True,False,180.0,Lagoa Nova,370000
+house,4.0,2.0,2.0,False,True,True,False,360.0,Ponta Negra,750000
+house,3.0,4.0,5.0,True,False,True,False,360.0,Capim Macio,1150000
+house,5.0,4.0,2.0,False,False,True,False,174.0,Candelaria,450000
+house,3.0,3.0,9.0,True,False,True,False,190.0,Capim Macio,680000
+house,2.0,1.0,1.0,False,False,False,False,65.0,Potengi,180000
+house,3.0,3.0,2.0,False,False,False,False,175.0,Candelaria,400000
+house,5.0,4.0,2.0,False,False,True,False,260.0,Candelaria,350000
+house,2.0,1.0,5.0,False,False,False,False,200.0,Potengi,135000
+house,3.0,3.0,2.0,True,False,True,False,300.0,Capim Macio,550000
+house,5.0,1.0,8.0,False,False,True,False,410.0,Capim Macio,750000
+house,5.0,5.0,4.0,True,True,True,False,390.0,Capim Macio,900000
+house,4.0,5.0,6.0,True,True,True,False,216.0,Capim Macio,665000
+house,3.0,3.0,4.0,False,False,True,False,283.0,Redinha,230000
+house,5.0,1.0,1.0,False,False,True,False,294.0,Tirol,850000
+house,4.0,5.0,4.0,True,True,True,False,400.0,Lagoa Nova,750000
+house,4.0,3.0,1.0,True,False,True,False,250.0,Barro Vermelho,490000
+house,4.0,4.0,3.0,False,False,True,False,220.0,Capim Macio,495000
+house,4.0,4.0,4.0,False,False,True,False,450.0,Capim Macio,550000
+house,4.0,3.0,4.0,True,True,True,False,270.0,Capim Macio,480000
+house,3.0,5.0,4.0,False,True,True,False,300.0,Tirol,730000
+house,3.0,1.0,2.0,False,False,True,False,100.0,Alecrim,350000
+house,3.0,2.0,4.0,False,False,False,False,300.0,Neopolis,400000
+house,5.0,5.0,8.0,True,True,True,False,350.0,Ponta Negra,800000
+house,3.0,1.0,2.0,False,False,False,False,173.0,Cidade Verde,250000
+house,6.0,6.0,6.0,False,False,False,False,260.0,Ponta Negra,280000
+house,5.0,5.0,1.0,True,True,True,False,350.0,Cidade Jardim,1000000
+house,3.0,3.0,3.0,False,False,True,False,182.0,Ponta Negra,348000
+house,4.0,5.0,4.0,True,False,True,False,287.0,Ponta Negra,549900
+house,4.0,3.0,2.0,False,False,False,False,230.0,Pitimbu,350000
+house,3.0,3.0,5.0,False,False,True,False,150.0,Ponta Negra,320000
+house,4.0,5.0,2.0,False,True,True,False,216.0,Capim Macio,495000
+house,3.0,3.0,2.0,False,False,True,False,230.0,Capim Macio,400000
+house,3.0,2.0,3.0,False,False,True,False,240.0,Ponta Negra,650000
+house,4.0,4.0,5.0,False,False,True,False,278.0,Candelaria,700000
+house,2.0,2.0,1.0,False,False,True,False,103.0,Barro Vermelho,275000
+house,3.0,4.0,3.0,False,True,True,False,200.0,Capim Macio,950000
+house,3.0,3.0,2.0,False,False,False,False,192.0,Candelaria,370000
+house,6.0,6.0,4.0,False,False,False,False,362.0,Ponta Negra,1350000
+house,4.0,2.0,1.0,False,False,False,False,231.0,Pitimbu,270000
+house,4.0,4.0,4.0,True,False,True,False,456.0,Lagoa Nova,650000
+house,3.0,3.0,4.0,False,True,False,False,173.0,Ponta Negra,300000
+house,4.0,6.0,7.0,True,False,True,False,660.0,Tirol,950000
+house,4.0,5.0,4.0,False,False,True,False,320.0,Ponta Negra,2300000
+house,4.0,1.0,4.0,True,False,True,False,290.0,Capim Macio,500000
+house,2.0,2.0,1.0,False,False,False,False,92.0,Planalto,130000
+house,4.0,3.0,7.0,False,False,True,False,222.0,Ponta Negra,320000
+house,4.0,3.0,6.0,True,False,True,False,490.0,Ponta Negra,2500000
+house,6.0,6.0,4.0,True,False,True,False,622.0,Candelaria,3300000
+house,3.0,1.0,1.0,False,False,True,False,160.0,Tirol,360000
+house,2.0,2.0,2.0,True,False,True,False,293.0,Ponta Negra,400000
+house,4.0,3.0,6.0,False,False,False,False,304.0,Barro Vermelho,400000
+house,4.0,1.0,3.0,False,False,False,False,480.0,Ponta Negra,430000
+house,4.0,3.0,1.0,False,True,True,False,175.0,Capim Macio,595000
+house,3.0,2.0,3.0,False,False,True,False,200.0,Lagoa Nova,450000
+house,2.0,3.0,3.0,False,False,True,False,200.0,Planalto,121000
+house,3.0,1.0,7.0,False,False,True,False,330.0,Capim Macio,740000
+house,4.0,3.0,8.0,False,False,True,False,246.0,Lagoa Nova,500000
+house,5.0,5.0,3.0,True,False,False,False,451.0,Ponta Negra,1300000
+house,3.0,4.0,4.0,True,False,True,False,350.0,Lagoa Nova,500000
+house,4.0,5.0,3.0,False,False,True,False,400.0,Candelaria,1000000
+house,4.0,5.0,3.0,False,True,True,False,365.0,Candelaria,600000
+house,4.0,4.0,5.0,False,False,True,False,210.0,Lagoa Nova,450000
+house,3.0,2.0,1.0,False,False,True,False,235.0,Petropolis,580000
+house,5.0,1.0,1.0,True,False,True,False,220.0,Capim Macio,500000
+house,3.0,1.0,2.0,True,False,True,False,250.0,Cidade Jardim,450000
+house,4.0,4.0,3.0,False,True,True,False,240.0,Capim Macio,550000
+house,5.0,4.0,5.0,False,False,True,False,277.0,Ponta Negra,500000
+house,3.0,2.0,2.0,False,False,True,False,240.0,Candelaria,330000
+house,3.0,3.0,2.0,False,False,False,False,450.0,Lagoa Nova,400000
+house,5.0,7.0,4.0,True,False,True,False,500.0,Capim Macio,860000
+house,4.0,1.0,3.0,False,False,False,False,280.0,Lagoa Nova,420000
+house,4.0,1.0,3.0,True,False,True,False,132.0,Candelaria,370000
+house,6.0,2.0,12.0,True,True,True,False,800.0,Capim Macio,1500000
+house,4.0,4.0,3.0,False,True,False,False,900.0,Capim Macio,1200000
+house,3.0,1.0,2.0,False,False,False,False,239.0,Ponta Negra,450000
+house,3.0,4.0,4.0,True,False,True,False,400.0,San Vale,660000
+house,4.0,2.0,3.0,False,False,True,False,343.0,Ponta Negra,1600000
+house,6.0,5.0,1.0,False,False,True,False,360.0,Ponta Negra,480000
+house,3.0,4.0,2.0,False,True,False,False,300.0,Lagoa Nova,500000
+house,2.0,2.0,2.0,False,False,True,False,82.0,Planalto,160000
+house,3.0,4.0,4.0,False,True,True,False,407.0,Ponta Negra,850000
+house,3.0,3.0,2.0,True,True,True,False,200.0,Barro Vermelho,480000
+house,4.0,2.0,8.0,True,True,True,False,790.0,Cidade Jardim,1800000
+house,3.0,2.0,4.0,False,True,True,False,203.0,Candelaria,460000
+house,2.0,1.0,1.0,False,False,True,False,293.0,Ponta Negra,390000
+house,3.0,1.0,1.0,False,False,True,False,178.0,Candelaria,300000
+house,4.0,5.0,4.0,True,True,True,False,420.0,Tirol,1400000
+house,4.0,4.0,2.0,False,True,True,False,212.0,Capim Macio,630000
+house,4.0,2.0,6.0,False,False,True,False,240.0,Tirol,650000
+house,4.0,3.0,6.0,False,False,True,False,197.0,Ponta Negra,900000
+house,4.0,2.0,2.0,False,False,True,False,360.0,Ponta Negra,700000
+house,5.0,5.0,5.0,True,True,True,False,339.0,Ponta Negra,850000
+house,3.0,1.0,2.0,False,False,True,False,280.0,Lagoa Nova,450000
+house,3.0,3.0,5.0,True,True,True,False,275.0,Capim Macio,900000
+house,8.0,1.0,6.0,True,True,True,False,1000.0,Tirol,2800000
+house,3.0,3.0,9.0,False,True,True,False,200.0,Pitimbu,390000
+house,3.0,3.0,4.0,False,True,True,False,160.0,Planalto,140000
+house,3.0,1.0,1.0,False,False,False,False,104.0,Lagoa Nova,280000
+house,3.0,1.0,3.0,False,False,True,False,130.0,Petropolis,600000
+house,3.0,5.0,6.0,True,True,True,False,246.0,Capim Macio,1500000
+house,4.0,4.0,5.0,True,False,False,False,230.0,Nova Descoberta,500000
+house,6.0,6.0,1.0,False,True,True,False,222.0,Lagoa Nova,550000
+house,2.0,1.0,1.0,False,False,True,False,90.0,Ponta Negra,165000
+house,4.0,4.0,2.0,True,False,True,False,390.0,Tirol,800000
+house,4.0,3.0,3.0,False,False,False,False,120.0,Pitimbu,200000
+house,2.0,2.0,3.0,False,False,True,False,171.0,Ponta Negra,400000
+house,3.0,1.0,2.0,True,False,False,False,250.0,Cidade Jardim,600000
+house,8.0,8.0,2.0,False,True,False,False,500.0,Ponta Negra,700000
+house,3.0,4.0,2.0,False,False,True,False,210.0,Morro Branco,570000
+house,3.0,3.0,2.0,True,True,True,False,305.0,Ponta Negra,450000
+house,3.0,4.0,4.0,False,False,True,False,300.0,Lagoa Nova,450000
+house,3.0,4.0,1.0,False,False,False,False,300.0,Candelaria,600000
+house,3.0,1.0,1.0,False,False,False,False,100.0,Pitimbu,180000
+house,2.0,2.0,1.0,False,True,True,False,90.0,Planalto,85000
+house,4.0,5.0,4.0,True,True,True,False,580.0,Candelaria,1600000
+house,3.0,1.0,2.0,False,False,True,False,190.0,de Nazare,350000
+house,3.0,1.0,4.0,False,False,False,False,120.0,Pitimbu,230000
+house,3.0,4.0,4.0,True,False,True,False,300.0,Lagoa Nova,550000
+house,4.0,2.0,1.0,False,False,True,False,180.0,Capim Macio,450000
+house,3.0,4.0,2.0,True,False,True,False,350.0,Candelaria,600000
+house,3.0,4.0,1.0,True,False,True,False,205.0,Ponta Negra,480000
+house,2.0,1.0,1.0,False,True,True,False,120.0,Pitimbu,200000
+house,5.0,1.0,3.0,True,False,True,False,350.0,Capim Macio,520000
+house,3.0,4.0,4.0,False,False,True,False,240.0,Cidade Jardim,390000
+house,4.0,5.0,4.0,False,False,False,False,220.0,Ponta Negra,650000
+house,3.0,1.0,4.0,False,False,True,False,125.0,Lagoa Nova,320000
+house,3.0,3.0,2.0,False,True,False,False,177.0,Capim Macio,270000
+house,4.0,5.0,8.0,False,False,True,False,263.0,Capim Macio,590000
+house,4.0,4.0,2.0,True,False,False,False,436.0,Capim Macio,1200000
+house,3.0,1.0,4.0,False,False,True,False,203.0,Candelaria,490000
+house,3.0,2.0,4.0,False,False,True,False,220.0,Planalto,140000
+house,4.0,5.0,2.0,False,True,True,False,450.0,Capim Macio,650000
+house,3.0,3.0,1.0,False,False,True,False,169.0,Candelaria,330000
+house,7.0,4.0,4.0,False,True,True,False,350.0,Ponta Negra,900000
+house,3.0,3.0,1.0,False,False,True,False,290.0,San Vale,420000
+house,2.0,2.0,2.0,False,False,True,False,110.0,Alecrim,190000
+house,2.0,1.0,2.0,False,False,True,False,60.0,Planalto,110000
+house,4.0,4.0,4.0,True,False,True,False,379.0,Candelaria,580000
+house,3.0,3.0,4.0,False,False,False,False,178.0,Tirol,430000
+house,3.0,1.0,2.0,False,False,False,False,300.0,Capim Macio,400000
+house,3.0,1.0,1.0,False,False,True,False,170.0,Candelaria,330000
+house,4.0,4.0,3.0,False,False,False,False,316.0,Neopolis,335000
+house,3.0,3.0,3.0,True,True,True,False,278.0,Cidade Jardim,680000
+house,4.0,2.0,1.0,False,False,False,False,160.0,Neopolis,360000
+house,3.0,1.0,4.0,False,False,True,False,78.0,Lagoa Nova,380000
+house,3.0,3.0,2.0,False,True,True,False,192.0,Candelaria,400000
+house,3.0,3.0,2.0,False,False,True,False,123.0,Candelaria,280000
+house,3.0,1.0,2.0,True,False,True,False,450.0,San Vale,580000
+house,3.0,1.0,2.0,False,False,True,False,285.0,Ponta Negra,900000
+house,3.0,3.0,1.0,False,False,True,False,240.0,Capim Macio,300000
+house,7.0,2.0,1.0,False,False,True,False,201.0,Lagoa Nova,600000
+house,4.0,4.0,1.0,False,False,True,False,229.0,Candelaria,360000
+house,4.0,2.0,6.0,False,False,True,False,200.0,Candelaria,735000
+house,4.0,1.0,1.0,False,False,True,False,246.0,Candelaria,540000
+house,2.0,2.0,3.0,False,False,True,False,227.0,Ponta Negra,490000
+house,4.0,3.0,1.0,False,False,False,False,275.0,Ponta Negra,1000000
+house,3.0,3.0,1.0,False,False,False,False,195.0,Potengi,210000
+house,3.0,1.0,1.0,False,False,True,False,196.0,Petropolis,280000
+house,3.0,5.0,4.0,False,False,False,False,240.0,Lagoa Nova,420000
+house,3.0,4.0,4.0,False,False,False,False,199.0,Candelaria,380000
+house,3.0,1.0,3.0,False,False,True,False,115.0,Ponta Negra,400000
+house,2.0,2.0,1.0,False,False,False,False,90.0,Lagoa Nova,220000
+house,4.0,1.0,3.0,True,False,False,False,240.0,Capim Macio,550000
+house,4.0,5.0,2.0,False,False,True,False,175.0,Capim Macio,600000
+house,3.0,2.0,1.0,False,False,False,False,115.0,Neopolis,230000
+house,4.0,5.0,1.0,False,False,True,False,300.0,Candelaria,600000
+house,3.0,3.0,3.0,False,False,False,False,293.0,Lagoa Nova,550000
+house,3.0,3.0,4.0,False,False,False,False,354.0,Candelaria,430000
+house,3.0,4.0,7.0,True,False,True,False,303.0,Capim Macio,450000
+house,4.0,6.0,6.0,True,False,True,False,542.0,Candelaria,1400000
+house,4.0,3.0,2.0,False,False,False,False,200.0,Lagoa Nova,410000
+house,4.0,4.0,2.0,False,True,False,False,216.0,Capim Macio,400000
+house,4.0,2.0,1.0,False,False,True,False,140.0,Barro Vermelho,290000
+house,3.0,1.0,3.0,True,False,True,False,56.0,Pitimbu,270000
+house,4.0,4.0,4.0,True,True,True,False,269.0,Lagoa Nova,800000
+house,3.0,1.0,4.0,False,False,False,False,390.0,sept Rosado,449999
+house,2.0,1.0,1.0,False,True,False,False,250.0,Lagoa Nova,230000
+house,3.0,3.0,4.0,True,False,True,False,300.0,Candelaria,550000
+house,4.0,4.0,6.0,False,False,True,False,200.0,Capim Macio,370000
+house,3.0,5.0,4.0,False,False,True,False,180.0,Capim Macio,600000
+house,4.0,3.0,4.0,False,True,True,False,200.0,Neopolis,1200000
+house,5.0,4.0,3.0,False,False,True,False,184.0,Quintas,278000
+house,3.0,3.0,2.0,False,False,True,False,150.0,Candelaria,330000
+house,3.0,1.0,4.0,False,False,True,False,228.0,Lagoa Nova,520000
+house,3.0,1.0,2.0,False,False,True,False,110.0,Potengi,240000
+house,6.0,7.0,3.0,True,True,True,False,260.0,Ponta Negra,950000
+house,3.0,3.0,3.0,False,False,False,False,140.0,Pitimbu,235000
+house,3.0,1.0,2.0,False,False,False,False,140.0,Lagoa Nova,390000
+house,4.0,3.0,2.0,False,False,False,False,250.0,Pitimbu,300000
+house,4.0,2.0,7.0,False,False,True,False,374.0,Lagoa Nova,700000
+house,4.0,1.0,3.0,False,False,True,False,280.0,Morro Branco,380000
+house,4.0,3.0,4.0,False,True,False,False,300.0,Lagoa Nova,450000
+house,4.0,5.0,4.0,True,False,True,False,380.0,Lagoa Nova,600000
+house,3.0,3.0,2.0,False,False,True,False,130.0,Neopolis,350000
+house,5.0,3.0,2.0,False,True,True,False,130.0,Alecrim,220000
+house,3.0,5.0,4.0,False,False,False,False,200.0,Candelaria,500000
+house,4.0,3.0,8.0,True,False,True,False,200.0,Pitimbu,270000
+house,3.0,1.0,1.0,False,False,False,False,200.0,Lagoa Nova,250000
+house,3.0,4.0,3.0,True,False,False,False,256.0,Pitimbu,290000
+house,5.0,6.0,8.0,True,False,True,False,500.0,Candelaria,1200000
+house,3.0,1.0,2.0,False,False,False,False,180.0,POTILANDIA,370000
+house,5.0,4.0,6.0,False,True,True,False,260.0,Capim Macio,750000
+house,3.0,3.0,4.0,False,False,True,False,203.0,Candelaria,450000
+house,1.0,4.0,4.0,True,False,False,False,460.0,Candelaria,790000
+house,4.0,5.0,5.0,True,False,True,False,530.0,Candelaria,1200000
+house,3.0,1.0,1.0,False,False,True,False,234.0,Lagoa Nova,400000
+house,3.0,1.0,3.0,False,False,True,False,120.0,Pitimbu,198000
+house,4.0,1.0,10.0,True,False,True,False,580.0,Capim Macio,960000
+house,3.0,1.0,4.0,True,False,True,False,400.0,Candelaria,700000
+house,3.0,1.0,4.0,True,False,True,False,550.0,Cidade Jardim,850000
+house,3.0,1.0,1.0,False,False,True,False,300.0,Candelaria,480000
+house,3.0,1.0,3.0,True,False,True,False,258.0,Pitimbu,350000
+house,4.0,3.0,6.0,True,True,True,False,220.0,Capim Macio,750000
+house,4.0,1.0,3.0,False,False,True,False,210.0,Neopolis,330000
+house,5.0,5.0,2.0,False,False,False,False,210.0,Barro Vermelho,350000
+house,4.0,5.0,3.0,False,True,True,False,240.0,Capim Macio,550000
+house,4.0,3.0,2.0,False,False,False,False,177.0,Lagoa Nova,350000
+house,4.0,3.0,8.0,False,True,True,False,255.0,Ponta Negra,650000
+house,2.0,2.0,1.0,False,False,False,False,75.0,Planalto,150000
+house,4.0,4.0,4.0,True,False,True,False,322.0,Ponta Negra,500000
+house,4.0,5.0,4.0,True,False,True,False,209.0,Capim Macio,500000
+house,4.0,1.0,6.0,True,False,True,False,481.0,San Vale,1200000
+house,3.0,2.0,3.0,False,False,False,False,162.0,Candelaria,280000
+house,3.0,4.0,2.0,True,True,True,False,250.0,Capim Macio,400000
+house,6.0,4.0,2.0,False,False,False,False,250.0,Neopolis,425000
+house,4.0,5.0,4.0,True,False,True,False,540.0,Lagoa Nova,2000000
+house,4.0,4.0,4.0,True,True,True,False,200.0,Capim Macio,600000
+house,4.0,3.0,2.0,False,False,False,False,140.0,Ponta Negra,250000
+house,3.0,1.0,2.0,False,False,True,False,200.0,Pitimbu,400000
+house,4.0,4.0,4.0,True,False,True,False,170.0,Nossa Senhora da Apresentacao,380000
+house,4.0,5.0,4.0,True,False,True,False,320.0,Ponta Negra,750000
+house,3.0,1.0,5.0,False,False,True,False,200.0,Candelaria,470000
+house,3.0,3.0,5.0,True,False,True,False,290.0,Capim Macio,500000
+house,4.0,3.0,8.0,True,False,True,False,270.0,Lagoa Nova,750000
+house,4.0,3.0,4.0,False,False,False,False,369.0,Pitimbu,380000
+house,4.0,3.0,5.0,True,False,True,False,500.0,Ponta Negra,480000
+house,3.0,3.0,2.0,False,False,False,False,228.0,Lagoa Nova,395000
+house,3.0,2.0,1.0,False,True,True,False,177.0,Capim Macio,280000
+house,3.0,1.0,2.0,False,False,False,False,130.0,Lagoa Nova,650000
+house,4.0,4.0,6.0,True,False,True,False,399.0,Lagoa Nova,729000
+house,3.0,2.0,2.0,False,False,False,False,120.0,Ponta Negra,350000
+house,3.0,2.0,2.0,False,False,True,False,215.0,Petropolis,350000
+house,2.0,1.0,2.0,False,False,False,False,165.0,Pitimbu,200000
+house,7.0,6.0,10.0,True,False,True,False,500.0,Capim Macio,850000
+house,3.0,2.0,2.0,False,False,False,False,180.0,Candelaria,350000
+house,4.0,5.0,3.0,False,True,True,False,312.0,Capim Macio,495000
+house,3.0,3.0,1.0,False,True,False,False,153.0,Alecrim,390000
+house,3.0,3.0,2.0,False,True,False,False,160.0,PARNAMIRIM,250000
+house,3.0,1.0,2.0,False,False,True,False,194.0,Lagoa Nova,490000
+house,4.0,3.0,2.0,False,False,False,False,218.0,POTILANDIA,432000
+house,1.0,4.0,4.0,False,False,True,False,370.0,Lagoa Nova,1000000
+house,3.0,3.0,2.0,False,False,False,False,160.0,Neopolis,340000
+house,2.0,1.0,2.0,False,False,True,False,117.0,Ponta Negra,350000
+house,3.0,4.0,2.0,False,False,False,False,135.0,Tirol,250000
+house,3.0,2.0,2.0,False,False,False,False,233.0,Tirol,480000
+house,5.0,1.0,10.0,False,False,True,False,400.0,San Vale,650000
+house,4.0,3.0,6.0,False,False,False,False,384.0,Capim Macio,700000
+house,4.0,1.0,2.0,False,False,False,False,179.0,Capim Macio,400000
+house,8.0,4.0,2.0,False,False,False,False,196.0,Tirol,450000
+house,5.0,1.0,1.0,True,False,True,False,200.0,Lagoa Nova,350000
+house,4.0,4.0,6.0,False,False,True,False,200.0,Capim Macio,750000
+house,3.0,1.0,2.0,False,False,False,False,107.0,Lagoa Nova,350000
+house,6.0,1.0,12.0,False,False,True,False,800.0,Tirol,2400000
+house,4.0,1.0,1.0,False,False,False,False,270.0,PARNAMIRIM,420000
+house,3.0,2.0,4.0,False,False,True,False,250.0,Neopolis,270000
+house,5.0,4.0,3.0,True,True,True,False,350.0,Potengi,580000
+house,4.0,4.0,2.0,True,False,True,False,299.0,Capim Macio,590000
+house,4.0,1.0,4.0,False,False,False,False,300.0,Candelaria,590000
+house,4.0,1.0,3.0,False,False,True,False,238.0,Pitimbu,340000
+house,4.0,1.0,1.0,True,False,True,False,380.0,Ponta Negra,600000
+house,7.0,2.0,5.0,False,False,True,False,410.0,Barro Vermelho,980000
+house,4.0,1.0,2.0,False,False,False,False,324.0,Ponta Negra,600000
+house,3.0,1.0,5.0,False,False,True,False,227.0,Lagoa Seca,450000
+house,3.0,1.0,2.0,True,False,True,False,350.0,San Vale,1300000
+house,3.0,1.0,3.0,False,False,True,False,140.0,Lagoa Nova,300000
+house,4.0,1.0,3.0,False,False,True,False,200.0,Potengi,400000
+house,4.0,1.0,6.0,True,False,True,False,500.0,Candelaria,1200000
+house,4.0,6.0,6.0,False,False,False,False,385.0,Ponta Negra,1700000
+house,4.0,1.0,3.0,False,False,False,False,200.0,Ponta Negra,420000
+house,4.0,6.0,6.0,True,False,False,False,600.0,Candelaria,800000
+house,1.0,1.0,1.0,False,False,False,False,770.0,Barro Vermelho,450000
+house,5.0,1.0,1.0,False,False,False,False,360.0,Lagoa Nova,440000
+house,2.0,1.0,1.0,False,False,False,False,50.0,Nossa Senhora da Apresentacao,60000
+house,3.0,3.0,2.0,False,True,True,False,200.0,Lagoa Nova,350000
+house,3.0,4.0,4.0,True,False,True,False,431.0,Capim Macio,630000
+house,3.0,1.0,3.0,False,False,False,False,300.0,Lagoa Nova,370000
+house,2.0,1.0,1.0,True,False,True,False,98.0,Pajucara,80000
+house,2.0,1.0,1.0,False,False,False,False,370.0,Petropolis,400000
+house,4.0,5.0,6.0,False,False,True,False,520.0,Candelaria,1300000
+house,4.0,4.0,2.0,False,False,True,False,207.0,Neopolis,380000
+house,4.0,3.0,4.0,True,False,False,False,170.0,Nossa Senhora da Apresentacao,380000
+house,3.0,2.0,2.0,False,False,False,False,176.0,sept Rosado,310000
+house,3.0,2.0,4.0,False,False,True,False,160.0,Ponta Negra,450000
+house,5.0,3.0,1.0,False,False,False,False,300.0,Lagoa Nova,500000
+house,3.0,1.0,1.0,False,False,False,False,702.0,Alecrim,520000
+house,3.0,4.0,2.0,False,False,False,False,274.0,Capim Macio,450000
+house,4.0,2.0,2.0,False,False,True,False,450.0,Neopolis,470000
+house,4.0,1.0,3.0,False,False,True,False,300.0,Lagoa Nova,490000
+house,1.0,1.0,1.0,False,False,False,False,445.0,Ponta Negra,650000
+house,4.0,6.0,4.0,False,False,False,False,350.0,Capim Macio,520000
+house,5.0,2.0,5.0,False,False,True,False,250.0,Lagoa Nova,620000
+house,4.0,1.0,1.0,True,False,True,False,270.0,Redinha,330000
+house,11.0,1.0,3.0,False,False,True,False,325.0,Ponta Negra,580000
+house,5.0,4.0,3.0,False,True,True,False,220.0,Capim Macio,499000
+house,2.0,1.0,1.0,False,False,False,False,324.0,Lagoa Nova,540000
+house,5.0,1.0,1.0,False,False,True,False,325.0,Barro Vermelho,620000
+house,4.0,1.0,3.0,False,False,False,False,420.0,Candelaria,370000
+house,4.0,3.0,4.0,False,False,False,False,230.0,Capim Macio,500000
+house,6.0,1.0,7.0,True,False,True,False,600.0,Ponta Negra,3000000
+house,6.0,3.0,4.0,False,True,True,False,639.0,Neopolis,800000
+house,1.0,2.0,5.0,False,False,False,False,250.0,Lagoa Nova,540000
+house,3.0,1.0,1.0,False,False,False,False,108.0,Lagoa Nova,280000
+house,4.0,4.0,5.0,False,False,False,False,170.0,Capim Macio,480000
+house,3.0,1.0,4.0,False,False,True,False,227.0,Lagoa Nova,500000
+house,4.0,2.0,6.0,True,False,True,False,398.0,Lagoa Nova,750000
+house,4.0,1.0,4.0,False,False,True,False,575.0,Lagoa Nova,829990
+house,5.0,5.0,6.0,False,False,True,False,320.0,Pitimbu,550000
+house,5.0,1.0,5.0,True,False,True,False,780.0,Candelaria,3200000
+house,3.0,1.0,4.0,True,False,True,False,200.0,Pitimbu,300000
+house,3.0,1.0,2.0,False,False,True,False,250.0,Candelaria,450000
+house,3.0,6.0,8.0,True,False,True,False,230.0,Capim Macio,700000
+house,4.0,1.0,3.0,True,False,True,False,257.0,Lagoa Nova,498000
+house,3.0,1.0,3.0,True,False,True,False,231.0,Pitimbu,335000
+house,5.0,4.0,2.0,False,False,False,False,350.0,Ponta Negra,495000
+house,3.0,1.0,3.0,False,False,False,False,190.0,Pitimbu,270000
+house,4.0,4.0,3.0,False,False,False,False,200.0,Lagoa Seca,450000
+house,4.0,3.0,4.0,False,False,False,False,140.0,Pitimbu,200000
+house,3.0,2.0,2.0,True,True,True,False,300.0,Pitimbu,520000
+house,5.0,6.0,5.0,False,False,False,False,290.0,Pitimbu,275000
+house,4.0,4.0,4.0,False,False,False,False,287.0,Candelaria,350000
+house,3.0,1.0,6.0,False,False,True,False,250.0,Cidade Jardim,750000
+house,3.0,1.0,1.0,False,False,False,False,140.0,Ponta Negra,260000
+house,5.0,3.0,2.0,False,False,False,False,128.0,Lagoa Nova,349000
+house,3.0,1.0,4.0,False,False,False,False,230.0,Lagoa Nova,380000
+house,3.0,1.0,3.0,False,False,False,False,90.0,Ponta Negra,320000
+house,3.0,6.0,8.0,True,False,True,False,230.0,Capim Macio,700000
+house,3.0,1.0,3.0,False,False,False,False,145.0,Candelaria,295000
+house,3.0,5.0,6.0,True,False,False,False,810.0,Candelaria,1100000
+house,3.0,3.0,2.0,False,False,True,False,240.0,Pitimbu,350000
+house,4.0,4.0,2.0,True,False,False,False,299.0,Capim Macio,590000
+house,3.0,2.0,3.0,False,False,False,False,260.0,Capim Macio,750000
+house,2.0,2.0,1.0,False,False,False,False,250.0,Neopolis,280000
+house,7.0,4.0,2.0,False,False,True,False,300.0,Candelaria,650000
+house,3.0,1.0,3.0,True,False,True,False,200.0,Capim Macio,400000
+house,3.0,3.0,2.0,True,True,True,False,250.0,Ponta Negra,470000
+house,3.0,1.0,1.0,False,False,True,False,150.0,Lagoa Nova,300000
+house,2.0,1.0,2.0,False,False,True,False,166.0,Pitimbu,245000
+house,3.0,4.0,4.0,True,True,True,False,278.0,Capim Macio,629900
+house,5.0,6.0,3.0,False,False,True,False,290.0,Capim Macio,500000
+house,4.0,5.0,1.0,True,False,True,False,300.0,Candelaria,550000
+house,3.0,3.0,8.0,False,False,False,False,407.0,Lagoa Nova,940000
+house,3.0,3.0,8.0,True,True,True,False,246.0,Capim Macio,1500000
+house,3.0,1.0,4.0,True,False,True,False,380.0,Lagoa Nova,780000
+house,4.0,3.0,5.0,True,False,True,False,800.0,Candelaria,800000
+house,4.0,4.0,2.0,True,False,True,False,224.0,Capim Macio,550000
+house,3.0,1.0,3.0,True,False,True,False,210.0,Candelaria,445000
+house,3.0,3.0,2.0,True,False,False,False,128.0,Neopolis,320000
+house,3.0,4.0,6.0,False,False,True,False,150.0,Ponta Negra,600000
+house,4.0,4.0,4.0,False,False,True,False,193.0,Capim Macio,650000
+house,2.0,1.0,1.0,False,False,True,False,245.0,Lagoa Nova,250000
+house,3.0,2.0,1.0,True,False,True,False,300.0,Pitimbu,280000
+house,4.0,5.0,1.0,False,False,False,False,296.0,Capim Macio,550000
+house,3.0,1.0,2.0,False,False,True,False,230.0,Pitimbu,265000
+house,4.0,1.0,10.0,True,False,True,False,541.0,Candelaria,800000
+house,3.0,1.0,3.0,True,False,True,False,272.0,Lagoa Nova,780000
+house,3.0,3.0,3.0,False,False,False,False,191.0,Capim Macio,370000
+house,4.0,1.0,2.0,True,False,True,False,360.0,Potengi,580000
+house,3.0,1.0,4.0,False,False,False,False,172.0,Ponta Negra,430000
+house,3.0,1.0,1.0,False,False,True,False,300.0,Nossa Senhora da Apresentacao,7000000
+house,4.0,1.0,6.0,False,False,False,False,300.0,Cidade Jardim,600000
+house,3.0,1.0,2.0,False,False,False,False,180.0,Candelaria,330000
+house,3.0,1.0,4.0,False,False,True,False,205.0,Capim Macio,400000
+house,2.0,2.0,4.0,False,False,True,False,179.0,Capim Macio,450000
+house,6.0,5.0,3.0,True,False,True,False,266.0,Capim Macio,530000
+house,3.0,1.0,3.0,False,False,True,False,370.0,Capim Macio,950000
+house,4.0,1.0,5.0,True,False,True,False,422.0,Cidade Jardim,1050000
+house,4.0,4.0,4.0,True,False,True,False,2000.0,Candelaria,1600000
+house,4.0,1.0,4.0,False,False,True,False,400.0,Candelaria,650000
+house,4.0,3.0,1.0,False,False,False,False,300.0,Lagoa Nova,650000
+house,5.0,5.0,6.0,True,False,False,False,390.0,Lagoa Nova,450000
+house,4.0,1.0,1.0,False,False,False,False,420.0,Pitimbu,400000
+house,4.0,4.0,1.0,False,False,False,False,321.0,Neopolis,450000
+house,3.0,1.0,1.0,False,False,False,False,495.0,Tirol,600000
+house,3.0,4.0,4.0,True,False,True,False,300.0,Capim Macio,500000
+house,3.0,1.0,2.0,False,False,True,False,140.0,Neopolis,270000
+house,3.0,2.0,2.0,False,False,False,False,300.0,Lagoa Nova,380000
+house,2.0,2.0,1.0,False,False,False,False,78.0,Candelaria,303136
+house,5.0,5.0,3.0,False,False,False,False,248.0,Ponta Negra,799000
+house,3.0,2.0,2.0,False,False,False,False,200.0,POTILANDIA,500000
+house,4.0,4.0,2.0,True,False,False,False,214.0,Capim Macio,525000
+house,3.0,1.0,2.0,False,False,False,False,146.0,Capim Macio,420000
+house,3.0,1.0,2.0,False,False,True,False,354.0,Candelaria,250000
+house,4.0,1.0,2.0,True,False,True,False,315.0,Ponta Negra,1500000
+house,4.0,3.0,6.0,True,False,True,False,460.0,Lagoa Nova,2300000
+house,5.0,1.0,3.0,True,False,True,False,228.0,Candelaria,720000
+house,3.0,1.0,2.0,False,False,True,False,200.0,Lagoa Nova,380000
+house,5.0,3.0,7.0,False,False,False,False,300.0,Ponta Negra,350000
+house,4.0,2.0,1.0,False,False,False,False,200.0,Planalto,200000
+house,4.0,6.0,3.0,False,False,True,False,240.0,Capim Macio,495000
+house,3.0,1.0,3.0,False,False,True,False,160.0,Pitimbu,280000
+house,4.0,2.0,6.0,False,False,False,False,140.0,Planalto,150000
+house,3.0,5.0,5.0,True,False,True,False,230.0,Capim Macio,620000
+house,4.0,1.0,6.0,True,False,True,False,587.0,Candelaria,900000
+house,5.0,5.0,3.0,True,False,False,False,298.0,Capim Macio,600000
+house,3.0,3.0,4.0,False,False,False,False,263.0,Lagoa Nova,350000
+house,3.0,1.0,7.0,False,False,False,False,400.0,Candelaria,600000
+house,4.0,1.0,2.0,False,False,True,False,180.0,Alecrim,270000
+house,3.0,1.0,4.0,True,False,False,False,320.0,Candelaria,550000
+house,3.0,1.0,1.0,False,False,False,False,108.0,Lagoa Nova,250000
+house,3.0,2.0,3.0,False,False,True,False,358.0,Ponta Negra,990000
+house,4.0,1.0,6.0,False,False,True,False,463.0,Capim Macio,1199000
+house,3.0,1.0,1.0,True,False,True,False,179.0,Capim Macio,400000
+house,6.0,5.0,3.0,False,False,False,False,340.0,Ponta Negra,524900
+house,4.0,1.0,3.0,True,False,True,False,208.0,Pitimbu,750000
+house,4.0,1.0,4.0,False,False,False,False,210.0,Capim Macio,550000
+house,3.0,5.0,3.0,False,True,True,False,260.0,Capim Macio,590000
+house,3.0,1.0,2.0,False,False,False,False,240.0,Lagoa Nova,290000
+house,3.0,1.0,2.0,True,False,False,False,472.0,Barro Vermelho,480000
+house,4.0,1.0,6.0,False,False,False,False,500.0,Candelaria,1300000
+house,3.0,1.0,1.0,False,False,False,False,150.0,Quintas,200000
+house,3.0,1.0,3.0,False,False,False,False,157.0,Lagoa Seca,295000
+house,4.0,3.0,7.0,False,False,True,False,617.0,Lagoa Nova,1399000
+house,12.0,12.0,5.0,False,False,False,False,485.0,Ponta Negra,2000000
+house,3.0,3.0,3.0,False,False,False,False,180.0,Lagoa Nova,379000
+house,4.0,1.0,4.0,False,False,True,False,241.0,Capim Macio,495000
+house,3.0,1.0,2.0,False,False,True,False,217.0,Pitimbu,280000
+house,4.0,3.0,3.0,False,True,True,False,160.0,Pitimbu,250000
+house,4.0,3.0,6.0,True,True,True,False,500.0,Lagoa Nova,750000
+house,3.0,1.0,4.0,False,False,True,False,172.0,Capim Macio,575000
+house,3.0,1.0,2.0,True,False,True,False,194.0,Lagoa Nova,490000
+house,4.0,2.0,3.0,False,False,True,False,700.0,Candelaria,1000000
+house,3.0,3.0,2.0,False,False,False,False,300.0,Lagoa Nova,380000
+house,3.0,1.0,2.0,False,False,True,False,320.0,Lagoa Nova,520000
+house,4.0,6.0,3.0,False,False,True,False,240.0,Capim Macio,495000
+house,3.0,2.0,1.0,False,False,True,False,240.0,Candelaria,270000
+house,4.0,3.0,2.0,False,False,False,False,250.0,Lagoa Nova,500000
+house,3.0,1.0,3.0,False,False,False,False,120.0,Candelaria,950000
+house,2.0,1.0,3.0,False,False,False,False,150.0,Pitimbu,200000
+house,6.0,2.0,10.0,True,True,True,False,480.0,Redinha,460000
+house,2.0,1.0,2.0,False,False,False,False,113.0,Ponta Negra,250000
+house,3.0,1.0,2.0,False,False,True,False,280.0,Pitimbu,280000
+house,2.0,1.0,3.0,True,False,True,False,62.0,Pajucara,100000
+house,3.0,4.0,2.0,False,False,True,False,200.0,Lagoa Nova,430000
+house,3.0,3.0,5.0,False,False,True,False,184.0,Ponta Negra,350000
+house,3.0,2.0,4.0,False,False,True,False,253.0,Capim Macio,560000
+house,3.0,1.0,2.0,False,False,True,False,80.0,Lagoa Nova,270000
+house,3.0,1.0,2.0,True,False,True,False,280.0,Pitimbu,380000
+house,3.0,1.0,2.0,False,False,False,False,516.0,Ponta Negra,380000
+house,4.0,1.0,6.0,False,False,True,False,365.0,Candelaria,600000
+house,4.0,1.0,4.0,False,False,True,False,400.0,Candelaria,480000
+house,5.0,4.0,6.0,True,False,True,False,435.0,Capim Macio,550000
+house,4.0,4.0,3.0,False,False,True,False,150.0,Nova Descoberta,450000
+house,3.0,1.0,5.0,False,False,True,False,200.0,Capim Macio,460000
+house,6.0,5.0,4.0,True,False,True,False,424.0,Capim Macio,850000
+house,3.0,1.0,2.0,False,False,True,False,185.0,Pitimbu,300000
+house,3.0,3.0,5.0,False,False,True,False,151.0,PARNAMIRIM,330000
+house,3.0,1.0,2.0,False,False,False,False,142.0,Lagoa Nova,240000
+house,5.0,6.0,5.0,False,False,True,False,230.0,Ponta Negra,650000
+house,4.0,2.0,3.0,True,False,True,False,600.0,San Vale,780000
+house,3.0,1.0,1.0,True,False,True,False,170.0,PARNAMIRIM,370000
+house,3.0,3.0,3.0,False,False,False,False,464.0,Candelaria,700000
+house,3.0,1.0,1.0,True,False,True,False,130.0,PARNAMIRIM,360000
+house,5.0,1.0,6.0,False,False,False,False,500.0,Capim Macio,950000
+house,5.0,6.0,4.0,True,True,True,False,350.0,Capim Macio,500000
+house,4.0,1.0,3.0,False,False,True,False,400.0,Barro Vermelho,690000
+house,3.0,1.0,2.0,False,False,True,False,228.0,Lagoa Nova,500000
+house,3.0,1.0,2.0,False,False,False,False,150.0,Candelaria,230000
+house,1.0,1.0,3.0,False,False,True,False,360.0,Pitimbu,155000
+house,4.0,4.0,4.0,True,True,True,False,424.0,Capim Macio,850000
+house,3.0,2.0,3.0,False,False,False,False,170.0,Candelaria,345000
+house,3.0,2.0,2.0,False,False,True,False,360.0,Capim Macio,429000
+house,6.0,5.0,1.0,False,False,True,False,250.0,Igapo,340000
+house,4.0,4.0,3.0,True,False,True,False,464.0,Candelaria,700000
+house,3.0,2.0,3.0,False,False,False,False,130.0,Pitimbu,270000
+house,5.0,6.0,10.0,True,False,True,False,430.0,Candelaria,970000
+house,3.0,1.0,2.0,False,False,True,False,320.0,Capim Macio,700000
+house,3.0,2.0,3.0,False,False,True,False,200.0,Nova Descoberta,450000
+house,3.0,1.0,2.0,False,False,True,False,250.0,Pitimbu,159990
+house,3.0,1.0,1.0,False,False,False,False,250.0,Candelaria,320000
+house,3.0,1.0,1.0,True,False,True,False,450.0,Capim Macio,600000
+house,5.0,1.0,8.0,False,False,True,False,240.0,Pitimbu,400000
+house,3.0,3.0,1.0,False,False,False,False,270.0,Tirol,690000
+house,3.0,1.0,2.0,False,False,True,False,138.0,Candelaria,290000
+house,4.0,1.0,2.0,False,False,False,False,138.0,Pitimbu,310000
+house,5.0,5.0,18.0,True,True,True,False,550.0,Ponta Negra,2200000
+house,5.0,2.0,1.0,False,False,True,False,216.0,Candelaria,300000
+house,3.0,1.0,2.0,False,False,True,False,210.0,Candelaria,400000
+house,4.0,1.0,4.0,False,False,True,False,235.0,Ponta Negra,450000
+house,3.0,1.0,3.0,True,False,True,False,90.0,Pitimbu,260000
+house,3.0,1.0,1.0,False,False,True,False,300.0,Ponta Negra,500000
+house,3.0,2.0,2.0,False,False,True,False,195.0,Ponta Negra,400000
+house,3.0,1.0,2.0,False,False,True,False,137.0,Candelaria,260000
+house,4.0,1.0,2.0,False,False,True,False,214.0,Neopolis,410000
+house,3.0,1.0,3.0,False,False,False,False,50.0,Cidade da Esperanca,200000
+house,3.0,1.0,2.0,True,False,True,False,250.0,Capim Macio,530000
+house,8.0,2.0,4.0,False,False,True,False,300.0,Ponta Negra,680000
+house,3.0,5.0,6.0,False,True,True,False,358.0,Ponta Negra,680000
+house,3.0,2.0,2.0,False,False,True,False,141.0,Neopolis,300000
+house,3.0,1.0,1.0,False,True,True,False,110.0,Pajucara,200000
+house,4.0,1.0,5.0,True,False,True,False,432.0,Lagoa Nova,1200000
+house,4.0,1.0,3.0,False,False,False,False,277.0,Ponta Negra,550000
+house,7.0,2.0,8.0,False,False,True,False,500.0,Capim Macio,950000
+house,4.0,3.0,3.0,False,False,False,False,160.0,Pitimbu,250000
+house,3.0,1.0,2.0,False,True,False,False,354.0,Lagoa Nova,1100000
+house,4.0,4.0,7.0,False,False,True,False,227.0,Candelaria,350000
+house,3.0,1.0,4.0,True,False,True,False,375.0,Capim Macio,620000
+house,3.0,3.0,1.0,True,False,True,False,250.0,Redinha,490000
+house,4.0,1.0,6.0,False,False,True,False,450.0,Capim Macio,680000
+house,4.0,1.0,6.0,True,False,True,False,650.0,PARNAMIRIM,4700000
+house,2.0,1.0,3.0,False,False,False,False,154.0,Candelaria,270000
+house,2.0,1.0,1.0,False,False,True,False,175.0,Barro Vermelho,200000
+house,4.0,1.0,5.0,True,False,True,False,680.0,Cidade Jardim,1800000
+house,2.0,1.0,2.0,False,False,True,False,60.0,Planalto,140000
+house,2.0,1.0,2.0,False,False,False,False,70.0,Pitimbu,240000
+house,5.0,1.0,2.0,False,False,False,False,460.0,Capim Macio,800000
+house,3.0,1.0,3.0,False,False,True,False,220.0,Capim Macio,350000
+house,20.0,1.0,80.0,False,False,False,False,450.0,Ponta Negra,1400000
+house,3.0,1.0,4.0,False,False,True,False,200.0,Capim Macio,500000
+house,4.0,2.0,2.0,False,False,True,False,275.0,Ponta Negra,590000
+house,3.0,1.0,4.0,False,False,False,False,320.0,Capim Macio,800000
+house,4.0,1.0,4.0,True,False,True,False,302.0,Lagoa Nova,630000
+house,3.0,2.0,1.0,False,False,True,False,200.0,Candelaria,280000
+house,4.0,1.0,4.0,False,False,True,False,398.0,Capim Macio,900000
+house,3.0,4.0,2.0,False,False,False,False,322.0,Lagoa Nova,525000
+house,12.0,1.0,3.0,False,False,False,False,400.0,Cidade Alta,280000
+house,5.0,1.0,1.0,False,False,False,False,112.0,Alecrim,260000
+house,3.0,2.0,2.0,False,False,True,False,117.0,Ponta Negra,300000
+house,3.0,1.0,1.0,False,False,False,False,235.0,Tirol,890000
+house,3.0,3.0,2.0,True,False,True,False,330.0,Ponta Negra,550000
+house,2.0,2.0,1.0,False,False,False,False,600.0,Quintas,800000
+house,4.0,1.0,4.0,False,False,True,False,350.0,Capim Macio,799000
+house,3.0,1.0,2.0,False,False,False,False,280.0,Alecrim,430000
+house,3.0,1.0,3.0,True,False,True,False,314.0,Candelaria,790000
+house,3.0,2.0,4.0,False,False,False,False,159.0,Lagoa Nova,350000
+house,2.0,1.0,6.0,False,False,True,False,320.0,Pitimbu,319000
+house,3.0,2.0,6.0,False,False,True,False,245.0,Capim Macio,380000
+house,3.0,1.0,2.0,True,False,False,False,260.0,Pitimbu,280000
+house,3.0,1.0,2.0,False,False,False,False,120.0,Lagoa Nova,450000
+house,4.0,1.0,4.0,False,False,True,False,800.0,Capim Macio,750000
+house,4.0,2.0,2.0,False,False,False,False,480.0,Barro Vermelho,450000
+house,3.0,2.0,2.0,False,False,False,False,480.0,Capim Macio,750000
+house,4.0,3.0,2.0,False,False,True,False,319.0,Ponta Negra,690000
+house,4.0,4.0,2.0,False,False,True,False,217.0,Candelaria,250000
+house,6.0,2.0,8.0,True,False,True,False,630.0,Cidade Jardim,1600000
+house,3.0,1.0,2.0,True,False,True,False,300.0,Capim Macio,850000
+house,3.0,1.0,2.0,False,False,False,False,180.0,Cidade Verde,320000
+house,10.0,10.0,1.0,False,False,False,False,450.0,Ponta Negra,850000
+house,4.0,1.0,4.0,False,False,False,False,369.0,Ponta Negra,700000
+house,3.0,2.0,13.0,False,False,True,False,180.0,Tirol,300000
+house,2.0,1.0,1.0,False,False,True,False,90.0,Lagoa Nova,180000
+house,2.0,1.0,2.0,False,False,True,False,117.0,Ponta Negra,350000
+house,6.0,1.0,8.0,False,False,True,False,616.0,Cidade Jardim,2000000
+house,3.0,1.0,2.0,False,False,True,False,277.0,Capim Macio,750000
+house,2.0,2.0,4.0,True,False,True,False,290.0,Ponta Negra,400000
+house,3.0,2.0,2.0,True,False,True,False,117.0,PARNAMIRIM,235000
+house,4.0,1.0,2.0,False,False,True,False,300.0,Lagoa Nova,380000
+house,3.0,1.0,5.0,False,False,True,False,693.0,Ponta Negra,650000
+house,6.0,1.0,1.0,False,False,False,False,260.0,PARNAMIRIM,750000
+house,4.0,1.0,5.0,True,False,True,False,670.0,Ponta Negra,2300000
+house,3.0,1.0,1.0,True,False,True,False,422.0,Lagoa Nova,1000000
+house,6.0,1.0,9.0,False,False,True,False,560.0,Capim Macio,2300000
+house,3.0,1.0,2.0,True,False,True,False,280.0,San Vale,550000
+house,4.0,1.0,2.0,False,False,True,False,195.0,Lagoa Nova,430000
+house,3.0,1.0,4.0,True,False,True,False,300.0,Lagoa Nova,550000
+house,3.0,3.0,2.0,False,False,False,False,241.0,Tirol,750000
+house,4.0,1.0,1.0,False,False,False,False,235.0,Lagoa Nova,450000
+house,5.0,2.0,3.0,False,False,True,False,320.0,Lagoa Nova,350000
+house,3.0,1.0,5.0,True,False,False,False,393.0,PARNAMIRIM,450000
+house,3.0,4.0,4.0,False,False,False,False,220.0,Lagoa Nova,445000
+house,3.0,3.0,2.0,False,False,False,False,240.0,Candelaria,330000
+house,3.0,4.0,4.0,False,False,False,False,230.0,Lagoa Nova,350000
+house,3.0,1.0,3.0,False,False,True,False,157.0,Ponta Negra,360000
+house,3.0,2.0,1.0,False,False,False,False,117.0,Alecrim,200000
+house,3.0,1.0,4.0,True,False,True,False,290.0,Cidade Jardim,600000
+house,3.0,2.0,1.0,False,False,True,False,180.0,Alecrim,250000
+house,4.0,1.0,1.0,False,False,False,False,134.0,Cidade Alta,160000
+house,4.0,1.0,1.0,False,False,False,False,360.0,Ponta Negra,1850000
+house,3.0,1.0,2.0,True,False,True,False,200.0,Capim Macio,360000
+house,3.0,1.0,6.0,False,False,False,False,180.0,Capim Macio,490000
+house,3.0,4.0,10.0,False,False,False,False,357.0,Ponta Negra,760000
+house,2.0,2.0,2.0,False,False,False,False,101.0,Cidade da Esperanca,160000
+house,3.0,2.0,1.0,False,False,True,False,125.0,Alecrim,590000
+house,3.0,1.0,4.0,False,False,True,False,200.0,Lagoa Nova,450000
+house,4.0,2.0,3.0,False,False,True,False,287.0,Ponta Negra,550000
+house,4.0,1.0,5.0,False,False,False,False,350.0,Capim Macio,600000
+house,3.0,1.0,4.0,True,False,True,False,550.0,Candelaria,950000
+house,6.0,6.0,5.0,False,False,False,False,1150.0,Ponta Negra,790000
+house,3.0,1.0,2.0,False,False,True,False,220.0,Lagoa Nova,370000
+house,4.0,1.0,1.0,False,False,True,False,126.0,Lagoa Nova,700000
+house,3.0,1.0,2.0,False,False,True,False,156.0,Barro Vermelho,450000
+house,3.0,1.0,3.0,False,False,True,False,300.0,Pitimbu,600000
+house,4.0,1.0,6.0,False,False,True,False,330.0,Cidade Jardim,600000
+house,3.0,4.0,5.0,False,False,False,False,156.0,Ponta Negra,750000
+house,4.0,4.0,2.0,False,False,False,False,175.0,Capim Macio,620000
+house,3.0,4.0,4.0,False,False,True,False,450.0,Capim Macio,500000
+house,3.0,1.0,11.0,False,False,False,False,232.0,Capim Macio,520000
+house,3.0,1.0,4.0,False,False,True,False,196.0,Pitimbu,240000
+house,4.0,4.0,2.0,True,False,True,False,250.0,Pitimbu,300000
+house,3.0,1.0,4.0,False,False,True,False,250.0,Lagoa Nova,480000
+house,3.0,1.0,1.0,True,False,True,False,61.0,Planalto,162000
+house,4.0,1.0,6.0,False,False,True,False,354.0,Ponta Negra,750000
+house,5.0,2.0,30.0,True,False,True,False,900.0,San Vale,3500000
+house,4.0,1.0,2.0,False,False,False,False,321.0,Neopolis,500000
+house,5.0,1.0,2.0,False,False,True,False,700.0,Ponta Negra,600000
+house,3.0,1.0,3.0,False,False,True,False,230.0,Lagoa Nova,415000
+house,4.0,1.0,8.0,False,False,True,False,386.0,Capim Macio,1300000
+house,3.0,1.0,3.0,False,False,False,False,300.0,Lagoa Nova,380000
+house,2.0,2.0,1.0,True,False,True,False,98.0,Pajucara,70000
+house,3.0,1.0,5.0,False,False,False,False,189.0,Pitimbu,180000
+house,3.0,1.0,2.0,False,False,False,False,200.0,PARNAMIRIM,290000
+house,2.0,1.0,2.0,False,False,False,False,90.0,Cidade da Esperanca,160000
+house,4.0,3.0,5.0,True,False,True,False,300.0,Lagoa Nova,1400000
+house,5.0,2.0,3.0,False,False,False,False,723.0,Ponta Negra,3000000
+house,3.0,1.0,6.0,False,False,True,False,156.0,Lagoa Nova,500000
+house,2.0,1.0,1.0,False,False,False,False,181.0,Ponta Negra,289000
+house,3.0,1.0,4.0,False,False,True,False,185.0,Capim Macio,450000
+house,7.0,7.0,4.0,False,False,True,False,437.0,Ponta Negra,985000
+house,4.0,1.0,4.0,True,False,True,False,414.0,Lagoa Nova,800000
+house,4.0,1.0,2.0,False,False,True,False,240.0,Candelaria,350000
+house,3.0,2.0,1.0,False,False,False,False,360.0,Lagoa Nova,700000
+house,3.0,1.0,2.0,False,False,False,False,260.0,Capim Macio,530000
+house,4.0,2.0,4.0,False,False,True,False,350.0,Capim Macio,850000
+house,2.0,1.0,2.0,False,False,False,False,193.0,Tirol,500000
+house,3.0,1.0,3.0,False,False,False,False,308.0,Ponta Negra,329000
+house,3.0,2.0,2.0,False,False,True,False,69.0,Ponta Negra,450000
+house,4.0,5.0,1.0,False,False,True,False,300.0,Ponta Negra,350000
+house,4.0,3.0,3.0,False,False,False,False,177.0,Lagoa Nova,380000
+house,4.0,1.0,2.0,True,False,True,False,240.0,Capim Macio,550000
+house,3.0,4.0,8.0,False,False,False,False,270.0,Pitimbu,600000
+house,1.0,1.0,1.0,True,False,True,False,380.0,Candelaria,650000
+house,4.0,3.0,1.0,True,False,True,False,1610.0,Ponta Negra,3750000
+house,2.0,1.0,4.0,False,False,True,False,180.0,Ponta Negra,390000
+house,4.0,1.0,2.0,True,False,True,False,450.0,Capim Macio,650000
+house,3.0,1.0,1.0,False,False,True,False,250.0,Lagoa Nova,490000
+house,3.0,1.0,2.0,False,False,False,False,240.0,Lagoa Nova,650000
+house,4.0,2.0,4.0,False,False,True,False,298.0,Ponta Negra,1490000
+house,3.0,1.0,2.0,False,False,False,False,240.0,Lagoa Nova,650000
+house,4.0,2.0,4.0,False,False,True,False,298.0,Ponta Negra,1490000
+house,3.0,1.0,1.0,False,False,False,False,260.0,Cidade Jardim,590000
+house,3.0,1.0,10.0,False,False,False,False,180.0,Ponta Negra,550000
+house,4.0,1.0,2.0,True,False,True,False,350.0,Ponta Negra,1400000
+house,5.0,2.0,4.0,False,False,True,False,210.0,Alecrim,299000
+house,3.0,1.0,5.0,False,False,False,False,380.0,Lagoa Nova,400000
+house,3.0,1.0,2.0,False,False,False,False,350.0,Ponta Negra,670000
+house,2.0,1.0,1.0,False,False,True,False,67.0,Lagoa Nova,150000
+house,3.0,1.0,2.0,False,False,False,False,227.0,Ponta Negra,480000
+house,2.0,1.0,5.0,False,False,False,False,75.0,Pitimbu,180000
+house,3.0,1.0,6.0,True,False,True,False,220.0,Capim Macio,640000
+house,3.0,1.0,4.0,False,False,False,False,169.0,Neopolis,480000
+house,4.0,1.0,4.0,True,False,True,False,250.0,Capim Macio,700000
+house,19.0,19.0,8.0,False,False,False,False,497.0,Ponta Negra,1500000
+house,3.0,1.0,3.0,True,False,True,False,256.0,Lagoa Nova,600000
+house,3.0,3.0,2.0,False,True,False,False,240.0,Ponta Negra,500000
+house,3.0,3.0,3.0,False,False,False,False,240.0,Barro Vermelho,495000
+house,4.0,3.0,8.0,False,False,False,False,324.0,Capim Macio,600000
+house,3.0,2.0,3.0,True,False,True,False,300.0,Ponta Negra,1500000
+house,3.0,6.0,2.0,False,False,False,False,215.0,Petropolis,430000
+house,1.0,1.0,4.0,False,False,True,False,700.0,Ponta Negra,2600000
+house,4.0,1.0,1.0,False,False,False,False,180.0,Cidade da Esperanca,280000
+house,3.0,1.0,3.0,True,False,True,False,360.0,Ponta Negra,480000
+house,3.0,3.0,4.0,False,False,False,False,330.0,Candelaria,400000
+house,3.0,3.0,3.0,True,False,True,False,300.0,Candelaria,750000
+house,3.0,1.0,4.0,False,False,True,False,100.0,Tirol,1000000
+house,3.0,1.0,6.0,False,False,False,False,180.0,Lagoa Nova,650000
+house,4.0,1.0,1.0,False,False,True,False,290.0,Candelaria,1499000
+house,3.0,1.0,5.0,False,False,False,False,300.0,Pitimbu,350000
+house,4.0,1.0,3.0,True,False,True,False,450.0,Capim Macio,498000
+house,2.0,2.0,1.0,False,False,False,False,80.0,Neopolis,160000
+house,4.0,5.0,4.0,True,False,True,False,273.0,PARNAMIRIM,1100000
+house,5.0,1.0,2.0,False,False,True,False,360.0,Capim Macio,450000
+house,4.0,1.0,2.0,False,False,False,False,220.0,Lagoa Nova,430000
+house,2.0,1.0,2.0,False,False,False,False,140.0,Candelaria,200000
+house,3.0,3.0,2.0,False,False,False,False,300.0,Ponta Negra,490000
+house,4.0,1.0,6.0,False,False,True,False,260.0,Ponta Negra,350000
+house,4.0,2.0,4.0,False,False,False,False,250.0,Petropolis,1350000
+house,4.0,4.0,3.0,False,False,True,False,476.0,Candelaria,370000
+house,4.0,3.0,2.0,False,False,True,False,250.0,Petropolis,460000
+house,4.0,2.0,14.0,True,False,True,False,760.0,Cidade Jardim,1700000
+house,4.0,1.0,2.0,False,False,False,False,1575.0,Ponta Negra,999000
+house,2.0,1.0,1.0,True,False,True,False,260.0,Capim Macio,580000
+house,6.0,1.0,8.0,False,False,True,False,534.0,Candelaria,1500000
+house,3.0,1.0,3.0,False,False,True,False,200.0,Lagoa Nova,315000
+house,3.0,1.0,1.0,False,False,True,False,252.0,Candelaria,350000
+house,3.0,3.0,1.0,False,False,True,False,100.0,Pajucara,95000
+house,4.0,2.0,3.0,False,True,True,True,251.0,Petropolis,600000
+house,6.0,1.0,7.0,True,False,True,False,600.0,Ponta Negra,3000000
+house,3.0,1.0,2.0,False,False,False,False,154.0,de Nazare,295000
+house,5.0,3.0,3.0,False,False,True,False,518.0,Capim Macio,1600000
+house,4.0,1.0,4.0,False,False,True,False,230.0,Candelaria,550000
+house,5.0,1.0,4.0,False,False,True,False,300.0,Ponta Negra,549000
+house,2.0,1.0,1.0,False,False,True,False,40.0,Planalto,65000
+house,4.0,3.0,4.0,False,False,False,False,180.0,Pitimbu,250000
+house,3.0,1.0,3.0,True,False,False,False,450.0,Ponta Negra,650000
+house,4.0,1.0,2.0,False,False,True,False,220.0,Tirol,1100000
+house,6.0,4.0,1.0,False,False,False,False,127.0,Tirol,350000
+house,4.0,1.0,3.0,False,False,False,False,260.0,Capim Macio,550000
+house,5.0,1.0,5.0,False,False,True,False,348.0,Capim Macio,650000
+house,3.0,1.0,3.0,False,False,False,False,274.0,Capim Macio,440000
+house,3.0,2.0,3.0,True,False,True,False,200.0,Candelaria,275000
+house,3.0,3.0,3.0,False,False,False,False,150.0,Lagoa Nova,525000
+house,5.0,5.0,5.0,False,False,False,False,487.0,Lagoa Seca,900000
+house,3.0,1.0,2.0,False,False,False,False,300.0,Ponta Negra,700000
+house,3.0,1.0,2.0,False,False,False,False,190.0,Capim Macio,320000
+house,4.0,2.0,2.0,False,False,False,False,250.0,Ponta Negra,700000
+house,4.0,2.0,2.0,False,False,False,False,250.0,Ponta Negra,700000
+house,3.0,2.0,3.0,False,False,False,False,270.0,Petropolis,439000
+house,4.0,4.0,8.0,True,False,True,False,597.0,Neopolis,600000
+house,3.0,1.0,2.0,False,False,False,False,88.0,Planalto,210000
+house,4.0,1.0,2.0,False,False,False,False,143.0,Barro Vermelho,250000
+house,5.0,6.0,6.0,False,False,False,False,1350.0,Candelaria,2800000
+house,4.0,1.0,3.0,False,False,False,False,190.0,Lagoa Nova,430000
+house,2.0,1.0,1.0,False,False,False,False,80.0,Lagoa Nova,150000
+house,2.0,1.0,2.0,False,False,False,False,150.0,Capim Macio,330000
+house,3.0,6.0,2.0,True,False,False,False,290.0,Cidade Verde,550000
+house,4.0,3.0,6.0,True,False,True,False,374.0,Lagoa Nova,729000
+house,5.0,3.0,1.0,False,False,False,False,320.0,Tirol,450000
+house,3.0,1.0,1.0,False,False,True,False,132.0,Lagoa Nova,290000
+house,6.0,1.0,4.0,False,False,True,True,224.0,Lagoa Nova,450000
+house,3.0,1.0,4.0,False,False,True,False,150.0,Pitimbu,200000
+house,13.0,1.0,1.0,False,False,False,False,360.0,Ponta Negra,1200000
+house,3.0,2.0,4.0,False,False,False,False,148.0,Quintas,350000
+house,3.0,3.0,2.0,False,False,False,False,360.0,Candelaria,270000
+house,4.0,5.0,2.0,False,False,False,False,321.0,Petropolis,490000
+house,3.0,1.0,2.0,False,False,False,False,229.0,Lagoa Nova,650000
+house,3.0,2.0,1.0,False,False,True,True,100.0,Cidade Alta,250000
+house,3.0,1.0,2.0,False,False,True,False,198.0,Lagoa Nova,450000
+house,6.0,2.0,5.0,False,False,False,False,460.0,Lagoa Nova,1400000
+house,4.0,1.0,1.0,True,False,True,False,460.0,Lagoa Nova,2300000
+house,4.0,1.0,2.0,False,False,False,False,270.0,Lagoa Nova,520000
+house,3.0,1.0,1.0,False,False,True,False,176.0,Lagoa Nova,550000
+house,4.0,3.0,4.0,True,True,True,False,1080.0,Ponta Negra,780000
+house,5.0,4.0,3.0,False,False,False,False,198.0,Pajucara,400000
+house,4.0,4.0,1.0,False,False,True,False,217.0,Potengi,230000
+house,3.0,4.0,2.0,False,False,False,False,212.0,Lagoa Nova,350000
+house,5.0,5.0,3.0,False,True,True,True,350.0,Capim Macio,520000
+house,3.0,3.0,1.0,True,False,True,True,254.0,Pitimbu,350000
+house,3.0,4.0,4.0,True,False,True,True,200.0,Pitimbu,340000
+house,3.0,2.0,4.0,False,False,False,False,468.0,Capim Macio,980000
+house,3.0,1.0,5.0,False,False,True,False,130.0,Ponta Negra,360000
+house,3.0,1.0,1.0,False,False,True,False,130.0,Candelaria,260000
+house,3.0,1.0,1.0,False,False,False,False,106.0,Lagoa Nova,260000
+house,3.0,2.0,1.0,False,False,False,False,140.0,Lagoa Nova,380000
+house,4.0,5.0,3.0,False,False,True,True,264.0,Capim Macio,590000
+house,3.0,1.0,2.0,False,False,False,False,180.0,Lagoa Nova,370000
+house,4.0,1.0,1.0,False,False,True,False,206.0,Ponta Negra,440000
+house,6.0,1.0,4.0,False,False,True,False,415.0,Capim Macio,790000
+house,4.0,1.0,6.0,True,False,True,False,750.0,Ponta Negra,1700000
+house,6.0,4.0,3.0,True,False,True,False,280.0,Ponta Negra,500000
+house,3.0,3.0,4.0,False,False,True,True,331.0,Pitimbu,850000
+house,3.0,3.0,3.0,False,False,False,False,140.0,Candelaria,300000
+house,2.0,2.0,1.0,False,False,False,False,89.0,Nossa Senhora da Apresentacao,130000
+house,3.0,4.0,4.0,True,False,False,False,250.0,Capim Macio,450000
+house,5.0,5.0,4.0,False,False,False,False,240.0,Potengi,590000
+house,6.0,3.0,6.0,False,False,True,False,730.0,San Vale,490000
+house,3.0,2.0,1.0,False,False,False,False,150.0,Neopolis,350000
+house,3.0,1.0,3.0,False,False,False,False,251.0,Lagoa Nova,800000
+house,4.0,1.0,1.0,True,False,True,False,380.0,Ponta Negra,1450000
+house,5.0,6.0,14.0,True,True,True,True,1500.0,Capim Macio,3350000
+house,9.0,3.0,6.0,False,False,False,False,1000.0,Candelaria,950000
+house,4.0,3.0,1.0,False,True,False,False,200.0,Pitimbu,200000
+house,3.0,2.0,1.0,False,False,True,False,494.0,Redinha,160000
+house,4.0,1.0,2.0,False,False,True,False,800.0,Capim Macio,550000
+house,5.0,4.0,3.0,True,False,True,False,195.0,Candelaria,600000
+house,3.0,4.0,4.0,False,False,True,True,232.0,Capim Macio,520000
+house,3.0,4.0,2.0,False,False,True,True,137.0,Neopolis,450000
+house,3.0,1.0,3.0,True,True,True,True,230.0,Pitimbu,260000
+house,4.0,2.0,4.0,False,False,True,False,80.0,Pajucara,200000
+house,3.0,1.0,3.0,False,False,True,False,300.0,Ponta Negra,440000
+house,4.0,2.0,4.0,False,False,False,False,420.0,Lagoa Nova,950000
+house,3.0,1.0,2.0,False,False,False,False,214.0,Lagoa Nova,420000
+house,3.0,3.0,3.0,False,False,False,False,352.0,Barro Vermelho,300000
+house,4.0,5.0,3.0,False,False,True,True,245.0,Candelaria,360000
+house,2.0,1.0,2.0,False,False,False,False,137.0,Lagoa Nova,220000
+house,4.0,5.0,2.0,False,False,False,False,230.0,Cidade Jardim,550000
+house,4.0,1.0,2.0,False,False,True,False,270.0,Barro Vermelho,380000
+house,3.0,2.0,4.0,False,False,False,False,227.0,Lagoa Nova,500000
+house,4.0,4.0,10.0,False,False,False,False,300.0,Redinha,300000
+house,3.0,5.0,2.0,True,True,True,True,263.0,Ponta Negra,1700000
+house,4.0,1.0,2.0,False,False,False,False,163.0,Cidade da Esperanca,280000
+house,3.0,5.0,4.0,False,False,False,False,253.0,Capim Macio,560000
+house,4.0,6.0,4.0,False,False,False,False,330.0,Lagoa Nova,800000
+house,3.0,1.0,3.0,False,False,True,False,240.0,Candelaria,450000
+house,3.0,3.0,6.0,False,False,True,True,406.0,Lagoa Nova,890000
+house,3.0,3.0,1.0,False,False,True,False,180.0,PARNAMIRIM,270000
+house,2.0,1.0,1.0,False,False,False,False,60.0,Ponta Negra,250000
+house,3.0,1.0,1.0,False,False,True,False,112.0,Lagoa Nova,180000
+house,3.0,3.0,2.0,False,False,False,False,180.0,Ponta Negra,695000
+house,3.0,1.0,4.0,False,False,False,False,180.0,Ponta Negra,470000
+house,3.0,5.0,5.0,False,False,True,False,384.0,Capim Macio,695000
+house,3.0,1.0,10.0,False,False,False,False,270.0,Cidade Jardim,1500000
+house,3.0,2.0,1.0,False,True,False,True,81.0,Pitimbu,250000
+house,4.0,2.0,4.0,False,False,False,False,241.0,Pitimbu,250000
+house,3.0,1.0,4.0,False,False,True,False,274.0,Capim Macio,450000
+house,3.0,2.0,1.0,False,False,False,False,146.0,Pitimbu,160000
+house,4.0,5.0,6.0,False,False,False,False,293.0,Capim Macio,615000
+house,3.0,5.0,3.0,False,False,False,False,350.0,Candelaria,750000
+house,3.0,3.0,3.0,False,False,True,False,289.0,Pitimbu,310000
+house,5.0,1.0,3.0,False,False,True,False,397.0,Ponta Negra,1850000
+house,3.0,4.0,3.0,False,False,False,False,323.0,Lagoa Nova,700000
+house,3.0,2.0,4.0,True,False,True,True,81.0,Pitimbu,300000
+house,3.0,1.0,1.0,False,False,False,False,495.0,Tirol,600000
+house,2.0,3.0,3.0,True,False,True,False,180.0,Ponta Negra,390000
+house,7.0,7.0,3.0,False,False,False,False,587.0,Candelaria,3200000
+house,3.0,5.0,4.0,False,False,False,True,200.0,Capim Macio,580000
+house,3.0,1.0,1.0,False,False,False,False,90.0,Planalto,170000
+house,3.0,1.0,1.0,False,False,False,False,126.0,Alecrim,220000
+house,4.0,4.0,4.0,True,False,True,True,250.0,Pitimbu,300000
+house,3.0,3.0,3.0,False,True,True,False,185.0,Candelaria,460000
+house,3.0,3.0,1.0,True,False,True,False,192.0,Ponta Negra,450000
+house,4.0,1.0,4.0,False,False,False,False,370.0,Ponta Negra,550000
+house,3.0,2.0,2.0,False,False,False,False,180.0,Lagoa Nova,370000
+house,3.0,3.0,4.0,False,False,True,False,150.0,Lagoa Nova,370000
+house,3.0,1.0,3.0,False,True,False,False,125.0,PARNAMIRIM,220000
+house,3.0,1.0,3.0,False,False,False,False,209.0,Pitimbu,250000
+house,3.0,2.0,2.0,False,False,True,False,140.0,Lagoa Nova,650000
+house,4.0,1.0,1.0,False,False,True,False,174.0,PARNAMIRIM,450000
+house,5.0,6.0,4.0,False,True,True,True,450.0,Lagoa Nova,1500000
+house,4.0,1.0,3.0,False,False,True,False,250.0,Capim Macio,450000
+house,3.0,5.0,3.0,True,False,True,True,291.0,Capim Macio,620000
+house,2.0,2.0,6.0,False,False,False,False,150.0,Potengi,350000
+house,4.0,3.0,4.0,False,False,False,False,201.0,Pitimbu,200000
+house,6.0,7.0,3.0,True,True,True,False,408.0,Ponta Negra,1500000
+house,1.0,1.0,5.0,False,False,False,False,280.0,Capim Macio,700000
+house,3.0,1.0,4.0,True,False,True,False,280.0,Cidade Verde,450000
+house,5.0,6.0,6.0,False,True,True,True,294.0,Tirol,900000
+house,4.0,1.0,5.0,False,False,False,False,329.0,Barro Vermelho,620000
+house,3.0,5.0,4.0,False,False,False,False,168.0,Lagoa Nova,400000
+house,4.0,4.0,4.0,False,False,True,False,329.0,Barro Vermelho,620000
+house,3.0,1.0,2.0,False,False,False,False,170.0,Lagoa Nova,348000
+house,3.0,1.0,4.0,False,False,True,False,269.0,Pitimbu,300000
+house,7.0,6.0,3.0,True,False,True,False,550.0,Lagoa Nova,630000
+house,4.0,6.0,4.0,True,True,True,True,400.0,Capim Macio,990000
+house,1.0,2.0,7.0,False,False,False,False,570.0,Capim Macio,750000
+house,5.0,1.0,2.0,False,False,True,False,240.0,Candelaria,280000
+house,3.0,1.0,1.0,False,False,False,False,150.0,Tirol,1000000
+house,4.0,2.0,2.0,False,False,True,False,240.0,Ponta Negra,800000
+house,3.0,1.0,4.0,False,False,False,False,192.0,Tirol,340000
+house,3.0,1.0,4.0,False,False,False,False,190.0,San Vale,295000
+house,4.0,2.0,4.0,False,False,True,False,300.0,Capim Macio,690000
+house,5.0,8.0,7.0,False,False,False,True,462.0,Lagoa Nova,1400000
+house,4.0,4.0,5.0,True,False,True,True,464.0,Candelaria,700000
+house,3.0,3.0,1.0,True,False,True,True,400.0,Candelaria,600000
+house,3.0,1.0,4.0,False,False,False,False,188.0,Pitimbu,310000
+house,3.0,2.0,2.0,False,False,False,False,260.0,Capim Macio,520000
+house,4.0,1.0,1.0,False,False,False,False,180.0,Barro Vermelho,235000
+house,5.0,6.0,10.0,True,False,True,False,449.0,Ponta Negra,1100000
+house,2.0,1.0,1.0,False,False,True,False,81.0,sept Rosado,130000
+house,3.0,1.0,2.0,False,False,True,False,150.0,Capim Macio,350000
+house,3.0,1.0,6.0,False,False,False,False,236.0,Capim Macio,1200000
+house,8.0,3.0,3.0,False,False,True,False,362.0,Barro Vermelho,450000
+house,6.0,8.0,6.0,False,True,False,False,337.0,Lagoa Nova,1100000
+house,3.0,2.0,3.0,False,False,False,False,142.0,Pitimbu,260000
+house,3.0,1.0,3.0,False,False,True,False,231.0,Alecrim,1200000
+house,4.0,2.0,3.0,False,False,True,False,293.0,Neopolis,470000
+house,3.0,1.0,8.0,False,False,False,False,329.0,Ponta Negra,1600000
+house,3.0,5.0,2.0,False,False,True,False,350.0,Capim Macio,800000
+house,3.0,3.0,4.0,False,False,True,False,100.0,Neopolis,310000
+house,3.0,2.0,6.0,False,False,True,False,267.0,Candelaria,730000
+house,3.0,1.0,1.0,False,False,False,False,165.0,Quintas,250000
+house,4.0,1.0,4.0,False,False,False,False,270.0,Alecrim,760000
+house,7.0,4.0,1.0,False,True,True,True,250.0,Alecrim,300000
+house,5.0,1.0,4.0,False,False,False,False,369.0,Candelaria,440000
+house,5.0,5.0,6.0,False,False,True,True,224.0,Pitimbu,665000
+house,4.0,2.0,4.0,False,False,False,False,500.0,Lagoa Nova,1000000
+house,3.0,6.0,2.0,False,False,True,True,192.0,Cidade da Esperanca,400000
+house,3.0,3.0,5.0,False,False,True,False,245.0,Ponta Negra,400000
+house,2.0,1.0,1.0,False,False,True,False,217.0,Pitimbu,290000
+house,3.0,3.0,5.0,True,False,True,False,300.0,Ponta Negra,350000
+house,4.0,2.0,2.0,False,False,False,False,247.0,Igapo,260000
+house,4.0,2.0,1.0,False,False,False,False,134.0,Cidade da Esperanca,195000
+house,3.0,2.0,2.0,False,False,False,False,168.0,Neopolis,300000
+house,4.0,3.0,1.0,False,False,False,False,124.0,sept Rosado,120000
+house,3.0,1.0,4.0,False,False,False,False,240.0,Barro Vermelho,495000
+house,3.0,1.0,2.0,False,False,False,False,240.0,Lagoa Nova,290000
+house,3.0,5.0,4.0,False,True,True,False,285.0,Candelaria,490000
+house,2.0,1.0,1.0,False,False,False,False,110.0,Lagoa Nova,220000
+house,3.0,1.0,1.0,False,False,False,False,113.0,Lagoa Seca,210000
+house,3.0,1.0,1.0,False,False,True,False,165.0,Candelaria,350000
+house,3.0,1.0,8.0,True,False,True,False,800.0,Pitimbu,400000
+house,4.0,2.0,2.0,False,False,False,False,140.0,Lagoa Nova,500000
+house,3.0,3.0,5.0,False,False,True,False,245.0,Ponta Negra,400000
+house,4.0,1.0,2.0,False,False,False,False,230.0,Alecrim,240000
+house,2.0,2.0,1.0,True,False,True,False,98.0,Pajucara,80000
+house,3.0,4.0,2.0,False,False,True,False,165.0,Candelaria,600000
+house,4.0,1.0,4.0,False,False,False,False,400.0,Lagoa Nova,750000
+house,3.0,3.0,2.0,True,False,True,False,320.0,Capim Macio,520000
+house,3.0,1.0,2.0,False,False,False,False,217.0,San Vale,300000
+house,3.0,4.0,4.0,True,True,True,False,278.0,Capim Macio,570000
+house,3.0,3.0,2.0,False,False,True,False,221.0,Capim Macio,210000
+house,3.0,1.0,1.0,False,False,True,False,75.0,Pajucara,140000
+house,4.0,4.0,4.0,False,False,False,False,330.0,Capim Macio,650000
+house,3.0,1.0,6.0,False,False,False,False,170.0,Pajucara,460000
+house,3.0,1.0,4.0,False,False,False,False,300.0,Candelaria,450000
+house,3.0,1.0,2.0,False,False,False,False,150.0,Candelaria,240000
+house,4.0,4.0,6.0,False,False,False,False,360.0,Neopolis,350000
+house,4.0,5.0,5.0,False,True,True,False,324.0,Ponta Negra,500000
+house,4.0,2.0,6.0,False,False,True,True,360.0,Pitimbu,360000
+house,4.0,1.0,4.0,False,False,True,False,1000.0,Capim Macio,990000
+house,2.0,2.0,2.0,False,False,True,False,132.0,Redinha,100000
+house,3.0,3.0,1.0,False,False,False,False,158.0,Alecrim,200000
+house,2.0,1.0,1.0,False,False,False,False,55.0,Ponta Negra,195000
+house,5.0,6.0,3.0,True,False,True,False,350.0,Capim Macio,520000
+house,3.0,3.0,2.0,False,False,True,False,230.0,Lagoa Nova,350000
+house,3.0,1.0,4.0,False,False,False,False,330.0,Lagoa Nova,495000
+house,3.0,1.0,4.0,False,False,True,False,107.0,Pajucara,260000
+house,4.0,8.0,8.0,True,True,True,False,620.0,Capim Macio,1600000
+house,3.0,4.0,2.0,False,False,True,False,165.0,Candelaria,600000
+house,3.0,1.0,2.0,False,False,False,False,178.0,Lagoa Nova,400000
+house,3.0,1.0,4.0,False,False,False,False,200.0,Lagoa Nova,399000
+house,3.0,2.0,2.0,False,False,False,False,120.0,Neopolis,200000
+house,2.0,1.0,2.0,False,False,True,False,78.0,Ponta Negra,138000
+house,3.0,1.0,3.0,False,False,False,False,248.0,Neopolis,390000
+house,3.0,4.0,1.0,False,False,False,False,180.0,Cidade Alta,300000
+house,4.0,1.0,4.0,False,False,False,False,350.0,Lagoa Nova,1400000
+house,1.0,1.0,1.0,False,False,True,False,240.0,Ponta Negra,550000
+house,3.0,1.0,4.0,False,False,False,False,372.0,Lagoa Nova,780000
+house,3.0,3.0,2.0,False,False,True,False,181.0,Capim Macio,450000
+house,3.0,4.0,6.0,True,False,True,False,251.0,Neopolis,600000
+house,4.0,4.0,5.0,False,False,True,False,197.0,Nova Descoberta,550000
+house,3.0,3.0,2.0,False,False,True,False,225.0,Capim Macio,335000
+house,4.0,2.0,7.0,False,False,True,False,400.0,Pitimbu,175000
+house,3.0,3.0,4.0,False,False,False,False,195.0,Lagoa Nova,500000
+house,3.0,4.0,7.0,False,False,False,False,330.0,Capim Macio,690000
+house,3.0,2.0,1.0,False,False,False,False,180.0,Lagoa Nova,370000
+house,3.0,1.0,4.0,False,False,True,True,167.0,Pitimbu,240000
+house,3.0,1.0,2.0,False,False,False,False,120.0,Ponta Negra,300000
+house,3.0,5.0,3.0,False,True,True,True,500.0,Nossa Senhora da Apresentacao,310000
+house,3.0,2.0,3.0,False,False,True,False,200.0,Ponta Negra,650000
+house,3.0,3.0,4.0,False,False,False,False,191.0,Neopolis,380000
+house,3.0,1.0,2.0,False,False,False,False,117.0,Cidade Verde,265000
+house,3.0,2.0,10.0,False,False,False,False,240.0,Candelaria,600000
+house,2.0,2.0,1.0,False,False,True,False,244.0,Pitimbu,350000
+house,4.0,3.0,4.0,False,False,True,True,421.0,Lagoa Nova,640000
+house,4.0,1.0,4.0,True,False,True,False,250.0,Capim Macio,750000
+house,5.0,4.0,4.0,False,True,True,False,400.0,Ponta Negra,800000
+house,4.0,5.0,3.0,True,True,True,True,450.0,Capim Macio,1100000
+house,3.0,3.0,2.0,False,False,True,False,121.0,Lagoa Nova,260000
+house,3.0,2.0,2.0,False,False,False,False,420.0,Pitimbu,280000
+house,3.0,3.0,2.0,False,False,False,False,122.0,Cidade da Esperanca,294000
+house,2.0,3.0,5.0,False,True,True,False,300.0,Ponta Negra,800000
+house,3.0,3.0,4.0,False,False,True,True,264.0,Lagoa Nova,600000
+house,3.0,1.0,1.0,False,False,False,False,94.0,Quintas,180000
+house,3.0,4.0,7.0,False,False,True,False,330.0,Capim Macio,690000
+house,3.0,1.0,4.0,False,False,False,False,193.0,Capim Macio,450000
+house,3.0,2.0,8.0,False,False,False,False,230.0,Ponta Negra,695000
+house,3.0,1.0,2.0,False,False,False,False,280.0,Barro Vermelho,490000
+house,5.0,2.0,3.0,False,False,True,False,188.0,Potengi,300000
+house,4.0,2.0,4.0,False,False,False,False,470.0,Capim Macio,800000
+house,3.0,6.0,7.0,False,False,False,False,330.0,Capim Macio,690000
+house,4.0,4.0,3.0,False,False,True,False,340.0,Pitimbu,370000
+house,4.0,4.0,3.0,False,False,True,False,240.0,Capim Macio,550000
+house,3.0,2.0,2.0,False,False,True,False,168.0,Neopolis,300000
+house,4.0,1.0,2.0,False,False,False,False,158.0,Quintas,280000
+house,2.0,1.0,2.0,False,False,False,False,80.0,Nossa Senhora da Apresentacao,120000
+house,3.0,1.0,4.0,False,False,False,False,200.0,Capim Macio,580000
+house,4.0,3.0,3.0,False,False,True,False,270.0,Candelaria,600000
+house,4.0,1.0,3.0,False,False,False,False,341.0,Lagoa Nova,350000
+house,3.0,4.0,2.0,True,False,True,False,242.0,Capim Macio,750000
+house,3.0,4.0,3.0,True,False,True,True,470.0,Lagoa Nova,1100000
+house,2.0,1.0,1.0,False,False,False,False,55.0,Ponta Negra,195000
+house,3.0,1.0,4.0,False,False,False,False,282.0,Ponta Negra,850000
+house,3.0,3.0,6.0,False,False,False,True,199.0,Cidade da Esperanca,230000
+house,4.0,1.0,2.0,False,False,False,False,200.0,Neopolis,350000
+house,4.0,1.0,4.0,False,False,False,False,290.0,Capim Macio,695000
+house,4.0,2.0,3.0,False,False,True,False,300.0,Lagoa Nova,750000
+house,3.0,4.0,2.0,False,False,False,False,315.0,Pitimbu,750000
+house,3.0,6.0,6.0,False,False,False,False,500.0,Cidade Jardim,830000
+house,3.0,1.0,4.0,False,False,False,False,240.0,Pitimbu,250000
+house,4.0,5.0,3.0,False,False,True,False,312.0,Capim Macio,590000
+house,3.0,4.0,4.0,False,False,True,False,240.0,de Nazare,420000
+house,2.0,1.0,3.0,False,False,False,False,165.0,Pitimbu,200000
+house,3.0,1.0,3.0,False,False,False,False,255.0,Lagoa Nova,390000
+house,2.0,2.0,1.0,False,False,False,False,75.0,Redinha,107000
+house,2.0,1.0,2.0,False,False,False,False,120.0,Nossa Senhora da Apresentacao,130000
+house,4.0,1.0,4.0,False,False,False,False,444.0,Barro Vermelho,370000
+house,4.0,1.0,2.0,False,False,False,False,214.0,Petropolis,380000
+house,3.0,3.0,3.0,False,False,False,False,222.0,Morro Branco,390000
+house,3.0,1.0,2.0,False,False,False,False,108.0,Lagoa Nova,280000
+house,3.0,1.0,3.0,False,False,False,False,350.0,Candelaria,370000
+house,4.0,4.0,6.0,False,False,False,False,360.0,Neopolis,380000
+house,4.0,3.0,1.0,False,False,True,False,134.0,Cidade da Esperanca,210000
+house,2.0,3.0,4.0,False,False,False,False,180.0,Ponta Negra,800000
+house,3.0,4.0,4.0,True,False,True,False,274.0,Lagoa Nova,650000
+house,2.0,2.0,2.0,False,False,True,False,217.0,Candelaria,250000
+house,3.0,3.0,2.0,False,False,False,True,200.0,Pitimbu,320000
+house,3.0,1.0,4.0,False,False,False,False,220.0,Pitimbu,320000
+house,2.0,1.0,2.0,False,False,True,False,120.0,Nossa Senhora da Apresentacao,125000
+house,5.0,6.0,4.0,False,False,False,False,391.0,Potengi,590000
+house,4.0,1.0,7.0,False,False,False,False,350.0,Lagoa Nova,1800000
+house,4.0,4.0,3.0,False,True,True,False,300.0,Barro Vermelho,550000
+house,5.0,5.0,1.0,True,False,True,False,449.0,Ponta Negra,1100000
+house,3.0,4.0,4.0,False,True,True,True,326.0,San Vale,1100000
+house,3.0,1.0,2.0,False,False,False,False,359.0,Capim Macio,400000
+house,5.0,4.0,6.0,True,False,True,False,435.0,Capim Macio,500000
+house,4.0,4.0,4.0,True,False,True,False,468.0,Candelaria,1000000
+house,3.0,2.0,3.0,True,False,True,False,89.0,Pitimbu,280000
+house,3.0,4.0,9.0,False,False,True,False,195.0,Capim Macio,500000
+house,3.0,5.0,4.0,False,False,True,True,170.0,Ponta Negra,480000
+house,5.0,5.0,4.0,True,True,True,False,600.0,Capim Macio,1300000
+house,6.0,5.0,4.0,True,False,True,False,424.0,Capim Macio,850000
+house,3.0,1.0,2.0,False,False,False,False,180.0,Lagoa Nova,310000
+house,4.0,1.0,2.0,False,False,True,False,53.0,Pajucara,135000
+house,4.0,5.0,3.0,False,True,True,False,365.0,Candelaria,600000
+house,7.0,2.0,4.0,False,False,False,False,450.0,Ponta Negra,750000
+house,4.0,4.0,3.0,False,False,True,False,202.0,Ponta Negra,550000
+house,4.0,5.0,3.0,False,False,True,False,400.0,Ponta Negra,650000
+house,3.0,1.0,3.0,False,False,False,False,151.0,Lagoa Nova,300000
+house,4.0,4.0,3.0,False,False,False,False,365.0,Candelaria,600000
+house,3.0,3.0,6.0,True,True,True,True,329.0,Ponta Negra,1400000
+house,4.0,4.0,4.0,False,False,False,False,330.0,Lagoa Nova,1100000
+house,4.0,3.0,2.0,False,True,True,False,340.0,Ponta Negra,800000
+house,3.0,1.0,2.0,False,False,False,False,177.0,Lagoa Nova,380000
+house,3.0,2.0,4.0,False,False,True,True,150.0,Candelaria,600000
+house,3.0,2.0,6.0,True,False,True,False,420.0,Candelaria,650000
+house,3.0,4.0,2.0,False,False,True,False,210.0,Morro Branco,595000
+house,6.0,6.0,2.0,True,True,True,False,293.0,Ponta Negra,700000
+house,3.0,5.0,2.0,False,False,False,True,361.0,Nova Descoberta,470000
+house,3.0,3.0,1.0,False,False,True,False,367.0,Lagoa Nova,550000
+house,3.0,4.0,7.0,False,False,False,False,245.0,Ponta Negra,490000
+house,3.0,1.0,2.0,False,False,False,False,107.0,Neopolis,280000
+house,6.0,8.0,10.0,False,False,False,False,410.0,Lagoa Nova,800000
+house,3.0,3.0,5.0,False,False,True,False,348.0,Lagoa Nova,1200000
+house,3.0,1.0,4.0,False,False,False,False,393.0,Ponta Negra,500000
+house,5.0,2.0,4.0,False,False,False,False,302.0,Lagoa Nova,850000
+house,4.0,5.0,4.0,False,False,False,False,330.0,Lagoa Nova,1100000
+house,3.0,2.0,1.0,False,False,True,False,91.0,Potengi,250000
+house,6.0,9.0,4.0,False,False,False,False,290.0,Ponta Negra,1150000
+house,4.0,4.0,6.0,False,False,True,True,520.0,Candelaria,1100000
+house,3.0,3.0,2.0,False,False,False,False,260.0,Capim Macio,480000
+house,3.0,2.0,2.0,False,False,True,False,162.0,Candelaria,280000
+house,4.0,6.0,6.0,False,True,True,True,357.0,Cidade Jardim,650000
+house,3.0,4.0,3.0,False,False,False,False,190.0,Capim Macio,350000
+house,3.0,3.0,1.0,False,True,True,True,188.0,Candelaria,480000
+house,3.0,3.0,11.0,False,False,True,False,240.0,Candelaria,600000
+house,4.0,4.0,4.0,True,False,True,False,1000.0,Capim Macio,900000
+house,3.0,3.0,2.0,True,False,True,False,450.0,Capim Macio,520000
+house,3.0,3.0,4.0,True,False,True,False,360.0,Ponta Negra,500000
+house,3.0,1.0,6.0,False,False,False,False,325.0,Lagoa Nova,650000
+house,3.0,2.0,2.0,False,False,False,False,100.0,sept Rosado,250000
+house,3.0,3.0,4.0,False,False,True,False,350.0,Ponta Negra,450000
+house,4.0,4.0,3.0,False,True,True,False,264.0,Candelaria,600000
+house,4.0,5.0,4.0,True,False,True,False,330.0,Lagoa Nova,1100000
+house,3.0,1.0,4.0,False,False,False,False,164.0,Ponta Negra,620000
+house,2.0,2.0,1.0,False,False,True,False,200.0,Redinha,430000
+house,4.0,3.0,2.0,False,False,False,False,350.0,Lagoa Nova,430000
+house,2.0,1.0,2.0,False,False,True,False,65.0,Ponta Negra,90000
+house,4.0,5.0,4.0,True,True,True,False,400.0,Lagoa Nova,800000
+house,5.0,1.0,5.0,False,False,False,False,680.0,Lagoa Nova,800000
+house,4.0,1.0,1.0,False,False,False,False,270.0,Petropolis,740000
+house,3.0,4.0,2.0,False,False,True,False,235.0,Lagoa Nova,500000
+house,3.0,2.0,3.0,False,False,False,False,200.0,Pajucara,200000
+house,3.0,3.0,2.0,True,False,True,False,320.0,Capim Macio,520000
+house,3.0,3.0,2.0,False,False,False,False,250.0,Lagoa Nova,620000
+house,3.0,1.0,4.0,False,False,False,False,290.0,POTILANDIA,630000
+house,4.0,4.0,3.0,False,False,False,False,209.0,Nova Descoberta,340000
+house,7.0,1.0,6.0,False,False,False,False,248.0,Ponta Negra,600000
+house,4.0,1.0,4.0,False,False,False,False,160.0,Pitimbu,380000
+house,6.0,1.0,6.0,False,False,False,False,276.0,Capim Macio,265000
+house,2.0,1.0,2.0,False,False,False,False,115.0,Nossa Senhora da Apresentacao,135000
+house,4.0,3.0,3.0,False,False,False,False,276.0,Potengi,238000
+house,3.0,1.0,3.0,False,False,False,False,350.0,Candelaria,370000
+house,2.0,1.0,1.0,False,False,False,False,105.0,Nossa Senhora da Apresentacao,70000
+house,3.0,5.0,4.0,False,False,True,False,358.0,Candelaria,600000
+house,3.0,5.0,5.0,False,False,False,False,380.0,Capim Macio,700000
+house,3.0,1.0,3.0,False,False,False,False,184.0,Lagoa Nova,380000
+house,3.0,1.0,4.0,False,False,False,False,170.0,Pitimbu,260000
+house,2.0,1.0,1.0,False,False,False,False,65.0,Pitimbu,85000
+house,4.0,3.0,3.0,True,False,True,False,250.0,Lagoa Nova,1000000
+house,6.0,6.0,4.0,False,False,False,False,300.0,Lagoa Nova,650000
+house,6.0,8.0,9.0,False,False,False,False,580.0,Capim Macio,2300000
+house,5.0,4.0,3.0,True,True,True,False,374.0,Ponta Negra,950000
+house,3.0,5.0,2.0,False,False,False,False,375.0,Neopolis,400000
+house,5.0,6.0,3.0,True,False,True,False,449.0,Ponta Negra,1100000
+house,1.0,1.0,1.0,False,False,False,False,56.0,Petropolis,125000
+house,3.0,2.0,3.0,False,False,False,False,171.0,Lagoa Nova,430000
+house,2.0,3.0,1.0,False,False,True,False,200.0,Redinha,430000
+house,3.0,4.0,3.0,False,True,True,True,317.0,Lagoa Nova,800000
+house,3.0,4.0,10.0,False,False,False,False,465.0,Lagoa Nova,850000
+house,3.0,4.0,2.0,False,False,False,False,264.0,Barro Vermelho,320000
+house,3.0,3.0,6.0,False,False,False,False,406.0,Lagoa Nova,1050000
+house,2.0,3.0,1.0,False,False,False,False,102.0,Neopolis,160000
+house,5.0,4.0,1.0,False,False,False,False,212.0,Alecrim,350000
+house,4.0,5.0,3.0,False,False,True,False,240.0,Capim Macio,495000
+house,3.0,3.0,4.0,False,False,False,False,180.0,Capim Macio,480000
+house,3.0,1.0,2.0,False,False,False,False,230.0,Lagoa Nova,360000
+house,4.0,4.0,3.0,False,False,True,False,240.0,Capim Macio,590000
+house,3.0,1.0,3.0,False,False,False,False,150.0,Lagoa Nova,300000
+house,3.0,2.0,2.0,False,False,False,False,90.0,Planalto,195000
+house,3.0,3.0,2.0,False,False,False,False,152.0,Capim Macio,530000
+house,4.0,1.0,5.0,False,False,False,False,400.0,Lagoa Nova,1100000
+house,4.0,1.0,5.0,False,False,False,False,464.0,Candelaria,700000
+house,3.0,3.0,3.0,True,False,True,False,300.0,Ponta Negra,1500000
+house,3.0,3.0,2.0,False,False,False,False,268.0,Tirol,400000
+house,4.0,1.0,6.0,False,False,False,False,378.0,Lagoa Nova,680000
+house,4.0,4.0,4.0,False,False,False,False,365.0,Candelaria,610000
+house,3.0,1.0,3.0,False,False,False,False,180.0,POTILANDIA,360000
+house,6.0,4.0,3.0,False,False,False,False,400.0,Planalto,220000
+house,3.0,3.0,2.0,False,False,True,True,219.0,Lagoa Nova,680000
+house,4.0,1.0,4.0,False,False,False,False,321.0,Neopolis,500000
+house,3.0,1.0,3.0,False,False,False,False,124.0,Candelaria,270000
+house,3.0,6.0,7.0,False,True,True,False,330.0,Capim Macio,690000
+house,4.0,4.0,3.0,False,False,False,False,300.0,Lagoa Nova,750000
+house,4.0,3.0,3.0,False,False,True,False,150.0,Capim Macio,480000
+house,3.0,1.0,2.0,False,False,False,False,162.0,Barro Vermelho,449000
+house,5.0,6.0,4.0,True,True,True,False,600.0,Capim Macio,1300000
+house,3.0,3.0,1.0,False,False,False,False,220.0,Petropolis,650000
+house,2.0,2.0,2.0,False,False,True,False,115.0,Nossa Senhora da Apresentacao,135000
+house,3.0,1.0,4.0,False,False,False,False,300.0,Capim Macio,600000
+house,5.0,9.0,3.0,False,False,False,False,505.0,Lagoa Seca,1500000
+house,4.0,2.0,1.0,False,False,False,False,100.0,Potengi,200000
+house,4.0,3.0,2.0,False,False,False,False,220.0,Lagoa Seca,750000
+house,3.0,1.0,3.0,False,False,False,False,176.0,Lagoa Nova,370000
+house,2.0,1.0,1.0,False,False,False,False,115.0,Lagoa Nova,175000
+house,4.0,2.0,4.0,False,False,False,False,212.0,Lagoa Nova,450000
+house,3.0,3.0,2.0,False,False,True,False,156.0,Candelaria,285000
+house,5.0,1.0,4.0,False,False,True,False,400.0,Candelaria,750000
+house,1.0,1.0,3.0,False,False,False,False,350.0,Capim Macio,540000
+house,5.0,4.0,2.0,False,False,False,False,400.0,Capim Macio,790000
+house,3.0,1.0,2.0,False,False,False,False,277.0,Petropolis,550000
+house,4.0,5.0,5.0,False,False,True,False,324.0,Ponta Negra,500000
+house,3.0,1.0,6.0,False,False,False,False,280.0,Lagoa Nova,480000
+house,4.0,2.0,4.0,False,False,False,False,495.0,Ponta Negra,1700000
+house,4.0,2.0,1.0,False,False,False,False,277.0,Lagoa Nova,2200000
+house,3.0,3.0,2.0,False,False,False,False,134.0,Candelaria,380000
+house,3.0,1.0,4.0,False,False,False,False,140.0,Cidade Verde,285000
+house,3.0,3.0,2.0,False,False,False,False,107.0,Neopolis,280000
+house,3.0,3.0,2.0,False,False,False,False,300.0,Tirol,600000
+house,3.0,5.0,2.0,True,False,True,False,285.0,Alecrim,750000
+house,4.0,1.0,3.0,False,False,False,False,240.0,Lagoa Nova,430000
+house,4.0,4.0,10.0,False,False,False,False,300.0,Redinha,300000
+house,4.0,2.0,5.0,False,False,False,False,100.0,Cidade da Esperanca,180000
+house,4.0,5.0,3.0,False,False,False,False,240.0,Capim Macio,495000
+house,3.0,1.0,5.0,False,False,False,False,179.0,POTILANDIA,420000
+house,3.0,3.0,5.0,False,False,False,False,210.0,Nova Descoberta,280000
+house,4.0,3.0,3.0,False,False,False,False,130.0,Lagoa Seca,320000
+house,5.0,6.0,3.0,False,True,False,False,350.0,Capim Macio,520000
+house,3.0,3.0,3.0,False,False,False,False,314.0,Candelaria,690000
+house,4.0,3.0,3.0,False,False,False,False,90.0,Lagoa Nova,380000
+house,4.0,4.0,4.0,False,False,False,False,220.0,Lagoa Nova,650000
+house,3.0,5.0,2.0,False,False,False,False,240.0,Lagoa Nova,450000
+house,3.0,4.0,8.0,False,False,False,False,250.0,Lagoa Nova,530000
+house,3.0,1.0,4.0,True,False,True,False,280.0,Capim Macio,500000
+house,4.0,3.0,2.0,False,False,False,False,170.0,Cidade da Esperanca,200000
+house,4.0,1.0,3.0,False,False,False,False,220.0,Lagoa Nova,520000
+house,3.0,3.0,4.0,False,False,False,False,181.0,Capim Macio,480000
+house,3.0,3.0,2.0,False,False,True,False,122.0,Cidade da Esperanca,294000
+house,5.0,4.0,9.0,False,False,False,False,413.0,Lagoa Nova,800000
+house,3.0,1.0,4.0,False,False,False,False,194.0,Candelaria,850000
+house,3.0,3.0,4.0,False,False,False,False,300.0,Candelaria,1399000
+house,6.0,5.0,2.0,True,False,True,False,293.0,Ponta Negra,700000
+house,3.0,1.0,2.0,False,False,False,False,292.0,Lagoa Nova,400000
+house,2.0,2.0,1.0,False,False,False,False,120.0,Potengi,130000
+house,3.0,1.0,1.0,False,False,False,False,180.0,Potengi,150000
+house,4.0,5.0,3.0,True,False,True,False,213.0,Capim Macio,685000
+house,4.0,4.0,3.0,False,True,True,False,200.0,Pitimbu,350000
+house,3.0,1.0,6.0,False,False,False,False,260.0,Capim Macio,530000
+house,3.0,2.0,2.0,False,False,False,False,120.0,Pajucara,210000
+house,3.0,1.0,5.0,False,False,False,False,178.0,Capim Macio,375000
+house,4.0,6.0,4.0,False,False,False,False,209.0,Capim Macio,600000
+house,5.0,4.0,3.0,False,False,False,False,230.0,Candelaria,550000
+house,3.0,3.0,4.0,False,False,False,False,165.0,Potengi,200000
+house,3.0,2.0,1.0,False,False,False,False,75.0,Planalto,210000
+house,5.0,2.0,1.0,True,False,True,True,550.0,Ponta Negra,2500000
+house,3.0,3.0,2.0,False,False,False,False,196.0,Tirol,380000
+house,3.0,1.0,2.0,False,False,False,False,250.0,Cidade Jardim,800000
+house,4.0,6.0,3.0,False,False,True,False,210.0,Capim Macio,380000
+house,3.0,1.0,2.0,False,False,False,False,280.0,Lagoa Nova,360000
+house,4.0,6.0,4.0,False,False,False,False,320.0,Neopolis,500000
+house,3.0,3.0,4.0,False,False,False,False,353.0,Ponta Negra,650000
+house,3.0,2.0,2.0,False,False,False,False,168.0,Lagoa Nova,400000
+house,4.0,1.0,4.0,False,False,False,False,284.0,Capim Macio,650000
+house,3.0,4.0,3.0,False,False,False,False,274.0,Capim Macio,525000
+house,5.0,6.0,4.0,False,False,False,False,290.0,Candelaria,650000
+house,4.0,6.0,5.0,False,False,False,False,380.0,Capim Macio,2500000
+house,2.0,2.0,1.0,False,False,False,False,130.0,Nossa Senhora da Apresentacao,110000
+house,3.0,2.0,3.0,False,False,False,False,276.0,Lagoa Nova,550000
+house,4.0,4.0,5.0,False,False,False,False,292.0,Lagoa Nova,570000
+house,3.0,1.0,1.0,False,False,True,False,160.0,Capim Macio,530000
+house,3.0,2.0,3.0,False,False,False,False,220.0,Potengi,300000
+house,2.0,2.0,2.0,False,False,False,False,75.0,Planalto,210000
+house,3.0,1.0,2.0,False,False,False,False,170.0,Lagoa Nova,450000
+house,3.0,1.0,5.0,False,False,False,False,220.0,Capim Macio,600000
+house,4.0,1.0,5.0,False,False,False,False,362.0,Lagoa Nova,450000
+house,3.0,2.0,3.0,False,False,False,False,138.0,Pitimbu,260000
+house,3.0,2.0,4.0,False,False,False,False,200.0,Lagoa Nova,500000
+house,4.0,3.0,1.0,False,False,False,False,1000.0,Lagoa Nova,900000
+house,3.0,5.0,3.0,True,True,True,False,250.0,Capim Macio,590000
+house,3.0,3.0,2.0,False,False,False,False,234.0,Ponta Negra,650000
+house,5.0,5.0,8.0,False,False,False,False,490.0,Capim Macio,900000
+house,3.0,4.0,3.0,False,False,False,False,267.0,Capim Macio,1200000
+house,3.0,1.0,2.0,False,False,True,False,210.0,Lagoa Nova,440000
+house,3.0,4.0,3.0,False,False,False,False,140.0,Candelaria,310000
+house,3.0,4.0,1.0,False,False,False,False,163.0,Lagoa Nova,430000
+house,4.0,3.0,3.0,False,True,True,False,365.0,Candelaria,600000
+house,3.0,2.0,5.0,False,False,True,False,495.0,Tirol,600000
+house,3.0,3.0,6.0,False,False,False,False,255.0,Capim Macio,450000
+house,3.0,4.0,2.0,False,False,False,False,180.0,Ponta Negra,680000
+house,3.0,5.0,6.0,False,False,False,False,180.0,Capim Macio,400000
+house,4.0,1.0,3.0,False,False,False,False,200.0,Tirol,599000
+house,6.0,5.0,6.0,True,False,True,False,340.0,Ponta Negra,815000
+house,4.0,6.0,1.0,False,False,False,False,300.0,Capim Macio,680000
+house,5.0,5.0,5.0,False,False,False,False,480.0,Neopolis,500000
+house,3.0,1.0,4.0,False,False,False,False,250.0,Lagoa Nova,750000
+house,3.0,3.0,2.0,False,False,True,False,116.0,Capim Macio,300000
+house,4.0,1.0,3.0,False,False,False,False,225.0,Neopolis,510000
+house,2.0,2.0,1.0,False,False,False,False,110.0,Neopolis,300000
+house,3.0,2.0,3.0,False,False,False,False,200.0,Potengi,290000
+house,2.0,1.0,1.0,False,False,False,False,102.0,Alecrim,80000
+house,3.0,1.0,2.0,False,False,False,False,180.0,Lagoa Nova,370000
+house,3.0,2.0,3.0,False,False,False,False,86.0,Lagoa Nova,650000
+house,3.0,3.0,2.0,False,False,False,False,227.0,Lagoa Nova,500000
+house,4.0,4.0,4.0,False,False,False,False,240.0,Lagoa Nova,420000
+house,4.0,2.0,4.0,False,False,False,False,220.0,Lagoa Nova,450000
+house,4.0,1.0,2.0,False,False,False,False,160.0,Lagoa Nova,320000
+house,4.0,3.0,3.0,False,False,False,False,264.0,Candelaria,600000
+house,3.0,5.0,6.0,False,False,False,False,230.0,Neopolis,450000
+house,3.0,5.0,4.0,False,False,False,False,254.0,Capim Macio,595000
+house,6.0,4.0,1.0,False,False,False,False,328.0,Cidade Alta,490000
+house,4.0,2.0,4.0,False,False,False,False,330.0,Tirol,587000
+house,3.0,3.0,3.0,False,False,False,False,250.0,Ponta Negra,520000
+house,3.0,2.0,1.0,False,False,False,False,170.0,Cidade da Esperanca,230000
+house,3.0,3.0,4.0,False,False,True,False,219.0,Lagoa Nova,450000
+house,2.0,4.0,1.0,False,False,False,False,150.0,Lagoa Nova,270000
+house,4.0,3.0,2.0,False,False,False,False,160.0,Candelaria,350000
+house,4.0,3.0,2.0,False,False,False,False,200.0,Lagoa Seca,450000
+house,3.0,1.0,3.0,False,False,False,False,208.0,Pitimbu,280000
+house,4.0,3.0,1.0,False,False,False,False,246.0,Lagoa Nova,500000
+house,4.0,5.0,5.0,False,False,False,False,685.0,Lagoa Nova,700000
+house,4.0,6.0,5.0,False,False,False,False,315.0,Lagoa Nova,550000
+house,4.0,6.0,10.0,False,False,False,False,500.0,Candelaria,1600000
+house,4.0,1.0,3.0,False,False,False,False,210.0,Ponta Negra,550000
+house,3.0,5.0,5.0,False,False,False,False,280.0,Capim Macio,700000
+house,4.0,5.0,4.0,False,False,False,False,330.0,Capim Macio,1100000
+house,3.0,1.0,2.0,False,False,False,False,179.0,Candelaria,300000
+house,3.0,2.0,4.0,False,False,False,False,180.0,Ponta Negra,350000
+house,3.0,1.0,2.0,False,False,False,False,158.0,Pitimbu,225000
+house,4.0,6.0,4.0,False,False,False,False,470.0,Ponta Negra,2000000
+house,3.0,3.0,2.0,False,False,False,False,240.0,Neopolis,270000
+house,3.0,4.0,2.0,True,True,True,True,223.0,San Vale,580000
+house,3.0,3.0,3.0,False,False,False,False,193.0,Petropolis,400000
+house,3.0,4.0,4.0,False,False,False,False,220.0,Capim Macio,550000
+house,3.0,2.0,2.0,False,False,False,False,300.0,Lagoa Nova,700000
+house,3.0,1.0,5.0,False,False,False,False,100.0,Alecrim,500000
+house,3.0,2.0,2.0,False,False,False,False,220.0,Neopolis,240000
+house,3.0,2.0,2.0,False,False,False,False,176.0,Lagoa Nova,530000
+house,3.0,2.0,4.0,False,False,False,False,372.0,Lagoa Nova,780000
+house,3.0,1.0,4.0,False,False,False,False,228.0,Pitimbu,275000
+house,3.0,1.0,1.0,False,False,False,False,90.0,Lagoa Nova,500000
+house,3.0,2.0,2.0,False,False,False,False,162.0,Candelaria,280000
+house,4.0,1.0,5.0,False,False,False,False,258.0,Pitimbu,300000
+house,3.0,1.0,2.0,False,False,False,False,157.0,Morro Branco,280000
+house,4.0,1.0,1.0,False,False,False,False,280.0,Cidade Jardim,600000
+house,3.0,4.0,5.0,False,False,False,False,260.0,Capim Macio,600000
+house,8.0,8.0,1.0,False,False,False,False,670.0,Candelaria,1500000
+house,3.0,2.0,1.0,False,False,False,False,109.0,Lagoa Nova,260000
+house,3.0,4.0,4.0,False,False,False,False,211.0,Lagoa Nova,500000
+house,3.0,3.0,6.0,False,False,False,False,520.0,San Vale,500000
+house,3.0,1.0,3.0,False,False,True,False,182.0,Capim Macio,800000
+house,3.0,2.0,1.0,False,False,False,False,115.0,Neopolis,260000
+house,4.0,4.0,3.0,False,False,True,False,365.0,Candelaria,600000
+house,3.0,2.0,3.0,False,False,False,False,330.0,Neopolis,400000
+house,3.0,1.0,4.0,False,False,False,False,236.0,Pitimbu,350000
+house,3.0,3.0,1.0,False,False,False,False,180.0,Candelaria,300000
+house,3.0,3.0,2.0,False,False,False,False,199.0,Lagoa Nova,350000
+house,2.0,2.0,1.0,False,False,False,False,110.0,Alecrim,190000
+house,4.0,8.0,5.0,False,False,False,False,278.0,Candelaria,700000
+house,6.0,5.0,5.0,False,False,True,False,600.0,Lagoa Nova,1100000
+house,3.0,3.0,3.0,False,False,False,False,143.0,Neopolis,360000
+house,2.0,2.0,1.0,False,False,False,False,105.0,Lagoa Nova,185000
+house,4.0,5.0,10.0,False,False,False,False,300.0,Candelaria,1100000
+house,3.0,4.0,2.0,False,False,False,False,215.0,Lagoa Nova,400000
+house,3.0,1.0,2.0,False,False,False,False,162.0,Candelaria,280000
+house,3.0,3.0,4.0,False,False,False,False,130.0,Neopolis,270000
+house,3.0,1.0,1.0,False,False,False,False,120.0,Barro Vermelho,500000
+house,5.0,5.0,15.0,False,False,False,False,1000.0,San Vale,3000000
+house,3.0,2.0,2.0,False,False,False,False,197.0,Pitimbu,360000
+house,3.0,4.0,2.0,False,False,False,False,160.0,Ponta Negra,350000
+house,1.0,1.0,1.0,False,False,False,False,157.0,Capim Macio,500000
+house,4.0,7.0,3.0,False,False,False,False,500.0,Candelaria,1300000
+house,3.0,1.0,1.0,False,False,False,False,70.0,Potengi,160000
+house,3.0,3.0,2.0,False,False,False,False,153.0,Cidade da Esperanca,280000
+house,2.0,2.0,1.0,False,False,False,False,50.0,Ponta Negra,170000
+house,3.0,3.0,4.0,False,False,False,False,220.0,Pajucara,350000
+house,2.0,1.0,1.0,False,False,False,False,70.0,Planalto,135000
+house,2.0,1.0,2.0,False,False,False,False,150.0,Planalto,150000
+house,3.0,2.0,2.0,False,False,False,False,120.0,Neopolis,270000
+house,3.0,3.0,5.0,False,False,False,False,662.0,Cidade Jardim,1800000
+house,3.0,6.0,6.0,False,False,False,False,420.0,Capim Macio,620000
+house,3.0,1.0,5.0,False,False,False,False,189.0,San Vale,410000
+house,4.0,4.0,5.0,True,False,True,False,606.0,Capim Macio,1220000
+house,3.0,2.0,4.0,False,False,False,False,139.0,Neopolis,370000
+house,4.0,6.0,10.0,False,False,False,False,259.0,Tirol,2000000
+house,3.0,2.0,2.0,False,False,False,False,110.0,Ponta Negra,390000
+house,3.0,4.0,4.0,False,False,False,False,232.0,Lagoa Nova,800000
+house,3.0,3.0,2.0,False,False,False,False,200.0,Candelaria,280000
+house,3.0,2.0,2.0,False,False,False,False,176.0,Lagoa Nova,525000
+house,3.0,2.0,10.0,False,False,False,False,104.0,Tirol,1000000
+house,4.0,3.0,3.0,False,False,False,False,300.0,Lagoa Nova,750000
+house,3.0,4.0,2.0,False,False,False,False,330.0,Candelaria,550000
+house,3.0,4.0,2.0,False,False,False,False,260.0,Ponta Negra,800000
+house,3.0,1.0,2.0,False,False,False,False,190.0,Neopolis,300000
+house,2.0,1.0,1.0,False,False,False,False,120.0,Lagoa Nova,240000
+house,1.0,1.0,1.0,False,False,False,False,34.0,Ponta Negra,190000
+house,6.0,4.0,1.0,False,False,False,False,200.0,Cidade Alta,490000
+house,3.0,3.0,2.0,False,False,False,False,220.0,Lagoa Nova,450000
+house,3.0,4.0,5.0,False,False,False,False,336.0,Candelaria,600000
+house,3.0,2.0,1.0,False,False,False,False,250.0,Potengi,160000
+house,3.0,1.0,3.0,False,False,False,False,213.0,Lagoa Nova,390000
+house,5.0,1.0,6.0,False,False,False,False,600.0,Pitimbu,1500000
+house,3.0,1.0,4.0,False,False,False,False,380.0,Lagoa Nova,850000
+house,2.0,1.0,4.0,True,False,True,False,338.0,Ponta Negra,400000
+house,2.0,1.0,1.0,False,False,False,False,80.0,Planalto,130000
+house,5.0,2.0,1.0,False,False,False,False,400.0,Capim Macio,750000
+house,4.0,3.0,3.0,False,False,False,False,350.0,Candelaria,530000
+house,5.0,7.0,2.0,False,False,False,False,500.0,Neopolis,580000
+house,3.0,3.0,1.0,False,False,False,False,110.0,Alecrim,270000
+house,3.0,3.0,3.0,False,False,False,False,260.0,Ponta Negra,350000
+house,3.0,2.0,4.0,True,False,True,False,126.0,Ponta Negra,320000
+house,2.0,1.0,2.0,False,False,False,False,120.0,Planalto,120000
+house,3.0,2.0,3.0,False,False,False,False,300.0,Tirol,670000
+house,4.0,5.0,8.0,False,False,False,False,350.0,Capim Macio,850000
+house,4.0,6.0,2.0,False,False,False,False,330.0,Ponta Negra,1500000
+house,3.0,4.0,4.0,False,False,False,False,300.0,Capim Macio,600000
+house,4.0,5.0,4.0,False,False,False,False,300.0,Capim Macio,560000
+house,4.0,3.0,1.0,False,False,False,False,250.0,Lagoa Nova,1700000
+house,3.0,4.0,1.0,False,False,False,False,300.0,Capim Macio,750000
+house,3.0,2.0,2.0,False,False,False,False,160.0,Planalto,160000
+house,3.0,2.0,3.0,False,False,False,False,100.0,Pitimbu,220000
+house,4.0,1.0,6.0,False,False,False,False,900.0,Lagoa Nova,1700000
+house,3.0,3.0,2.0,False,False,False,False,280.0,Lagoa Nova,400000
+house,3.0,3.0,2.0,False,False,False,False,150.0,Lagoa Nova,390000
+house,3.0,3.0,5.0,False,False,False,False,300.0,Ponta Negra,500000
+house,2.0,3.0,1.0,False,False,False,False,260.0,Alecrim,450000
+house,3.0,2.0,2.0,False,False,False,False,163.0,Alecrim,230000
+house,4.0,5.0,4.0,False,False,False,False,180.0,Neopolis,500000
+house,3.0,2.0,5.0,False,False,False,False,495.0,Tirol,600000
+house,3.0,2.0,2.0,False,False,False,False,150.0,Ponta Negra,300000
+house,3.0,3.0,2.0,False,False,False,False,240.0,Neopolis,500000
+house,3.0,1.0,2.0,False,False,False,False,207.0,Lagoa Nova,400000
+house,5.0,5.0,1.0,True,False,False,False,420.0,Tirol,600000
+house,3.0,2.0,1.0,False,False,False,False,214.0,Alecrim,280000
+house,1.0,5.0,1.0,False,False,False,False,320.0,Lagoa Nova,400000
+house,3.0,3.0,3.0,False,False,False,False,130.0,Candelaria,300000
+house,4.0,3.0,2.0,False,False,False,False,221.0,Lagoa Nova,450000
+house,3.0,1.0,1.0,False,False,False,False,138.0,Cidade Alta,280000
+house,4.0,1.0,5.0,False,False,False,False,65.0,Planalto,300000
+house,3.0,2.0,2.0,False,False,False,False,234.0,Ponta Negra,670000
+house,4.0,3.0,2.0,False,False,False,False,160.0,Lagoa Nova,360000
+house,3.0,1.0,1.0,False,False,False,False,105.0,Quintas,150000
+house,3.0,2.0,1.0,False,False,False,False,240.0,Candelaria,750000
+house,3.0,4.0,6.0,False,False,False,False,330.0,Capim Macio,700000
+house,4.0,4.0,4.0,False,False,False,False,260.0,Tirol,500000
+house,5.0,6.0,4.0,False,False,False,False,299.0,Ponta Negra,600000
+house,2.0,2.0,1.0,False,False,False,False,62.0,Planalto,250000
+house,3.0,2.0,1.0,False,False,False,False,199.0,Cidade Alta,380000
+house,4.0,4.0,2.0,False,False,False,False,187.0,Neopolis,550000
+house,2.0,1.0,1.0,False,False,False,False,120.0,Nossa Senhora da Apresentacao,80000
+house,4.0,5.0,2.0,False,False,False,False,280.0,Cidade Jardim,800000
+house,3.0,3.0,2.0,False,False,False,False,172.0,Capim Macio,280000
+house,5.0,2.0,1.0,False,False,False,False,185.0,Alecrim,280000
+house,3.0,3.0,5.0,False,False,False,False,840.0,Ponta Negra,2600000
+house,3.0,3.0,3.0,False,False,False,False,223.0,Lagoa Nova,500000
+house,4.0,4.0,1.0,False,False,False,False,465.0,Lagoa Nova,850000
+house,3.0,5.0,4.0,False,False,False,False,250.0,Capim Macio,700000
+house,3.0,2.0,1.0,False,False,False,False,370.0,Petropolis,400000
+house,4.0,4.0,3.0,False,False,False,False,224.0,Lagoa Nova,580000
+house,4.0,4.0,3.0,False,False,False,False,261.0,Cidade Jardim,650000
+house,4.0,1.0,6.0,False,False,False,False,990.0,Lagoa Nova,2000000
+house,2.0,1.0,2.0,False,False,False,False,48.0,Potengi,144600
+house,2.0,1.0,3.0,False,False,False,False,75.0,Planalto,165000
+house,3.0,4.0,3.0,False,False,False,False,180.0,POTILANDIA,420000
+house,3.0,2.0,2.0,False,False,False,False,125.0,Candelaria,310000
+house,3.0,4.0,6.0,False,False,False,False,230.0,Pitimbu,330000
+house,4.0,3.0,1.0,False,False,False,False,430.0,Petropolis,1100000
+house,3.0,2.0,3.0,False,False,False,False,150.0,Ponta Negra,390000
+house,3.0,1.0,2.0,False,False,False,False,190.0,Lagoa Nova,350000
+house,3.0,1.0,3.0,False,False,False,False,130.0,Alecrim,235000
+house,3.0,3.0,2.0,True,False,True,False,242.0,Capim Macio,750000
+house,3.0,2.0,4.0,False,False,False,False,260.0,Capim Macio,390000
+house,3.0,3.0,2.0,False,False,False,False,192.0,Lagoa Nova,360000
+house,2.0,3.0,1.0,False,False,False,False,120.0,Lagoa Nova,240000
+house,3.0,4.0,4.0,False,False,False,False,350.0,Lagoa Nova,850000
+house,3.0,3.0,3.0,False,False,False,False,270.0,Candelaria,800000
+house,3.0,1.0,3.0,False,False,False,False,120.0,Pitimbu,280000
+house,3.0,2.0,4.0,False,False,False,False,190.0,Lagoa Nova,450000
+house,3.0,2.0,1.0,False,False,False,False,100.0,Ponta Negra,600000
+house,2.0,3.0,2.0,False,False,False,False,154.0,Candelaria,260000
+house,4.0,2.0,4.0,False,False,False,False,276.0,Candelaria,580000
+house,6.0,5.0,4.0,False,False,False,False,285.0,Lagoa Nova,500000
+house,4.0,4.0,2.0,False,False,False,False,170.0,Ponta Negra,200000
+house,3.0,2.0,3.0,False,False,False,False,115.0,Lagoa Nova,350000
+house,3.0,4.0,2.0,False,False,False,False,208.0,Ponta Negra,490000
+house,6.0,3.0,8.0,False,False,False,False,480.0,Ponta Negra,800000
+house,3.0,2.0,3.0,False,False,False,False,180.0,Candelaria,320000
+house,3.0,2.0,3.0,False,False,False,False,120.0,Neopolis,220000
+house,4.0,5.0,4.0,False,False,False,False,300.0,Ponta Negra,450000
+house,9.0,11.0,7.0,True,False,True,False,450.0,Ponta Negra,750000
+house,4.0,4.0,3.0,False,False,False,False,317.0,Lagoa Nova,400000
+house,4.0,5.0,3.0,False,False,False,False,200.0,Cidade Jardim,450000
+house,3.0,3.0,8.0,False,False,False,False,160.0,Capim Macio,420000
+house,3.0,4.0,2.0,False,False,False,False,300.0,Tirol,800000
+house,3.0,4.0,1.0,False,False,False,False,275.0,Redinha,350000
+house,3.0,1.0,1.0,False,False,False,False,200.0,Potengi,170000
+house,4.0,4.0,6.0,False,False,False,False,505.0,Candelaria,1500000
+house,3.0,2.0,4.0,True,False,True,False,160.0,Ponta Negra,500000
+house,3.0,3.0,4.0,False,False,False,False,140.0,Candelaria,420000
+house,5.0,4.0,2.0,False,False,False,False,210.0,Barro Vermelho,335000
+house,5.0,5.0,3.0,False,False,False,False,276.0,Pitimbu,300000
+house,3.0,2.0,4.0,False,False,False,False,215.0,Barro Vermelho,750000
+house,1.0,2.0,4.0,False,False,False,False,130.0,Morro Branco,270000
+house,4.0,4.0,4.0,False,False,False,False,225.0,Lagoa Nova,450000
+house,4.0,6.0,4.0,False,False,False,False,300.0,POTILANDIA,520000
+house,3.0,1.0,2.0,False,False,False,False,147.0,Tirol,294000
+house,5.0,5.0,5.0,False,False,False,False,260.0,Candelaria,600000
+house,3.0,1.0,4.0,False,False,False,False,160.0,Cidade Verde,350000
+house,2.0,1.0,1.0,False,False,False,False,75.0,Neopolis,210000
+house,3.0,1.0,2.0,False,False,False,False,176.0,Lagoa Nova,370000
+house,3.0,2.0,3.0,False,False,False,False,200.0,Capim Macio,570000
+house,3.0,3.0,2.0,True,False,True,False,200.0,Capim Macio,520000
+house,4.0,4.0,5.0,False,False,False,False,232.0,Morro Branco,700000
+house,4.0,3.0,6.0,False,False,False,False,298.0,Ponta Negra,800000
+house,4.0,4.0,2.0,False,False,False,False,270.0,Pitimbu,280000
+house,3.0,3.0,2.0,False,False,False,False,300.0,Lagoa Nova,550000
+house,1.0,1.0,2.0,False,False,False,False,296.0,Neopolis,350000
+house,3.0,4.0,3.0,False,False,False,False,350.0,Nova Descoberta,470000
+house,3.0,2.0,2.0,False,False,False,False,117.0,Tirol,420000
+house,2.0,1.0,1.0,False,False,False,False,42.0,Ponta Negra,260000
+house,4.0,3.0,4.0,False,False,False,False,170.0,Candelaria,300000
+house,4.0,6.0,3.0,False,False,False,False,264.0,Cidade Jardim,850000
+house,3.0,4.0,3.0,False,False,False,False,207.0,San Vale,350000
+house,6.0,7.0,4.0,False,False,False,False,450.0,Ponta Negra,550000
+house,4.0,6.0,7.0,False,False,False,False,450.0,San Vale,700000
+house,3.0,3.0,4.0,False,False,False,False,260.0,Ponta Negra,450000
+house,3.0,4.0,7.0,False,False,False,False,275.0,Candelaria,450000
+house,4.0,3.0,1.0,False,False,False,False,200.0,Ponta Negra,350000
+house,3.0,3.0,3.0,False,False,False,False,200.0,Tirol,900000
+house,3.0,5.0,4.0,False,False,False,False,423.0,Lagoa Nova,820000
+house,3.0,3.0,2.0,False,False,False,False,110.0,Candelaria,250000
+house,5.0,3.0,4.0,False,False,False,False,248.0,POTILANDIA,550000
+house,4.0,3.0,4.0,False,False,False,False,280.0,Pitimbu,300000
+house,4.0,2.0,4.0,False,False,False,False,260.0,Candelaria,1500000
+house,3.0,2.0,2.0,False,False,False,False,160.0,Planalto,240000
+house,3.0,3.0,4.0,False,False,False,False,180.0,Ponta Negra,350000
+house,3.0,5.0,2.0,False,False,False,False,240.0,Ponta Negra,570000
+house,3.0,3.0,2.0,False,False,False,False,150.0,Ponta Negra,380000
+house,4.0,2.0,1.0,False,False,False,False,210.0,Barro Vermelho,350000
+house,3.0,2.0,2.0,False,False,False,False,145.0,Igapo,200000
+house,4.0,3.0,4.0,False,False,False,False,705.0,Morro Branco,1150000
+house,3.0,5.0,4.0,False,False,False,False,250.0,Candelaria,530000
+house,3.0,3.0,4.0,False,False,False,False,196.0,Pitimbu,320000
+house,4.0,2.0,1.0,False,False,False,False,130.0,Morro Branco,280000
+house,3.0,4.0,2.0,False,False,False,False,197.0,Pitimbu,650000
+house,6.0,7.0,30.0,False,False,False,False,500.0,Redinha,650000
+house,3.0,3.0,2.0,False,False,False,False,160.0,Tirol,690000
+house,2.0,3.0,2.0,False,False,False,False,169.0,Pitimbu,200000
+house,3.0,2.0,4.0,False,False,False,False,220.0,Pitimbu,320000
+house,6.0,6.0,2.0,False,False,False,False,329.0,POTILANDIA,700000
+house,4.0,1.0,1.0,False,False,False,False,250.0,Neopolis,400000
+house,3.0,1.0,2.0,False,False,False,False,100.0,POTILANDIA,290000
+house,3.0,2.0,2.0,False,False,False,False,140.0,Neopolis,270000
+house,4.0,7.0,4.0,False,False,False,False,230.0,Capim Macio,500000
+house,3.0,2.0,2.0,False,False,False,False,197.0,Pitimbu,360000
+house,3.0,4.0,4.0,False,False,False,False,239.0,Cidade Jardim,450000
+house,4.0,3.0,4.0,False,False,False,False,200.0,Pitimbu,320000
+house,2.0,2.0,1.0,False,False,False,False,52.0,Nossa Senhora da Apresentacao,115000
+house,3.0,1.0,3.0,False,False,False,False,258.0,Pitimbu,350000
+house,3.0,4.0,1.0,False,False,False,False,141.0,Morro Branco,380000
+house,3.0,2.0,2.0,False,False,False,False,150.0,Candelaria,350000
+house,3.0,3.0,3.0,False,False,False,False,160.0,Candelaria,310000
+house,3.0,4.0,4.0,False,False,False,False,350.0,Morro Branco,800000
+house,2.0,1.0,5.0,False,False,False,False,85.0,Pitimbu,200000
+house,3.0,3.0,2.0,False,False,False,False,220.0,Cidade Verde,350000
+house,3.0,1.0,4.0,False,False,False,False,180.0,Pitimbu,245000
+house,5.0,1.0,4.0,False,False,False,False,490.0,Capim Macio,1300000
+house,6.0,5.0,4.0,False,False,False,False,280.0,POTILANDIA,580000
+house,3.0,2.0,1.0,False,False,False,False,300.0,Capim Macio,650000
+house,4.0,4.0,5.0,False,False,False,False,320.0,Pitimbu,370000
+house,4.0,4.0,6.0,False,False,False,False,230.0,Capim Macio,750000
+house,4.0,2.0,1.0,False,False,False,False,185.0,Quintas,230000
+house,4.0,3.0,3.0,False,False,False,False,680.0,Lagoa Nova,600000
+house,4.0,5.0,5.0,False,False,False,False,480.0,Candelaria,800000
+house,3.0,1.0,2.0,False,False,False,False,280.0,Pitimbu,270000
+house,6.0,4.0,2.0,False,False,False,False,300.0,Lagoa Nova,490000
+house,5.0,3.0,4.0,False,False,False,False,290.0,POTILANDIA,650000
+house,3.0,2.0,3.0,False,False,False,False,160.0,Pitimbu,250000
+house,3.0,1.0,4.0,False,False,False,False,220.0,POTILANDIA,430000
+house,4.0,6.0,4.0,False,False,False,False,350.0,Cidade Jardim,500000
+house,3.0,3.0,1.0,False,False,False,False,150.0,Neopolis,265000
+house,7.0,8.0,1.0,False,False,False,False,450.0,Ponta Negra,800000
+house,5.0,1.0,1.0,False,False,False,False,112.0,Alecrim,240000
+house,2.0,1.0,2.0,False,False,False,False,55.0,Planalto,140000
+house,4.0,5.0,5.0,False,False,False,False,230.0,Ponta Negra,600000
+house,4.0,1.0,1.0,False,False,False,False,380.0,Lagoa Nova,400000
+house,3.0,3.0,2.0,False,False,False,False,170.0,Neopolis,300000
+house,4.0,6.0,3.0,False,False,False,False,345.0,Cidade Verde,1400000
+house,3.0,3.0,4.0,False,False,False,False,220.0,San Vale,570000
+house,4.0,4.0,5.0,False,False,False,False,240.0,Capim Macio,550000
+house,3.0,1.0,4.0,False,False,False,False,102.0,Pitimbu,280000
+house,2.0,1.0,4.0,False,False,False,False,90.0,Planalto,250000
+house,3.0,4.0,2.0,False,False,False,False,252.0,Pitimbu,320000
+house,3.0,3.0,1.0,False,False,False,False,120.0,Potengi,150000
+house,2.0,3.0,1.0,False,False,False,False,235.0,Neopolis,220000
+house,3.0,3.0,3.0,False,False,False,False,340.0,Capim Macio,850000
+house,3.0,3.0,2.0,False,False,False,False,138.0,Tirol,295000
+house,3.0,3.0,4.0,False,False,False,False,150.0,Neopolis,280000
+house,3.0,2.0,4.0,False,False,False,False,220.0,Lagoa Nova,460000
+house,3.0,3.0,3.0,False,False,False,False,250.0,Ponta Negra,430000
+house,4.0,4.0,2.0,False,False,False,False,243.0,Lagoa Nova,600000
+house,5.0,4.0,7.0,False,False,False,False,193.0,Candelaria,480000
+house,2.0,1.0,1.0,False,False,False,False,65.0,Alecrim,250000
+house,3.0,6.0,2.0,False,False,False,False,400.0,Capim Macio,950000
+house,5.0,3.0,1.0,False,False,False,False,210.0,Alecrim,430000
+house,3.0,1.0,3.0,False,False,False,False,258.0,Pitimbu,350000
+house,4.0,3.0,3.0,False,False,False,False,250.0,Cidade da Esperanca,380000
+house,3.0,3.0,12.0,False,False,False,False,300.0,Capim Macio,850000
+house,3.0,1.0,2.0,False,False,False,False,300.0,San Vale,580000
+house,3.0,2.0,3.0,False,False,False,False,150.0,Pitimbu,325000
+house,3.0,4.0,2.0,False,False,False,False,265.0,San Vale,460000
+house,5.0,1.0,2.0,False,False,False,False,256.0,Lagoa Nova,430000
+house,2.0,3.0,2.0,False,False,False,False,220.0,Barro Vermelho,580000
+house,3.0,2.0,6.0,False,False,True,False,120.0,Ponta Negra,599000
+house,4.0,2.0,4.0,False,False,False,False,200.0,Lagoa Nova,330000
+house,3.0,4.0,2.0,False,False,False,False,350.0,Candelaria,1200000
+house,8.0,6.0,8.0,False,False,False,False,360.0,Cidade Jardim,560000
+house,4.0,3.0,4.0,False,False,False,False,217.0,Barro Vermelho,750000
+house,3.0,3.0,4.0,False,False,False,False,200.0,Neopolis,430000
+house,3.0,4.0,2.0,False,False,False,False,180.0,Candelaria,480000
+house,4.0,6.0,4.0,False,False,False,False,375.0,Cidade Verde,1480000
+house,2.0,1.0,1.0,False,False,False,False,40.0,Lagoa Nova,180000
+house,3.0,2.0,4.0,False,False,False,False,220.0,Morro Branco,380000
+house,4.0,6.0,1.0,False,False,False,False,350.0,Morro Branco,1200000
+house,4.0,7.0,5.0,False,False,False,False,450.0,Cidade Jardim,1300000
+house,4.0,1.0,5.0,False,False,False,False,420.0,Candelaria,800000
+house,2.0,1.0,1.0,False,False,False,False,105.0,Nossa Senhora da Apresentacao,80000
+house,3.0,1.0,2.0,False,False,False,False,175.0,POTILANDIA,290000
+house,3.0,4.0,4.0,False,False,False,False,220.0,Lagoa Nova,650000
+house,4.0,2.0,3.0,False,False,False,False,200.0,POTILANDIA,380000
+house,3.0,2.0,3.0,False,False,False,False,180.0,Pitimbu,350000
+house,5.0,8.0,2.0,False,False,False,False,500.0,Ponta Negra,2600000
+house,4.0,1.0,8.0,False,False,False,False,285.0,Morro Branco,800000
+house,3.0,5.0,3.0,False,False,False,False,256.0,Neopolis,500000

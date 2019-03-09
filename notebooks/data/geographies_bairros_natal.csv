@@ -1,0 +1,421 @@
+,tag,bairro,count,REG_ADM,area,density
+0,amenity_clinic,Alecrim,0,Leste,2.8126630564480646,0.0
+1,amenity_clinic,Areia Preta,0,Leste,0.2624931585903798,0.0
+2,amenity_clinic,Barro Vermelho,0,Leste,0.773459952408173,0.0
+3,amenity_clinic,Bom Pastor,0,Oeste,2.8237542657802215,0.0
+4,amenity_clinic,Candelária,0,Sul,6.213090490268191,0.0
+5,amenity_clinic,Capim Macio,3,Sul,3.536322749587128,0.8483388571787616
+6,amenity_clinic,Cidade Alta,1,Leste,0.9498325820890022,1.052817116255017
+7,amenity_clinic,Cidade Nova,0,Oeste,2.138739680894446,0.0
+8,amenity_clinic,Cidade da Esperança,0,Oeste,1.4921251057655043,0.0
+9,amenity_clinic,Dix-Sept Rosado,0,Oeste,0.8945426611849765,0.0
+10,amenity_clinic,Felipe Camarão,0,Oeste,5.422818204774316,0.0
+11,amenity_clinic,Guarapes,0,Oeste,6.981796408221646,0.0
+12,amenity_clinic,Igapó,0,Norte,1.7961583449065368,0.0
+13,amenity_clinic,Lagoa Azul,0,Norte,9.523752054212096,0.0
+14,amenity_clinic,Lagoa Nova,7,Sul,6.264427860715066,1.1174204820679299
+15,amenity_clinic,Lagoa Seca,0,Leste,0.49847829810883376,0.0
+16,amenity_clinic,Mãe Luiza,0,Leste,0.7808093519276514,0.0
+17,amenity_clinic,N. S. Apresentação,0,Norte,8.359996458807668,0.0
+18,amenity_clinic,N. Sra. do Nazaré,0,Oeste,1.174982498465845,0.0
+19,amenity_clinic,Neópolis,5,Sul,2.6287055158952892,1.9020768852828656
+20,amenity_clinic,Nova Descoberta,0,Sul,1.2959380067857247,0.0
+21,amenity_clinic,Pajuçara,0,Norte,6.250138148913146,0.0
+22,amenity_clinic,Parque das Dunas,0,Sul,9.824446055169469,0.0
+23,amenity_clinic,Petropólis,1,Leste,0.6399234277218987,1.5626869664077767
+24,amenity_clinic,Pitimbu,2,Sul,6.075760421672488,0.3291769031685182
+25,amenity_clinic,Planalto,0,Oeste,3.7847053271180475,0.0
+26,amenity_clinic,Ponta Negra,0,Sul,11.27862552667373,0.0
+27,amenity_clinic,Potengi,1,Norte,6.52548282021391,0.1532453655233467
+28,amenity_clinic,Praia do Meio,0,Leste,0.39912132497084085,0.0
+29,amenity_clinic,Quintas,0,Oeste,2.027817307910962,0.0
+30,amenity_clinic,Redinha,0,Norte,7.170319431390413,0.0
+31,amenity_clinic,Ribeira,1,Leste,0.7701308835145091,1.2984805848019991
+32,amenity_clinic,Rocas,0,Leste,0.5386164473659117,0.0
+33,amenity_clinic,Santos Reis,0,Leste,1.8120202788320696,0.0
+34,amenity_clinic,Tirol,6,Leste,2.9377194954885093,2.0424005795019813
+35,amenity_fast_food,Alecrim,7,Leste,2.8126630564480646,2.488744602362666
+36,amenity_fast_food,Areia Preta,0,Leste,0.2624931585903798,0.0
+37,amenity_fast_food,Barro Vermelho,1,Leste,0.773459952408173,1.2928917610879438
+38,amenity_fast_food,Bom Pastor,0,Oeste,2.8237542657802215,0.0
+39,amenity_fast_food,Candelária,21,Sul,6.213090490268191,3.379960429176612
+40,amenity_fast_food,Capim Macio,19,Sul,3.536322749587128,5.372812762132156
+41,amenity_fast_food,Cidade Alta,0,Leste,0.9498325820890022,0.0
+42,amenity_fast_food,Cidade Nova,0,Oeste,2.138739680894446,0.0
+43,amenity_fast_food,Cidade da Esperança,0,Oeste,1.4921251057655043,0.0
+44,amenity_fast_food,Dix-Sept Rosado,0,Oeste,0.8945426611849765,0.0
+45,amenity_fast_food,Felipe Camarão,0,Oeste,5.422818204774316,0.0
+46,amenity_fast_food,Guarapes,0,Oeste,6.981796408221646,0.0
+47,amenity_fast_food,Igapó,1,Norte,1.7961583449065368,0.5567437875595734
+48,amenity_fast_food,Lagoa Azul,0,Norte,9.523752054212096,0.0
+49,amenity_fast_food,Lagoa Nova,20,Sul,6.264427860715066,3.1926299487655143
+50,amenity_fast_food,Lagoa Seca,1,Leste,0.49847829810883376,2.006105388727812
+51,amenity_fast_food,Mãe Luiza,0,Leste,0.7808093519276514,0.0
+52,amenity_fast_food,N. S. Apresentação,0,Norte,8.359996458807668,0.0
+53,amenity_fast_food,N. Sra. do Nazaré,0,Oeste,1.174982498465845,0.0
+54,amenity_fast_food,Neópolis,17,Sul,2.6287055158952892,6.467061409961743
+55,amenity_fast_food,Nova Descoberta,0,Sul,1.2959380067857247,0.0
+56,amenity_fast_food,Pajuçara,0,Norte,6.250138148913146,0.0
+57,amenity_fast_food,Parque das Dunas,0,Sul,9.824446055169469,0.0
+58,amenity_fast_food,Petropólis,5,Leste,0.6399234277218987,7.813434832038883
+59,amenity_fast_food,Pitimbu,5,Sul,6.075760421672488,0.8229422579212956
+60,amenity_fast_food,Planalto,0,Oeste,3.7847053271180475,0.0
+61,amenity_fast_food,Ponta Negra,9,Sul,11.27862552667373,0.797969573394841
+62,amenity_fast_food,Potengi,1,Norte,6.52548282021391,0.1532453655233467
+63,amenity_fast_food,Praia do Meio,0,Leste,0.39912132497084085,0.0
+64,amenity_fast_food,Quintas,0,Oeste,2.027817307910962,0.0
+65,amenity_fast_food,Redinha,0,Norte,7.170319431390413,0.0
+66,amenity_fast_food,Ribeira,5,Leste,0.7701308835145091,6.492402924009996
+67,amenity_fast_food,Rocas,0,Leste,0.5386164473659117,0.0
+68,amenity_fast_food,Santos Reis,0,Leste,1.8120202788320696,0.0
+69,amenity_fast_food,Tirol,7,Leste,2.9377194954885093,2.382800676085645
+70,amenity_hospital,Alecrim,2,Leste,2.8126630564480646,0.7110698863893332
+71,amenity_hospital,Areia Preta,1,Leste,0.2624931585903798,3.809623097874709
+72,amenity_hospital,Barro Vermelho,0,Leste,0.773459952408173,0.0
+73,amenity_hospital,Bom Pastor,0,Oeste,2.8237542657802215,0.0
+74,amenity_hospital,Candelária,1,Sul,6.213090490268191,0.16095049662745772
+75,amenity_hospital,Capim Macio,1,Sul,3.536322749587128,0.2827796190595872
+76,amenity_hospital,Cidade Alta,1,Leste,0.9498325820890022,1.052817116255017
+77,amenity_hospital,Cidade Nova,0,Oeste,2.138739680894446,0.0
+78,amenity_hospital,Cidade da Esperança,1,Oeste,1.4921251057655043,0.6701850911401765
+79,amenity_hospital,Dix-Sept Rosado,0,Oeste,0.8945426611849765,0.0
+80,amenity_hospital,Felipe Camarão,0,Oeste,5.422818204774316,0.0
+81,amenity_hospital,Guarapes,0,Oeste,6.981796408221646,0.0
+82,amenity_hospital,Igapó,0,Norte,1.7961583449065368,0.0
+83,amenity_hospital,Lagoa Azul,0,Norte,9.523752054212096,0.0
+84,amenity_hospital,Lagoa Nova,5,Sul,6.264427860715066,0.7981574871913786
+85,amenity_hospital,Lagoa Seca,2,Leste,0.49847829810883376,4.012210777455624
+86,amenity_hospital,Mãe Luiza,0,Leste,0.7808093519276514,0.0
+87,amenity_hospital,N. S. Apresentação,1,Norte,8.359996458807668,0.11961727554877738
+88,amenity_hospital,N. Sra. do Nazaré,1,Oeste,1.174982498465845,0.8510765065059975
+89,amenity_hospital,Neópolis,2,Sul,2.6287055158952892,0.7608307541131463
+90,amenity_hospital,Nova Descoberta,0,Sul,1.2959380067857247,0.0
+91,amenity_hospital,Pajuçara,2,Norte,6.250138148913146,0.31999292693198883
+92,amenity_hospital,Parque das Dunas,0,Sul,9.824446055169469,0.0
+93,amenity_hospital,Petropólis,6,Leste,0.6399234277218987,9.37612179844666
+94,amenity_hospital,Pitimbu,2,Sul,6.075760421672488,0.3291769031685182
+95,amenity_hospital,Planalto,0,Oeste,3.7847053271180475,0.0
+96,amenity_hospital,Ponta Negra,0,Sul,11.27862552667373,0.0
+97,amenity_hospital,Potengi,4,Norte,6.52548282021391,0.6129814620933868
+98,amenity_hospital,Praia do Meio,1,Leste,0.39912132497084085,2.505503809081257
+99,amenity_hospital,Quintas,2,Oeste,2.027817307910962,0.986282142970947
+100,amenity_hospital,Redinha,0,Norte,7.170319431390413,0.0
+101,amenity_hospital,Ribeira,3,Leste,0.7701308835145091,3.895441754405997
+102,amenity_hospital,Rocas,1,Leste,0.5386164473659117,1.8566087331541234
+103,amenity_hospital,Santos Reis,0,Leste,1.8120202788320696,0.0
+104,amenity_hospital,Tirol,11,Leste,2.9377194954885093,3.7444010624202995
+105,amenity_pharmacy,Alecrim,7,Leste,2.8126630564480646,2.488744602362666
+106,amenity_pharmacy,Areia Preta,1,Leste,0.2624931585903798,3.809623097874709
+107,amenity_pharmacy,Barro Vermelho,1,Leste,0.773459952408173,1.2928917610879438
+108,amenity_pharmacy,Bom Pastor,0,Oeste,2.8237542657802215,0.0
+109,amenity_pharmacy,Candelária,6,Sul,6.213090490268191,0.9657029797647463
+110,amenity_pharmacy,Capim Macio,12,Sul,3.536322749587128,3.3933554287150463
+111,amenity_pharmacy,Cidade Alta,6,Leste,0.9498325820890022,6.316902697530102
+112,amenity_pharmacy,Cidade Nova,0,Oeste,2.138739680894446,0.0
+113,amenity_pharmacy,Cidade da Esperança,0,Oeste,1.4921251057655043,0.0
+114,amenity_pharmacy,Dix-Sept Rosado,0,Oeste,0.8945426611849765,0.0
+115,amenity_pharmacy,Felipe Camarão,0,Oeste,5.422818204774316,0.0
+116,amenity_pharmacy,Guarapes,0,Oeste,6.981796408221646,0.0
+117,amenity_pharmacy,Igapó,1,Norte,1.7961583449065368,0.5567437875595734
+118,amenity_pharmacy,Lagoa Azul,0,Norte,9.523752054212096,0.0
+119,amenity_pharmacy,Lagoa Nova,24,Sul,6.264427860715066,3.831155938518617
+120,amenity_pharmacy,Lagoa Seca,5,Leste,0.49847829810883376,10.030526943639059
+121,amenity_pharmacy,Mãe Luiza,0,Leste,0.7808093519276514,0.0
+122,amenity_pharmacy,N. S. Apresentação,0,Norte,8.359996458807668,0.0
+123,amenity_pharmacy,N. Sra. do Nazaré,1,Oeste,1.174982498465845,0.8510765065059975
+124,amenity_pharmacy,Neópolis,7,Sul,2.6287055158952892,2.662907639396012
+125,amenity_pharmacy,Nova Descoberta,4,Sul,1.2959380067857247,3.086567396785497
+126,amenity_pharmacy,Pajuçara,0,Norte,6.250138148913146,0.0
+127,amenity_pharmacy,Parque das Dunas,0,Sul,9.824446055169469,0.0
+128,amenity_pharmacy,Petropólis,3,Leste,0.6399234277218987,4.68806089922333
+129,amenity_pharmacy,Pitimbu,3,Sul,6.075760421672488,0.49376535475277733
+130,amenity_pharmacy,Planalto,0,Oeste,3.7847053271180475,0.0
+131,amenity_pharmacy,Ponta Negra,2,Sul,11.27862552667373,0.1773265718655202
+132,amenity_pharmacy,Potengi,0,Norte,6.52548282021391,0.0
+133,amenity_pharmacy,Praia do Meio,0,Leste,0.39912132497084085,0.0
+134,amenity_pharmacy,Quintas,1,Oeste,2.027817307910962,0.4931410714854735
+135,amenity_pharmacy,Redinha,0,Norte,7.170319431390413,0.0
+136,amenity_pharmacy,Ribeira,1,Leste,0.7701308835145091,1.2984805848019991
+137,amenity_pharmacy,Rocas,0,Leste,0.5386164473659117,0.0
+138,amenity_pharmacy,Santos Reis,0,Leste,1.8120202788320696,0.0
+139,amenity_pharmacy,Tirol,5,Leste,2.9377194954885093,1.702000482918318
+140,amenity_place_of_worship,Alecrim,10,Leste,2.8126630564480646,3.555349431946666
+141,amenity_place_of_worship,Areia Preta,1,Leste,0.2624931585903798,3.809623097874709
+142,amenity_place_of_worship,Barro Vermelho,0,Leste,0.773459952408173,0.0
+143,amenity_place_of_worship,Bom Pastor,4,Oeste,2.8237542657802215,1.4165538582709407
+144,amenity_place_of_worship,Candelária,4,Sul,6.213090490268191,0.6438019865098309
+145,amenity_place_of_worship,Capim Macio,7,Sul,3.536322749587128,1.9794573334171102
+146,amenity_place_of_worship,Cidade Alta,4,Leste,0.9498325820890022,4.211268465020068
+147,amenity_place_of_worship,Cidade Nova,1,Oeste,2.138739680894446,0.4675650846772471
+148,amenity_place_of_worship,Cidade da Esperança,5,Oeste,1.4921251057655043,3.3509254557008825
+149,amenity_place_of_worship,Dix-Sept Rosado,0,Oeste,0.8945426611849765,0.0
+150,amenity_place_of_worship,Felipe Camarão,1,Oeste,5.422818204774316,0.18440596056116867
+151,amenity_place_of_worship,Guarapes,0,Oeste,6.981796408221646,0.0
+152,amenity_place_of_worship,Igapó,0,Norte,1.7961583449065368,0.0
+153,amenity_place_of_worship,Lagoa Azul,4,Norte,9.523752054212096,0.42000253442454005
+154,amenity_place_of_worship,Lagoa Nova,11,Sul,6.264427860715066,1.7559464718210327
+155,amenity_place_of_worship,Lagoa Seca,1,Leste,0.49847829810883376,2.006105388727812
+156,amenity_place_of_worship,Mãe Luiza,0,Leste,0.7808093519276514,0.0
+157,amenity_place_of_worship,N. S. Apresentação,0,Norte,8.359996458807668,0.0
+158,amenity_place_of_worship,N. Sra. do Nazaré,3,Oeste,1.174982498465845,2.5532295195179926
+159,amenity_place_of_worship,Neópolis,4,Sul,2.6287055158952892,1.5216615082262925
+160,amenity_place_of_worship,Nova Descoberta,0,Sul,1.2959380067857247,0.0
+161,amenity_place_of_worship,Pajuçara,6,Norte,6.250138148913146,0.9599787807959664
+162,amenity_place_of_worship,Parque das Dunas,0,Sul,9.824446055169469,0.0
+163,amenity_place_of_worship,Petropólis,0,Leste,0.6399234277218987,0.0
+164,amenity_place_of_worship,Pitimbu,27,Sul,6.075760421672488,4.443888192774996
+165,amenity_place_of_worship,Planalto,0,Oeste,3.7847053271180475,0.0
+166,amenity_place_of_worship,Ponta Negra,3,Sul,11.27862552667373,0.2659898577982803
+167,amenity_place_of_worship,Potengi,3,Norte,6.52548282021391,0.4597360965700401
+168,amenity_place_of_worship,Praia do Meio,0,Leste,0.39912132497084085,0.0
+169,amenity_place_of_worship,Quintas,2,Oeste,2.027817307910962,0.986282142970947
+170,amenity_place_of_worship,Redinha,2,Norte,7.170319431390413,0.27892760136240896
+171,amenity_place_of_worship,Ribeira,2,Leste,0.7701308835145091,2.5969611696039983
+172,amenity_place_of_worship,Rocas,0,Leste,0.5386164473659117,0.0
+173,amenity_place_of_worship,Santos Reis,1,Leste,1.8120202788320696,0.5518702034861034
+174,amenity_place_of_worship,Tirol,4,Leste,2.9377194954885093,1.3616003863346544
+175,amenity_police,Alecrim,1,Leste,2.8126630564480646,0.3555349431946666
+176,amenity_police,Areia Preta,0,Leste,0.2624931585903798,0.0
+177,amenity_police,Barro Vermelho,0,Leste,0.773459952408173,0.0
+178,amenity_police,Bom Pastor,0,Oeste,2.8237542657802215,0.0
+179,amenity_police,Candelária,2,Sul,6.213090490268191,0.32190099325491545
+180,amenity_police,Capim Macio,1,Sul,3.536322749587128,0.2827796190595872
+181,amenity_police,Cidade Alta,0,Leste,0.9498325820890022,0.0
+182,amenity_police,Cidade Nova,0,Oeste,2.138739680894446,0.0
+183,amenity_police,Cidade da Esperança,3,Oeste,1.4921251057655043,2.0105552734205294
+184,amenity_police,Dix-Sept Rosado,0,Oeste,0.8945426611849765,0.0
+185,amenity_police,Felipe Camarão,0,Oeste,5.422818204774316,0.0
+186,amenity_police,Guarapes,0,Oeste,6.981796408221646,0.0
+187,amenity_police,Igapó,0,Norte,1.7961583449065368,0.0
+188,amenity_police,Lagoa Azul,0,Norte,9.523752054212096,0.0
+189,amenity_police,Lagoa Nova,5,Sul,6.264427860715066,0.7981574871913786
+190,amenity_police,Lagoa Seca,1,Leste,0.49847829810883376,2.006105388727812
+191,amenity_police,Mãe Luiza,0,Leste,0.7808093519276514,0.0
+192,amenity_police,N. S. Apresentação,0,Norte,8.359996458807668,0.0
+193,amenity_police,N. Sra. do Nazaré,0,Oeste,1.174982498465845,0.0
+194,amenity_police,Neópolis,3,Sul,2.6287055158952892,1.1412461311697193
+195,amenity_police,Nova Descoberta,1,Sul,1.2959380067857247,0.7716418491963742
+196,amenity_police,Pajuçara,0,Norte,6.250138148913146,0.0
+197,amenity_police,Parque das Dunas,2,Sul,9.824446055169469,0.20357381869358745
+198,amenity_police,Petropólis,0,Leste,0.6399234277218987,0.0
+199,amenity_police,Pitimbu,2,Sul,6.075760421672488,0.3291769031685182
+200,amenity_police,Planalto,0,Oeste,3.7847053271180475,0.0
+201,amenity_police,Ponta Negra,3,Sul,11.27862552667373,0.2659898577982803
+202,amenity_police,Potengi,0,Norte,6.52548282021391,0.0
+203,amenity_police,Praia do Meio,1,Leste,0.39912132497084085,2.505503809081257
+204,amenity_police,Quintas,1,Oeste,2.027817307910962,0.4931410714854735
+205,amenity_police,Redinha,0,Norte,7.170319431390413,0.0
+206,amenity_police,Ribeira,1,Leste,0.7701308835145091,1.2984805848019991
+207,amenity_police,Rocas,1,Leste,0.5386164473659117,1.8566087331541234
+208,amenity_police,Santos Reis,0,Leste,1.8120202788320696,0.0
+209,amenity_police,Tirol,2,Leste,2.9377194954885093,0.6808001931673272
+210,amenity_restaurant,Alecrim,2,Leste,2.8126630564480646,0.7110698863893332
+211,amenity_restaurant,Areia Preta,2,Leste,0.2624931585903798,7.619246195749418
+212,amenity_restaurant,Barro Vermelho,3,Leste,0.773459952408173,3.8786752832638314
+213,amenity_restaurant,Bom Pastor,0,Oeste,2.8237542657802215,0.0
+214,amenity_restaurant,Candelária,20,Sul,6.213090490268191,3.219009932549154
+215,amenity_restaurant,Capim Macio,25,Sul,3.536322749587128,7.06949047648968
+216,amenity_restaurant,Cidade Alta,1,Leste,0.9498325820890022,1.052817116255017
+217,amenity_restaurant,Cidade Nova,0,Oeste,2.138739680894446,0.0
+218,amenity_restaurant,Cidade da Esperança,0,Oeste,1.4921251057655043,0.0
+219,amenity_restaurant,Dix-Sept Rosado,1,Oeste,0.8945426611849765,1.117889669650106
+220,amenity_restaurant,Felipe Camarão,0,Oeste,5.422818204774316,0.0
+221,amenity_restaurant,Guarapes,0,Oeste,6.981796408221646,0.0
+222,amenity_restaurant,Igapó,0,Norte,1.7961583449065368,0.0
+223,amenity_restaurant,Lagoa Azul,0,Norte,9.523752054212096,0.0
+224,amenity_restaurant,Lagoa Nova,31,Sul,6.264427860715066,4.948576420586547
+225,amenity_restaurant,Lagoa Seca,1,Leste,0.49847829810883376,2.006105388727812
+226,amenity_restaurant,Mãe Luiza,1,Leste,0.7808093519276514,1.280722365237063
+227,amenity_restaurant,N. S. Apresentação,0,Norte,8.359996458807668,0.0
+228,amenity_restaurant,N. Sra. do Nazaré,0,Oeste,1.174982498465845,0.0
+229,amenity_restaurant,Neópolis,19,Sul,2.6287055158952892,7.227892164074889
+230,amenity_restaurant,Nova Descoberta,3,Sul,1.2959380067857247,2.3149255475891226
+231,amenity_restaurant,Pajuçara,0,Norte,6.250138148913146,0.0
+232,amenity_restaurant,Parque das Dunas,0,Sul,9.824446055169469,0.0
+233,amenity_restaurant,Petropólis,11,Leste,0.6399234277218987,17.189556630485544
+234,amenity_restaurant,Pitimbu,4,Sul,6.075760421672488,0.6583538063370364
+235,amenity_restaurant,Planalto,0,Oeste,3.7847053271180475,0.0
+236,amenity_restaurant,Ponta Negra,33,Sul,11.27862552667373,2.9258884357810837
+237,amenity_restaurant,Potengi,1,Norte,6.52548282021391,0.1532453655233467
+238,amenity_restaurant,Praia do Meio,0,Leste,0.39912132497084085,0.0
+239,amenity_restaurant,Quintas,2,Oeste,2.027817307910962,0.986282142970947
+240,amenity_restaurant,Redinha,0,Norte,7.170319431390413,0.0
+241,amenity_restaurant,Ribeira,1,Leste,0.7701308835145091,1.2984805848019991
+242,amenity_restaurant,Rocas,0,Leste,0.5386164473659117,0.0
+243,amenity_restaurant,Santos Reis,0,Leste,1.8120202788320696,0.0
+244,amenity_restaurant,Tirol,46,Leste,2.9377194954885093,15.658404442848525
+245,amenity_school,Alecrim,8,Leste,2.8126630564480646,2.844279545557333
+246,amenity_school,Areia Preta,0,Leste,0.2624931585903798,0.0
+247,amenity_school,Barro Vermelho,4,Leste,0.773459952408173,5.171567044351775
+248,amenity_school,Bom Pastor,2,Oeste,2.8237542657802215,0.7082769291354704
+249,amenity_school,Candelária,7,Sul,6.213090490268191,1.126653476392204
+250,amenity_school,Capim Macio,11,Sul,3.536322749587128,3.110575809655459
+251,amenity_school,Cidade Alta,5,Leste,0.9498325820890022,5.264085581275085
+252,amenity_school,Cidade Nova,0,Oeste,2.138739680894446,0.0
+253,amenity_school,Cidade da Esperança,2,Oeste,1.4921251057655043,1.340370182280353
+254,amenity_school,Dix-Sept Rosado,0,Oeste,0.8945426611849765,0.0
+255,amenity_school,Felipe Camarão,1,Oeste,5.422818204774316,0.18440596056116867
+256,amenity_school,Guarapes,0,Oeste,6.981796408221646,0.0
+257,amenity_school,Igapó,0,Norte,1.7961583449065368,0.0
+258,amenity_school,Lagoa Azul,2,Norte,9.523752054212096,0.21000126721227003
+259,amenity_school,Lagoa Nova,27,Sul,6.264427860715066,4.310050430833444
+260,amenity_school,Lagoa Seca,1,Leste,0.49847829810883376,2.006105388727812
+261,amenity_school,Mãe Luiza,3,Leste,0.7808093519276514,3.8421670957111886
+262,amenity_school,N. S. Apresentação,1,Norte,8.359996458807668,0.11961727554877738
+263,amenity_school,N. Sra. do Nazaré,2,Oeste,1.174982498465845,1.702153013011995
+264,amenity_school,Neópolis,11,Sul,2.6287055158952892,4.184569147622304
+265,amenity_school,Nova Descoberta,0,Sul,1.2959380067857247,0.0
+266,amenity_school,Pajuçara,2,Norte,6.250138148913146,0.31999292693198883
+267,amenity_school,Parque das Dunas,1,Sul,9.824446055169469,0.10178690934679373
+268,amenity_school,Petropólis,7,Leste,0.6399234277218987,10.938808764854437
+269,amenity_school,Pitimbu,10,Sul,6.075760421672488,1.6458845158425912
+270,amenity_school,Planalto,0,Oeste,3.7847053271180475,0.0
+271,amenity_school,Ponta Negra,5,Sul,11.27862552667373,0.4433164296638005
+272,amenity_school,Potengi,1,Norte,6.52548282021391,0.1532453655233467
+273,amenity_school,Praia do Meio,0,Leste,0.39912132497084085,0.0
+274,amenity_school,Quintas,2,Oeste,2.027817307910962,0.986282142970947
+275,amenity_school,Redinha,1,Norte,7.170319431390413,0.13946380068120448
+276,amenity_school,Ribeira,0,Leste,0.7701308835145091,0.0
+277,amenity_school,Rocas,1,Leste,0.5386164473659117,1.8566087331541234
+278,amenity_school,Santos Reis,0,Leste,1.8120202788320696,0.0
+279,amenity_school,Tirol,9,Leste,2.9377194954885093,3.0636008692529724
+280,leisure_*,Alecrim,15,Leste,2.8126630564480646,5.333024147919999
+281,leisure_*,Areia Preta,4,Leste,0.2624931585903798,15.238492391498836
+282,leisure_*,Barro Vermelho,7,Leste,0.773459952408173,9.050242327615607
+283,leisure_*,Bom Pastor,1,Oeste,2.8237542657802215,0.3541384645677352
+284,leisure_*,Candelária,69,Sul,6.213090490268191,11.105584267294581
+285,leisure_*,Capim Macio,109,Sul,3.536322749587128,30.822978477495003
+286,leisure_*,Cidade Alta,19,Leste,0.9498325820890022,20.00352520884532
+287,leisure_*,Cidade Nova,0,Oeste,2.138739680894446,0.0
+288,leisure_*,Cidade da Esperança,18,Oeste,1.4921251057655043,12.063331640523177
+289,leisure_*,Dix-Sept Rosado,1,Oeste,0.8945426611849765,1.117889669650106
+290,leisure_*,Felipe Camarão,5,Oeste,5.422818204774316,0.9220298028058433
+291,leisure_*,Guarapes,2,Oeste,6.981796408221646,0.2864592266891131
+292,leisure_*,Igapó,4,Norte,1.7961583449065368,2.2269751502382937
+293,leisure_*,Lagoa Azul,15,Norte,9.523752054212096,1.5750095040920251
+294,leisure_*,Lagoa Nova,152,Sul,6.264427860715066,24.263987610617907
+295,leisure_*,Lagoa Seca,8,Leste,0.49847829810883376,16.048843109822496
+296,leisure_*,Mãe Luiza,1,Leste,0.7808093519276514,1.280722365237063
+297,leisure_*,N. S. Apresentação,7,Norte,8.359996458807668,0.8373209288414417
+298,leisure_*,N. Sra. do Nazaré,4,Oeste,1.174982498465845,3.40430602602399
+299,leisure_*,Neópolis,126,Sul,2.6287055158952892,47.93233750912821
+300,leisure_*,Nova Descoberta,9,Sul,1.2959380067857247,6.944776642767368
+301,leisure_*,Pajuçara,17,Norte,6.250138148913146,2.7199398789219047
+302,leisure_*,Parque das Dunas,11,Sul,9.824446055169469,1.119656002814731
+303,leisure_*,Petropólis,14,Leste,0.6399234277218987,21.877617529708875
+304,leisure_*,Pitimbu,55,Sul,6.075760421672488,9.05236483713425
+305,leisure_*,Planalto,2,Oeste,3.7847053271180475,0.5284427259553511
+306,leisure_*,Ponta Negra,93,Sul,11.27862552667373,8.24568559174669
+307,leisure_*,Potengi,31,Norte,6.52548282021391,4.750606331223747
+308,leisure_*,Praia do Meio,6,Leste,0.39912132497084085,15.033022854487543
+309,leisure_*,Quintas,1,Oeste,2.027817307910962,0.4931410714854735
+310,leisure_*,Redinha,8,Norte,7.170319431390413,1.1157104054496358
+311,leisure_*,Ribeira,13,Leste,0.7701308835145091,16.88024760242599
+312,leisure_*,Rocas,3,Leste,0.5386164473659117,5.56982619946237
+313,leisure_*,Santos Reis,3,Leste,1.8120202788320696,1.6556106104583102
+314,leisure_*,Tirol,86,Leste,2.9377194954885093,29.274408306195067
+315,shop_mall,Alecrim,1,Leste,2.8126630564480646,0.3555349431946666
+316,shop_mall,Areia Preta,0,Leste,0.2624931585903798,0.0
+317,shop_mall,Barro Vermelho,1,Leste,0.773459952408173,1.2928917610879438
+318,shop_mall,Bom Pastor,0,Oeste,2.8237542657802215,0.0
+319,shop_mall,Candelária,5,Sul,6.213090490268191,0.8047524831372885
+320,shop_mall,Capim Macio,18,Sul,3.536322749587128,5.090033143072569
+321,shop_mall,Cidade Alta,4,Leste,0.9498325820890022,4.211268465020068
+322,shop_mall,Cidade Nova,0,Oeste,2.138739680894446,0.0
+323,shop_mall,Cidade da Esperança,0,Oeste,1.4921251057655043,0.0
+324,shop_mall,Dix-Sept Rosado,0,Oeste,0.8945426611849765,0.0
+325,shop_mall,Felipe Camarão,0,Oeste,5.422818204774316,0.0
+326,shop_mall,Guarapes,0,Oeste,6.981796408221646,0.0
+327,shop_mall,Igapó,0,Norte,1.7961583449065368,0.0
+328,shop_mall,Lagoa Azul,0,Norte,9.523752054212096,0.0
+329,shop_mall,Lagoa Nova,6,Sul,6.264427860715066,0.9577889846296542
+330,shop_mall,Lagoa Seca,1,Leste,0.49847829810883376,2.006105388727812
+331,shop_mall,Mãe Luiza,0,Leste,0.7808093519276514,0.0
+332,shop_mall,N. S. Apresentação,0,Norte,8.359996458807668,0.0
+333,shop_mall,N. Sra. do Nazaré,0,Oeste,1.174982498465845,0.0
+334,shop_mall,Neópolis,4,Sul,2.6287055158952892,1.5216615082262925
+335,shop_mall,Nova Descoberta,0,Sul,1.2959380067857247,0.0
+336,shop_mall,Pajuçara,0,Norte,6.250138148913146,0.0
+337,shop_mall,Parque das Dunas,0,Sul,9.824446055169469,0.0
+338,shop_mall,Petropólis,1,Leste,0.6399234277218987,1.5626869664077767
+339,shop_mall,Pitimbu,1,Sul,6.075760421672488,0.1645884515842591
+340,shop_mall,Planalto,0,Oeste,3.7847053271180475,0.0
+341,shop_mall,Ponta Negra,1,Sul,11.27862552667373,0.0886632859327601
+342,shop_mall,Potengi,2,Norte,6.52548282021391,0.3064907310466934
+343,shop_mall,Praia do Meio,0,Leste,0.39912132497084085,0.0
+344,shop_mall,Quintas,0,Oeste,2.027817307910962,0.0
+345,shop_mall,Redinha,0,Norte,7.170319431390413,0.0
+346,shop_mall,Ribeira,0,Leste,0.7701308835145091,0.0
+347,shop_mall,Rocas,0,Leste,0.5386164473659117,0.0
+348,shop_mall,Santos Reis,0,Leste,1.8120202788320696,0.0
+349,shop_mall,Tirol,2,Leste,2.9377194954885093,0.6808001931673272
+350,shop_supermarket,Alecrim,3,Leste,2.8126630564480646,1.0666048295839998
+351,shop_supermarket,Areia Preta,0,Leste,0.2624931585903798,0.0
+352,shop_supermarket,Barro Vermelho,1,Leste,0.773459952408173,1.2928917610879438
+353,shop_supermarket,Bom Pastor,1,Oeste,2.8237542657802215,0.3541384645677352
+354,shop_supermarket,Candelária,2,Sul,6.213090490268191,0.32190099325491545
+355,shop_supermarket,Capim Macio,4,Sul,3.536322749587128,1.1311184762383488
+356,shop_supermarket,Cidade Alta,0,Leste,0.9498325820890022,0.0
+357,shop_supermarket,Cidade Nova,0,Oeste,2.138739680894446,0.0
+358,shop_supermarket,Cidade da Esperança,2,Oeste,1.4921251057655043,1.340370182280353
+359,shop_supermarket,Dix-Sept Rosado,0,Oeste,0.8945426611849765,0.0
+360,shop_supermarket,Felipe Camarão,2,Oeste,5.422818204774316,0.36881192112233735
+361,shop_supermarket,Guarapes,0,Oeste,6.981796408221646,0.0
+362,shop_supermarket,Igapó,1,Norte,1.7961583449065368,0.5567437875595734
+363,shop_supermarket,Lagoa Azul,0,Norte,9.523752054212096,0.0
+364,shop_supermarket,Lagoa Nova,2,Sul,6.264427860715066,0.3192629948765514
+365,shop_supermarket,Lagoa Seca,0,Leste,0.49847829810883376,0.0
+366,shop_supermarket,Mãe Luiza,0,Leste,0.7808093519276514,0.0
+367,shop_supermarket,N. S. Apresentação,0,Norte,8.359996458807668,0.0
+368,shop_supermarket,N. Sra. do Nazaré,0,Oeste,1.174982498465845,0.0
+369,shop_supermarket,Neópolis,2,Sul,2.6287055158952892,0.7608307541131463
+370,shop_supermarket,Nova Descoberta,1,Sul,1.2959380067857247,0.7716418491963742
+371,shop_supermarket,Pajuçara,2,Norte,6.250138148913146,0.31999292693198883
+372,shop_supermarket,Parque das Dunas,0,Sul,9.824446055169469,0.0
+373,shop_supermarket,Petropólis,1,Leste,0.6399234277218987,1.5626869664077767
+374,shop_supermarket,Pitimbu,4,Sul,6.075760421672488,0.6583538063370364
+375,shop_supermarket,Planalto,1,Oeste,3.7847053271180475,0.26422136297767557
+376,shop_supermarket,Ponta Negra,2,Sul,11.27862552667373,0.1773265718655202
+377,shop_supermarket,Potengi,3,Norte,6.52548282021391,0.4597360965700401
+378,shop_supermarket,Praia do Meio,0,Leste,0.39912132497084085,0.0
+379,shop_supermarket,Quintas,1,Oeste,2.027817307910962,0.4931410714854735
+380,shop_supermarket,Redinha,0,Norte,7.170319431390413,0.0
+381,shop_supermarket,Ribeira,0,Leste,0.7701308835145091,0.0
+382,shop_supermarket,Rocas,0,Leste,0.5386164473659117,0.0
+383,shop_supermarket,Santos Reis,0,Leste,1.8120202788320696,0.0
+384,shop_supermarket,Tirol,1,Leste,2.9377194954885093,0.3404000965836636
+385,tourism_*,Alecrim,2,Leste,2.8126630564480646,0.7110698863893332
+386,tourism_*,Areia Preta,3,Leste,0.2624931585903798,11.428869293624127
+387,tourism_*,Barro Vermelho,0,Leste,0.773459952408173,0.0
+388,tourism_*,Bom Pastor,0,Oeste,2.8237542657802215,0.0
+389,tourism_*,Candelária,9,Sul,6.213090490268191,1.4485544696471193
+390,tourism_*,Capim Macio,6,Sul,3.536322749587128,1.6966777143575231
+391,tourism_*,Cidade Alta,6,Leste,0.9498325820890022,6.316902697530102
+392,tourism_*,Cidade Nova,0,Oeste,2.138739680894446,0.0
+393,tourism_*,Cidade da Esperança,2,Oeste,1.4921251057655043,1.340370182280353
+394,tourism_*,Dix-Sept Rosado,0,Oeste,0.8945426611849765,0.0
+395,tourism_*,Felipe Camarão,0,Oeste,5.422818204774316,0.0
+396,tourism_*,Guarapes,0,Oeste,6.981796408221646,0.0
+397,tourism_*,Igapó,0,Norte,1.7961583449065368,0.0
+398,tourism_*,Lagoa Azul,0,Norte,9.523752054212096,0.0
+399,tourism_*,Lagoa Nova,7,Sul,6.264427860715066,1.1174204820679299
+400,tourism_*,Lagoa Seca,0,Leste,0.49847829810883376,0.0
+401,tourism_*,Mãe Luiza,1,Leste,0.7808093519276514,1.280722365237063
+402,tourism_*,N. S. Apresentação,0,Norte,8.359996458807668,0.0
+403,tourism_*,N. Sra. do Nazaré,0,Oeste,1.174982498465845,0.0
+404,tourism_*,Neópolis,3,Sul,2.6287055158952892,1.1412461311697193
+405,tourism_*,Nova Descoberta,0,Sul,1.2959380067857247,0.0
+406,tourism_*,Pajuçara,1,Norte,6.250138148913146,0.15999646346599442
+407,tourism_*,Parque das Dunas,11,Sul,9.824446055169469,1.119656002814731
+408,tourism_*,Petropólis,2,Leste,0.6399234277218987,3.1253739328155534
+409,tourism_*,Pitimbu,0,Sul,6.075760421672488,0.0
+410,tourism_*,Planalto,0,Oeste,3.7847053271180475,0.0
+411,tourism_*,Ponta Negra,100,Sul,11.27862552667373,8.86632859327601
+412,tourism_*,Potengi,1,Norte,6.52548282021391,0.1532453655233467
+413,tourism_*,Praia do Meio,4,Leste,0.39912132497084085,10.022015236325029
+414,tourism_*,Quintas,0,Oeste,2.027817307910962,0.0
+415,tourism_*,Redinha,1,Norte,7.170319431390413,0.13946380068120448
+416,tourism_*,Ribeira,1,Leste,0.7701308835145091,1.2984805848019991
+417,tourism_*,Rocas,0,Leste,0.5386164473659117,0.0
+418,tourism_*,Santos Reis,2,Leste,1.8120202788320696,1.1037404069722068
+419,tourism_*,Tirol,3,Leste,2.9377194954885093,1.0212002897509906
